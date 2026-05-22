@@ -1,0 +1,4 @@
+# Block script execution inside uploads (defense-in-depth).
+<FilesMatch "(?i)\\.(php|phtml|phar)$">
+    Require all denied
+</FilesMatch>

@@ -1,0 +1,203 @@
+/**
+ * @file assets/css/components.css
+ * @brief Reusable UI: toasts, page loader, empty states, stat cards, chat shell, warden theme.
+ * Loaded on dashboard pages via includes/layout/header.php (after style.css).
+ */
+
+/* Reusable UI components: toasts, empty states, chat, loaders */
+
+/* —— Toast notifications —— */
+#hostel-toast-root{
+  position:fixed;
+  top:1rem;
+  right:1rem;
+  z-index:9999;
+  display:flex;
+  flex-direction:column;
+  gap:.65rem;
+  max-width:min(380px, calc(100vw - 2rem));
+  pointer-events:none;
+}
+.hostel-toast{
+  pointer-events:auto;
+  display:flex;
+  align-items:flex-start;
+  gap:.75rem;
+  padding:.85rem 1rem;
+  border-radius:14px;
+  background:#fff;
+  border:1px solid rgba(15,23,42,.08);
+  box-shadow:0 12px 40px rgba(15,23,42,.12);
+  font-family:var(--dash-font, system-ui, sans-serif);
+  font-size:14px;
+  font-weight:600;
+  color:#0f172a;
+  animation:toast-in .35s cubic-bezier(.22,1,.36,1);
+}
+.hostel-toast.is-out{ animation:toast-out .25s ease forwards; }
+.hostel-toast-icon{
+  width:28px;height:28px;border-radius:8px;
+  display:grid;place-items:center;flex-shrink:0;font-size:14px;
+}
+.hostel-toast-success .hostel-toast-icon{ background:rgba(34,197,94,.15); color:#15803d; }
+.hostel-toast-danger .hostel-toast-icon{ background:rgba(239,68,68,.12); color:#b91c1c; }
+.hostel-toast-warning .hostel-toast-icon{ background:rgba(245,158,11,.15); color:#b45309; }
+.hostel-toast-info .hostel-toast-icon{ background:rgba(59,130,246,.12); color:#1d4ed8; }
+.hostel-toast-close{
+  margin-left:auto;background:transparent;border:0;
+  color:#94a3b8;cursor:pointer;padding:0;line-height:1;font-size:18px;
+}
+@keyframes toast-in{
+  from{ opacity:0; transform:translateX(12px) scale(.96); }
+  to{ opacity:1; transform:none; }
+}
+@keyframes toast-out{
+  to{ opacity:0; transform:translateX(8px); }
+}
+
+/* —— Page loader overlay —— */
+.hostel-page-loader{
+  position:fixed;inset:0;z-index:10000;
+  background:rgba(255,255,255,.72);
+  backdrop-filter:blur(4px);
+  display:flex;align-items:center;justify-content:center;
+  opacity:0;visibility:hidden;transition:opacity .2s, visibility .2s;
+}
+.hostel-page-loader.is-active{ opacity:1;visibility:visible; }
+.hostel-spinner{
+  width:42px;height:42px;border-radius:50%;
+  border:3px solid rgba(27,94,32,.15);
+  border-top-color:var(--dark,#1B5E20);
+  animation:spin .7s linear infinite;
+}
+@keyframes spin{ to{ transform:rotate(360deg); } }
+
+/* —— Empty state —— */
+.hostel-empty{
+  text-align:center;padding:2.5rem 1.5rem;
+  color:var(--text-muted,#6b7280);
+}
+.hostel-empty-icon{
+  width:56px;height:56px;margin:0 auto 1rem;
+  border-radius:16px;
+  background:rgba(27,94,32,.08);
+  color:var(--dark,#1B5E20);
+  display:grid;place-items:center;font-size:1.5rem;
+}
+.hostel-empty-title{
+  font-weight:800;color:var(--text,#0f172a);margin-bottom:.35rem;
+}
+.hostel-empty-desc{ font-size:14px;font-weight:600;max-width:320px;margin:0 auto; }
+
+/* —— Stat card (shared) —— */
+.hostel-stat-card{
+  border-radius:18px;padding:1.25rem 1.35rem;
+  background:var(--dash-surface,#fff);
+  border:1px solid var(--dash-border,rgba(15,23,42,.08));
+  box-shadow:var(--dash-shadow);
+  height:100%;
+  transition:transform .2s, box-shadow .2s;
+}
+.hostel-stat-card:hover{
+  transform:translateY(-2px);
+  box-shadow:0 8px 32px rgba(15,118,110,.1);
+}
+.hostel-stat-card .stat-icon{
+  width:44px;height:44px;border-radius:12px;
+  display:grid;place-items:center;margin-bottom:.75rem;
+  font-size:1.2rem;
+}
+.hostel-stat-card .stat-value{
+  font-size:1.75rem;font-weight:800;line-height:1.1;
+  color:var(--text,#0f172a);
+}
+.hostel-stat-card .stat-label{
+  font-size:13px;font-weight:700;color:var(--text-muted);
+  margin-top:.25rem;
+}
+.hostel-stat-card .stat-trend{
+  font-size:12px;font-weight:700;margin-top:.5rem;
+}
+.stat-trend-up{ color:#15803d; }
+.stat-trend-down{ color:#b91c1c; }
+
+/* —— AI Chat UI —— */
+.chat-shell{
+  display:flex;flex-direction:column;
+  min-height:420px;border-radius:18px;
+  border:1px solid var(--dash-border);
+  background:#fff;overflow:hidden;
+  box-shadow:var(--dash-shadow);
+}
+.chat-shell-header{
+  padding:1rem 1.25rem;
+  background:linear-gradient(135deg,#1B5E20 0%,#2E7D32 55%,#43A047 100%);
+  color:#fff;
+}
+.chat-shell-header h3{
+  margin:0;font-size:1.05rem;font-weight:800;
+}
+.chat-shell-header p{
+  margin:.25rem 0 0;font-size:12px;opacity:.88;font-weight:600;
+}
+.chat-log{
+  flex:1;overflow-y:auto;max-height:380px;
+  padding:1rem 1.15rem;background:#f8faf9;
+}
+.chat-bubble{
+  max-width:88%;padding:.7rem 1rem;border-radius:16px;
+  font-size:14px;line-height:1.55;font-weight:600;
+  margin-bottom:.65rem;
+}
+.chat-bubble-user{
+  margin-left:auto;
+  background:linear-gradient(135deg,#1B5E20,#388E3C);
+  color:#fff;border-bottom-right-radius:4px;
+}
+.chat-bubble-bot{
+  background:#fff;border:1px solid rgba(15,23,42,.08);
+  color:#0f172a;border-bottom-left-radius:4px;
+}
+.chat-bubble-meta{
+  font-size:11px;font-weight:800;text-transform:uppercase;
+  letter-spacing:.04em;margin-bottom:.25rem;opacity:.7;
+}
+.chat-input-row{
+  display:flex;gap:.5rem;padding:.85rem 1rem;
+  border-top:1px solid rgba(15,23,42,.06);background:#fff;
+}
+.chat-typing{
+  font-size:12px;font-weight:700;color:var(--text-muted);
+  padding:0 1rem .5rem;display:none;
+}
+.chat-typing.is-visible{ display:block; }
+.chat-quick-chip{
+  border-radius:999px;font-size:12px;font-weight:800;
+  padding:.35rem .85rem;
+}
+
+/* —— Warden dashboard shell —— */
+.warden-shell-ref .dash-sidebar-pro{
+  --sidebar-accent:#1565C0;
+}
+.warden-shell-ref .dash-stat-modern.dash-stat-warden .dash-stat-icon{
+  background:rgba(21,101,192,.12);
+  color:#1565C0;
+}
+
+/* —— Skeleton loading —— */
+.hostel-skeleton{
+  background:linear-gradient(90deg,#f0f0f0 25%,#e8e8e8 50%,#f0f0f0 75%);
+  background-size:200% 100%;
+  animation:shimmer 1.2s infinite;
+  border-radius:8px;
+}
+@keyframes shimmer{
+  0%{ background-position:200% 0; }
+  100%{ background-position:-200% 0; }
+}
+
+@media (max-width:768px){
+  #hostel-toast-root{ left:1rem; right:1rem; }
+  .chat-log{ max-height:300px; }
+}

@@ -1,0 +1,25 @@
+# Local secrets
+config/env.php
+
+# Uploads (user-generated)
+uploads/student_avatars/*
+!uploads/student_avatars/.gitkeep
+!uploads/.htaccess
+
+# OS / IDE
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Python
+ai_service/__pycache__/
+ai_service/.venv/
+ai_service/venv/
+*.pyc
+.env
+
+# Logs
+*.log
