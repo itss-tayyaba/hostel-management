@@ -1,0 +1,638 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>UAF Hostel Management System — Modern Portal</title>
+    <meta name="description" content="Modern hostel management for UAF students: room allotment, fee payments, complaints, and transparent notices." />
+    <meta name="keywords" content="UAF hostel management, hostel portal, room allotment, hostel fees, complaints, Faisalabad" />
+
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=Poppins:wght@500;600;700&display=swap" rel="stylesheet" />
+
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="assets/css/landing.css" />
+
+    <link rel="icon" href="https://web.uaf.edu.pk/MainSite/img/logo.png" />
+    <script>
+      // Lightweight privacy-friendly: prevent inline font swap flash
+      document.documentElement.classList.add('fonts-loaded');
+    </script>
+</head>
+<body class="lp-body">
+
+<a class="lp-skip" href="#lp-main">Skip to content</a>
+
+
+
+<!-- Header / Navbar -->
+<header class="lp-header">
+    <nav class="navbar navbar-expand-lg lp-navbar">
+        <div class="container">
+            <a href="index.html" class="lp-logo d-flex align-items-center text-decoration-none">
+                <img
+                    src="assets/images/download.jpg"
+                    alt="UAF Logo"
+                    class="lp-logo-img"
+                    onerror="this.style.display='none'"
+                />
+                <div class="lp-logo-text">
+                    <div class="lp-logo-uni">University of Agriculture Faisalabad</div>
+                    <div class="lp-logo-portal">Hostel Management System</div>
+                </div>
+            </a>
+
+            <button
+                class="navbar-toggler lp-navbar-toggler"
+                type="button"
+                data-bs-toggle="collapse"
+                data-bs-target="#lpNav"
+                aria-controls="lpNav"
+                aria-expanded="false"
+                aria-label="Toggle navigation"
+            >
+                <span class="navbar-toggler-icon"></span>
+            </button>
+
+            <div class="collapse navbar-collapse" id="lpNav">
+                <ul class="navbar-nav ms-auto gap-lg-2 gap-md-1 lp-navlist">
+                    <li class="nav-item">
+                        <a class="nav-link lp-navlink" href="index.html">Home</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link lp-navlink" href="index.html#hostels">Hostels</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link lp-navlink" href="index.html#features">Features</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link lp-navlink" href="notices.php">Notices</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link lp-navlink" href="index.html#contact">Contact</a>
+                    </li>
+                </ul>
+
+                <div class="lp-actions d-flex align-items-center gap-2 ms-lg-3">
+                    <a href="login.php" class="btn lp-btn-outline">Student Login</a>
+                    <a href="login.php" class="btn lp-btn-primary">Apply Now</a>
+                </div>
+            </div>
+        </div>
+    </nav>
+</header>
+
+<main id="lp-main">
+    <!-- Hero -->
+    <section class="lp-hero">
+        <div class="container">
+            <div class="row align-items-center g-4">
+                <div class="col-lg-7">
+                    <div class="lp-hero-breadcrumb reveal">
+                        <span class="lp-pill">Secure • Transparent • Student-Centered</span>
+                    </div>
+
+                    <h1 class="lp-hero-title reveal">
+                        Modern Hostel Management for UAF Students
+                    </h1>
+                    <p class="lp-hero-subtitle reveal delay-1">
+                        Manage room allotment, fee payments, complaints, and notices from one unified student portal.
+                        Designed for speed, clarity, and reliable administration.
+                    </p>
+
+                    <div class="lp-hero-buttons reveal delay-2">
+                        <a href="login.php" class="btn lp-btn-primary lp-btn-lg">Apply for Room</a>
+                        <a href="index.html#hostels" class="btn lp-btn-soft lp-btn-lg">Explore Hostels</a>
+                    </div>
+
+                    <div class="lp-trust reveal delay-3">
+                        <div class="lp-trust-item">
+                            <span class="lp-trust-icon" aria-hidden="true">🛡️</span>
+                            <div>
+                                <div class="lp-trust-title">Verified Access</div>
+                                <div class="lp-trust-text">Role-based portal</div>
+                            </div>
+                        </div>
+                        <div class="lp-trust-item">
+                            <span class="lp-trust-icon" aria-hidden="true">🔒</span>
+                            <div>
+                                <div class="lp-trust-title">Secure Process</div>
+                                <div class="lp-trust-text">Prepared statements + validation</div>
+                            </div>
+                        </div>
+                        <div class="lp-trust-item">
+                            <span class="lp-trust-icon" aria-hidden="true">📅</span>
+                            <div>
+                                <div class="lp-trust-title">Deadline Notices</div>
+                                <div class="lp-trust-text">Timely updates</div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-lg-5">
+                    <div class="lp-hero-card reveal">
+                        <div class="lp-hero-card-top">
+                            <div class="lp-hero-card-badge">UAF Portal</div>
+                            <div class="lp-hero-card-sub">Government-grade student experience</div>
+                        </div>
+                        <div class="lp-hero-illustration" aria-hidden="true">
+                            <!-- Simple inline SVG illustration -->
+                            <svg viewBox="0 0 520 400" width="100%" height="auto" role="img" aria-label="Hostel illustration">
+                                <defs>
+                                    <linearGradient id="g1" x1="0" x2="1" y1="0" y2="1">
+                                        <stop offset="0" stop-color="#1B5E20" stop-opacity="0.95"/>
+                                        <stop offset="1" stop-color="#4CAF50" stop-opacity="0.95"/>
+                                    </linearGradient>
+                                    <linearGradient id="g2" x1="0" x2="0" y1="0" y2="1">
+                                        <stop offset="0" stop-color="#0B1F3A" stop-opacity="0.95"/>
+                                        <stop offset="1" stop-color="#0B1F3A" stop-opacity="0.7"/>
+                                    </linearGradient>
+                                </defs>
+                                <rect x="0" y="0" width="520" height="400" rx="24" fill="#F3FFF4"/>
+                                <path d="M90 260 L90 150 Q90 120 120 120 H200 Q230 120 230 150 V260 Z" fill="url(#g2)" opacity="0.95"/>
+                                <path d="M250 260 L250 120 Q250 90 280 90 H380 Q410 90 410 120 V260 Z" fill="url(#g2)" opacity="0.92"/>
+                                <path d="M80 165 L120 110 Q130 95 150 95 H210 Q230 95 240 110 L280 165 Z" fill="url(#g1)" opacity="0.95"/>
+                                <path d="M240 145 L280 90 Q290 75 310 75 H370 Q390 75 400 90 L440 145 Z" fill="url(#g1)" opacity="0.92"/>
+
+                                <!-- windows -->
+                                <g opacity="0.95" fill="#ffffff">
+                                    <rect x="110" y="170" width="18" height="22" rx="4"/>
+                                    <rect x="145" y="170" width="18" height="22" rx="4"/>
+                                    <rect x="180" y="170" width="18" height="22" rx="4"/>
+
+                                    <rect x="110" y="210" width="18" height="22" rx="4"/>
+                                    <rect x="145" y="210" width="18" height="22" rx="4"/>
+                                    <rect x="180" y="210" width="18" height="22" rx="4"/>
+
+                                    <rect x="270" y="150" width="18" height="22" rx="4"/>
+                                    <rect x="305" y="150" width="18" height="22" rx="4"/>
+                                    <rect x="340" y="150" width="18" height="22" rx="4"/>
+                                    <rect x="270" y="205" width="18" height="22" rx="4"/>
+                                    <rect x="305" y="205" width="18" height="22" rx="4"/>
+                                    <rect x="340" y="205" width="18" height="22" rx="4"/>
+                                </g>
+
+                                <!-- door -->
+                                <rect x="160" y="260" width="44" height="75" rx="12" fill="#ffffff"/>
+                                <rect x="170" y="272" width="24" height="14" rx="6" fill="#4CAF50"/>
+
+                                <!-- floating badges -->
+                                <g>
+                                    <circle cx="420" cy="60" r="16" fill="#4CAF50" opacity="0.18"/>
+                                    <circle cx="420" cy="60" r="9" fill="#1B5E20" opacity="0.95"/>
+                                    <rect x="330" y="290" width="160" height="64" rx="18" fill="#ffffff" opacity="0.92"/>
+                                    <rect x="352" y="314" width="112" height="10" rx="5" fill="#0B1F3A" opacity="0.12"/>
+                                    <rect x="352" y="332" width="80" height="10" rx="5" fill="#1B5E20" opacity="0.22"/>
+                                </g>
+                            </svg>
+                        </div>
+
+                        <div class="lp-hero-card-metrics">
+                            <div class="lp-metric">
+                                <div class="lp-metric-num" data-counter data-to="24" data-suffix="/7">0</div>
+                                <div class="lp-metric-label">Security</div>
+                            </div>
+                            <div class="lp-metric">
+                                <div class="lp-metric-num" data-counter data-to="100" data-suffix="%">0</div>
+                                <div class="lp-metric-label">Online Process</div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Stats -->
+    <section class="lp-section" id="lp-stats">
+        <div class="container">
+            <div class="lp-section-head text-center reveal">
+                <div class="lp-section-kicker">Trusted by UAF Students</div>
+                <h2 class="lp-section-title">Portal at a Glance</h2>
+                <p class="lp-section-subtitle">A single dashboard for hostel life — from admission to daily administration.</p>
+            </div>
+
+            <div class="lp-grid-4">
+                <div class="lp-icon-card reveal">
+                    <div class="lp-icon">🏢</div>
+                    <div class="lp-counter-num">
+                        <span data-counter data-to="12" data-suffix="+">0</span>
+                    </div>
+                    <div class="lp-counter-label">Hostels</div>
+                </div>
+                <div class="lp-icon-card reveal delay-1">
+                    <div class="lp-icon">🎓</div>
+                    <div class="lp-counter-num">
+                        <span data-counter data-to="3000" data-suffix="+">0</span>
+                    </div>
+                    <div class="lp-counter-label">Students</div>
+                </div>
+                <div class="lp-icon-card reveal delay-2">
+                    <div class="lp-icon">🔒</div>
+                    <div class="lp-counter-num">
+                        <span data-counter data-to="24" data-suffix="/7">0</span>
+                    </div>
+                    <div class="lp-counter-label">Security</div>
+                </div>
+                <div class="lp-icon-card reveal delay-3">
+                    <div class="lp-icon">🌐</div>
+                    <div class="lp-counter-num">
+                        <span data-counter data-to="100" data-suffix="%">0</span>
+                    </div>
+                    <div class="lp-counter-label">Online Process</div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Hostels -->
+    <section class="lp-section lp-section-muted" id="hostels">
+        <div class="container">
+            <div class="lp-section-head reveal">
+                <div class="lp-section-kicker">Accommodation</div>
+                <h2 class="lp-section-title">Available Hostel Blocks</h2>
+                <p class="lp-section-subtitle">
+                    Select your preferences and apply. Hostels are managed with a clear approval workflow.
+                </p>
+            </div>
+
+            <div class="row g-4">
+                <div class="col-md-4">
+                    <article class="lp-feature-card reveal">
+                        <div class="lp-feature-top">
+                            <div class="lp-feature-icon">🏢</div>
+                            <div class="lp-feature-tag lp-tag-green">Boys</div>
+                        </div>
+                        <h3 class="lp-feature-title">Iqbal Hostel (Block A)</h3>
+                        <p class="lp-feature-desc">Triple sharing • Wi‑Fi available • 24/7 warden on duty.</p>
+                        <ul class="lp-list">
+                            <li>Common room + laundry area</li>
+                            <li>Strict access control</li>
+                        </ul>
+                        <div class="lp-feature-foot">
+                            <div class="lp-price">Fee: <strong>PKR 8,000/sem</strong></div>
+                            <a href="login.php" class="lp-link">Apply Now →</a>
+                        </div>
+                    </article>
+                </div>
+
+                <div class="col-md-4">
+                    <article class="lp-feature-card reveal delay-1">
+                        <div class="lp-feature-top">
+                            <div class="lp-feature-icon">🏢</div>
+                            <div class="lp-feature-tag lp-tag-purple">Girls</div>
+                        </div>
+                        <h3 class="lp-feature-title">Fatima Hostel (Block B)</h3>
+                        <p class="lp-feature-desc">Double sharing • CCTV coverage • Study hall facilities.</p>
+                        <ul class="lp-list">
+                            <li>Female warden support</li>
+                            <li>Prayer room on premises</li>
+                        </ul>
+                        <div class="lp-feature-foot">
+                            <div class="lp-price">Fee: <strong>PKR 9,000/sem</strong></div>
+                            <a href="login.php" class="lp-link">Apply Now →</a>
+                        </div>
+                    </article>
+                </div>
+
+                <div class="col-md-4">
+                    <article class="lp-feature-card reveal delay-2">
+                        <div class="lp-feature-top">
+                            <div class="lp-feature-icon">🏢</div>
+                            <div class="lp-feature-tag lp-tag-blue">Boys</div>
+                        </div>
+                        <h3 class="lp-feature-title">Jinnah Hostel (Block C)</h3>
+                        <p class="lp-feature-desc">Single occupancy • Premium rooms for senior students.</p>
+                        <ul class="lp-list">
+                            <li>Attached washroom</li>
+                            <li>Study desk included</li>
+                        </ul>
+                        <div class="lp-feature-foot">
+                            <div class="lp-price">Fee: <strong>PKR 14,000/sem</strong></div>
+                            <a href="login.php" class="lp-link">Apply Now →</a>
+                        </div>
+                    </article>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Features -->
+    <section class="lp-section" id="features">
+        <div class="container">
+            <div class="lp-section-head text-center reveal">
+                <div class="lp-section-kicker">Student Experience</div>
+                <h2 class="lp-section-title">Everything You Need</h2>
+                <p class="lp-section-subtitle">A modern portal for hostel operations—fast, secure, and transparent.</p>
+            </div>
+
+            <div class="lp-grid-3">
+                <div class="lp-card reveal">
+                    <div class="lp-card-icon">🏠</div>
+                    <h3>Room Allotment</h3>
+                    <p>Apply for a hostel room and track the admin approval status with clear badges.</p>
+                    <a href="student/apply.php" class="lp-card-link">Go to Apply →</a>
+                </div>
+                <div class="lp-card reveal delay-1">
+                    <div class="lp-card-icon">💳</div>
+                    <h3>Fee Payment</h3>
+                    <p>View your payment history and keep your hostel fee records organized.</p>
+                    <a href="student/payments.php" class="lp-card-link">View Payments →</a>
+                </div>
+                <div class="lp-card reveal delay-2">
+                    <div class="lp-card-icon">🔧</div>
+                    <h3>Complaint System</h3>
+                    <p>Report room maintenance issues and get updates until resolved.</p>
+                    <a href="student/complaints.php" class="lp-card-link">Submit Complaint →</a>
+                </div>
+                <div class="lp-card reveal delay-3">
+                    <div class="lp-card-icon">📜</div>
+                    <h3>Notices & Rules</h3>
+                    <p>Stay updated with deadlines, hostel rules, and warden announcements.</p>
+                    <a href="notices.php" class="lp-card-link">View Notices →</a>
+                </div>
+                <div class="lp-card reveal">
+                    <div class="lp-card-icon">🔁</div>
+                    <h3>Hostel Transfers</h3>
+                    <p>Request a room or hostel change with a transparent pending/approved flow.</p>
+                    <a href="student/room_change.php" class="lp-card-link">Request Transfer →</a>
+                </div>
+                <div class="lp-card reveal delay-1">
+                    <div class="lp-card-icon">📊</div>
+                    <h3>Student Dashboard</h3>
+                    <p>One place for your allocation status, payments, complaints, and history.</p>
+                    <a href="student/dashboard.php" class="lp-card-link">Open Dashboard →</a>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Why Choose Us -->
+    <section class="lp-section lp-section-muted" id="why">
+        <div class="container">
+            <div class="lp-section-head reveal">
+                <div class="lp-section-kicker">Why Choose Us</div>
+                <h2 class="lp-section-title">Designed for Trust & Efficiency</h2>
+                <p class="lp-section-subtitle">
+                    A production-ready workflow for hostel management—built around student needs and administration clarity.
+                </p>
+            </div>
+
+            <div class="row g-4">
+                <div class="col-md-6">
+                    <div class="lp-why-card reveal">
+                        <div class="lp-why-icon">🛡️</div>
+                        <h3>Secure by Design</h3>
+                        <p>Prepared statements, session management, and validation for safe operations.</p>
+                    </div>
+                </div>
+                <div class="col-md-6">
+                    <div class="lp-why-card reveal delay-1">
+                        <div class="lp-why-icon">⚡</div>
+                        <h3>Fast Allotment</h3>
+                        <p>Students can apply easily and track decisions with status badges.</p>
+                    </div>
+                </div>
+                <div class="col-md-6">
+                    <div class="lp-why-card reveal delay-2">
+                        <div class="lp-why-icon">🔍</div>
+                        <h3>Transparent Process</h3>
+                        <p>Pending → Approved/Rejected, plus history so nothing feels unclear.</p>
+                    </div>
+                </div>
+                <div class="col-md-6">
+                    <div class="lp-why-card reveal delay-3">
+                        <div class="lp-why-icon">📣</div>
+                        <h3>Easy Complaint Tracking</h3>
+                        <p>Submit issues, view progress, and keep hostel life organized.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Notices -->
+    <section class="lp-section" id="notices">
+        <div class="container">
+            <div class="lp-section-head reveal">
+                <div class="lp-section-kicker">Announcements</div>
+                <h2 class="lp-section-title">Notices & Deadlines</h2>
+                <p class="lp-section-subtitle">Clear announcements so students never miss important dates.</p>
+            </div>
+
+            <div class="row g-4">
+                <div class="col-lg-6">
+                    <article class="lp-notice-card reveal">
+                        <div class="lp-notice-top">
+                            <span class="lp-badge lp-badge-danger">Urgent</span>
+                            <span class="lp-notice-date">12 Oct 2026</span>
+                        </div>
+                        <h3>⚠ Water Supply Maintenance</h3>
+                        <p>Temporary suspension from <strong>8:00 AM</strong> to <strong>2:00 PM</strong> on October 14th.</p>
+                    </article>
+                </div>
+                <div class="col-lg-6">
+                    <article class="lp-notice-card reveal delay-1">
+                        <div class="lp-notice-top">
+                            <span class="lp-badge lp-badge-warning">Fee</span>
+                            <span class="lp-notice-date">10 Oct 2026</span>
+                        </div>
+                        <h3>Hostel Fee Payment Deadline</h3>
+                        <p>All residents must pay by <strong>31st October 2026</strong>. Late fine may apply after the deadline.</p>
+                    </article>
+                </div>
+                <div class="col-lg-6">
+                    <article class="lp-notice-card reveal delay-2">
+                        <div class="lp-notice-top">
+                            <span class="lp-badge lp-badge-success">Allotment</span>
+                            <span class="lp-notice-date">05 Oct 2026</span>
+                        </div>
+                        <h3>Room Allotment Results Published</h3>
+                        <p>Log in to view your assigned hostel block and room number.</p>
+                    </article>
+                </div>
+                <div class="col-lg-6">
+                    <article class="lp-notice-card reveal delay-3">
+                        <div class="lp-notice-top">
+                            <span class="lp-badge lp-badge-info">Rules</span>
+                            <span class="lp-notice-date">01 Oct 2026</span>
+                        </div>
+                        <h3>Updated Hostel Rules & Regulations</h3>
+                        <p>All students must review and acknowledge the updated 2026 rules from the portal.</p>
+                    </article>
+                </div>
+            </div>
+
+            <div class="text-center mt-4 reveal">
+                <a href="notices.php" class="btn lp-btn-primary">Open Notices</a>
+            </div>
+        </div>
+    </section>
+
+    <!-- Testimonials -->
+    <section class="lp-section lp-section-muted" id="testimonials">
+        <div class="container">
+            <div class="lp-section-head text-center reveal">
+                <div class="lp-section-kicker">Student Voice</div>
+                <h2 class="lp-section-title">Testimonials</h2>
+                <p class="lp-section-subtitle">A few words from students about their hostel portal experience.</p>
+            </div>
+
+            <div class="lp-grid-3">
+                <div class="lp-testimonial lp-card reveal">
+                    <div class="lp-stars" aria-label="5 star rating">★★★★★</div>
+                    <p class="lp-testimonial-text">
+                        “The portal is easy to use. I submitted my application and could track the approval status without confusion.”
+                    </p>
+                    <div class="lp-testimonial-person">
+                        <div class="lp-avatar" aria-hidden="true">A</div>
+                        <div>
+                            <div class="lp-person-name">Ali R.</div>
+                            <div class="lp-person-meta">Boys Hostel Student</div>
+                        </div>
+                    </div>
+                </div>
+                <div class="lp-testimonial lp-card reveal delay-1">
+                    <div class="lp-stars" aria-label="5 star rating">★★★★★</div>
+                    <p class="lp-testimonial-text">
+                        “Complaints are handled transparently. Notifications make it simple to understand what’s pending.”
+                    </p>
+                    <div class="lp-testimonial-person">
+                        <div class="lp-avatar" aria-hidden="true">S</div>
+                        <div>
+                            <div class="lp-person-name">Sara K.</div>
+                            <div class="lp-person-meta">Girls Hostel Student</div>
+                        </div>
+                    </div>
+                </div>
+                <div class="lp-testimonial lp-card reveal delay-2">
+                    <div class="lp-stars" aria-label="5 star rating">★★★★★</div>
+                    <p class="lp-testimonial-text">
+                        “Payments history is in one place. The overall student experience feels professional and trustworthy.”
+                    </p>
+                    <div class="lp-testimonial-person">
+                        <div class="lp-avatar" aria-hidden="true">M</div>
+                        <div>
+                            <div class="lp-person-name">Muhammad W.</div>
+                            <div class="lp-person-meta">Senior Student</div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Contact -->
+    <section class="lp-section lp-footerless" id="contact">
+        <div class="container">
+            <div class="lp-section-head reveal">
+                <div class="lp-section-kicker">Support</div>
+                <h2 class="lp-section-title">Contact Warden Office</h2>
+                <p class="lp-section-subtitle">We are here to help students with hostel services and support.</p>
+            </div>
+
+            <div class="row g-4">
+                <div class="col-md-6 col-lg-3">
+                    <div class="lp-contact-card reveal">
+                        <div class="lp-contact-icon">📞</div>
+                        <div class="lp-contact-title">Phone</div>
+                        <div class="lp-contact-text">+92-41-9201045</div>
+                        <div class="lp-contact-text2">Mon–Sat, 9am–5pm</div>
+                    </div>
+                </div>
+                <div class="col-md-6 col-lg-3">
+                    <div class="lp-contact-card reveal delay-1">
+                        <div class="lp-contact-icon">📧</div>
+                        <div class="lp-contact-title">Email</div>
+                        <div class="lp-contact-text">hostel@uaf.edu.pk</div>
+                        <div class="lp-contact-text2">Reply within 48 hours</div>
+                    </div>
+                </div>
+                <div class="col-md-6 col-lg-3">
+                    <div class="lp-contact-card reveal delay-2">
+                        <div class="lp-contact-icon">📍</div>
+                        <div class="lp-contact-title">Location</div>
+                        <div class="lp-contact-text">UAF Main Campus</div>
+                        <div class="lp-contact-text2">Faisalabad, Punjab</div>
+                    </div>
+                </div>
+                <div class="col-md-6 col-lg-3">
+                    <div class="lp-contact-card reveal delay-3">
+                        <div class="lp-contact-icon">🕐</div>
+                        <div class="lp-contact-title">Office Hours</div>
+                        <div class="lp-contact-text">Mon–Fri: 9am–5pm</div>
+                        <div class="lp-contact-text2">Sat: 9am–1pm</div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+</main>
+
+<!-- Footer -->
+<footer class="lp-footer">
+    <div class="container">
+        <div class="lp-footer-grid">
+            <div class="lp-footer-brand reveal">
+                <div class="lp-footer-brand-row">
+                    <img
+                        src="https://web.uaf.edu.pk/MainSite/img/logo.png"
+                        alt="UAF Logo"
+                        class="lp-footer-logo"
+                        onerror="this.style.display='none'"
+                    />
+                    <div>
+                        <div class="lp-footer-title">UAF Hostel Portal</div>
+                        <div class="lp-footer-sub">Official university initiative</div>
+                    </div>
+                </div>
+                <p class="lp-footer-desc">
+                    A modern digital experience for hostel management at the University of Agriculture Faisalabad.
+                </p>
+                <div class="lp-footer-social">
+                    <a href="#" class="lp-social" aria-label="Facebook">f</a>
+                    <a href="#" class="lp-social" aria-label="Twitter">t</a>
+                    <a href="#" class="lp-social" aria-label="YouTube">▶</a>
+                    <a href="#" class="lp-social" aria-label="Instagram">⌁</a>
+                </div>
+            </div>
+
+            <div class="lp-footer-col reveal delay-1">
+                <div class="lp-footer-head">Quick Links</div>
+                <a href="index.html" class="lp-footer-link">Home</a>
+                <a href="index.html#hostels" class="lp-footer-link">Hostels</a>
+                <a href="notices.php" class="lp-footer-link">Notices</a>
+                <a href="login.php" class="lp-footer-link">Student Login</a>
+            </div>
+
+            <div class="lp-footer-col reveal delay-2">
+                <div class="lp-footer-head">Student Services</div>
+                <a href="student/apply.php" class="lp-footer-link">Apply for Room</a>
+                <a href="student/payments.php" class="lp-footer-link">Fee Payments</a>
+                <a href="student/complaints.php" class="lp-footer-link">Submit Complaint</a>
+                <a href="student/dashboard.php" class="lp-footer-link">My Dashboard</a>
+            </div>
+
+            <div class="lp-footer-col reveal delay-3">
+                <div class="lp-footer-head">University Links</div>
+                <a href="https://web.uaf.edu.pk" target="_blank" rel="noopener" class="lp-footer-link">UAF Website</a>
+                <a href="https://sis.uaf.edu.pk" target="_blank" rel="noopener" class="lp-footer-link">SIS Portal</a>
+                <a href="http://lms.uaf.edu.pk" target="_blank" rel="noopener" class="lp-footer-link">LMS Portal</a>
+            </div>
+        </div>
+
+        <div class="lp-footer-bottom reveal">
+            <div>© 2026 University of Agriculture Faisalabad. All rights reserved.</div>
+            <div>Developed for hostel management portal workflows.</div>
+        </div>
+    </div>
+</footer>
+
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
+<script src="assets/js/main.js"></script>
+</body>
+</html>
+
