@@ -23,3 +23,4 @@ ai_service/venv/
 
 # Logs
 *.log
+.vercel
