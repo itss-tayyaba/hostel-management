@@ -132,12 +132,18 @@ function hostel_recommend_engine_in_use(): string
  *     room_type:string
  * }>
  */
+/**
+ * Main recommendation entry point.
+ * Priority: Python KNN -> legacy PHP heuristic.
+ */
 function hostel_recommend_rooms_with_reasons(PDO $pdo, int $studentId): array
 {
+    // Try external KNN microservice first
     $remote = hostel_recommend_via_python($studentId);
     if (is_array($remote) && $remote !== []) {
         return $remote;
     }
+    // Legacy fallback
     return hostel_recommend_rooms_with_reasons_php($pdo, $studentId);
 }
 

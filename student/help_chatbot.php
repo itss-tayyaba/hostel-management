@@ -32,10 +32,15 @@ $studentContext = help_chatbot_student_context($pdo, (int)$_SESSION['user_id']);
             </button>
         </div>
         <div>
-            <div class="dash-page-kicker"><i class="bi bi-robot me-1"></i> AI-assisted FAQ</div>
+            <div class="dash-page-kicker"><i class="bi bi-robot me-1"></i> AI assistant</div>
             <div class="title mb-0"><?php echo e($pageTitle); ?></div>
         </div>
     </div>
+    <?php if (help_chatbot_uses_llm()): ?>
+        <span class="badge bg-success">Claude AI</span>
+    <?php else: ?>
+        <span class="badge bg-secondary">FAQ mode</span>
+    <?php endif; ?>
 </div>
 
 <div class="dash-content dash-content-modern">
@@ -44,7 +49,9 @@ $studentContext = help_chatbot_student_context($pdo, (int)$_SESSION['user_id']);
             <div class="chat-shell">
                 <div class="chat-shell-header">
                     <h3>UAF Hostel Assistant</h3>
-                    <p>Rule-based guidance for applications, fees, complaints & room changes</p>
+                    <p><?php echo help_chatbot_uses_llm()
+                        ? 'Powered by Claude — ask anything about apply, fees, complaints, room change, ID card'
+                        : 'FAQ mode — add ANTHROPIC_API_KEY in config/env.php for AI answers'; ?></p>
                 </div>
                 <div id="chatLog" class="chat-log" role="log" aria-live="polite"></div>
                 <div id="typingHint" class="chat-typing">Assistant typing…</div>
@@ -59,7 +66,8 @@ $studentContext = help_chatbot_student_context($pdo, (int)$_SESSION['user_id']);
                 </div>
             </div>
             <p class="text-muted small mt-3 fw-semibold">
-                Responses summarize portal workflows. Always confirm deadlines on official notices.
+                AI answers use your profile context. Confirm deadlines on official Notices.
+                <button type="button" class="btn btn-link btn-sm p-0 fw-bold" id="chatResetBtn">Clear chat</button>
             </p>
         </div>
         <div class="col-lg-4">
@@ -106,7 +114,13 @@ $studentContext = help_chatbot_student_context($pdo, (int)$_SESSION['user_id']);
         logEl.scrollTop = logEl.scrollHeight;
     }
 
-    append('assistant', <?php echo json_encode('Ask about allocating a bed, dues, grievances or room swaps—responses stay inside this authenticated portal.', JSON_HEX_TAG | JSON_HEX_APOS); ?>);
+    var welcome = <?php echo json_encode(
+        help_chatbot_uses_llm()
+            ? 'Hi! I am your UAF hostel AI assistant. Ask how to apply, pay fees, raise complaints, change rooms, or print your ID card.'
+            : 'Ask about allocating a bed, dues, grievances or room swaps.',
+        JSON_HEX_TAG | JSON_HEX_APOS
+    ); ?>;
+    append('assistant', welcome);
 
     async function submitMessage(txt) {
         var text = txt || (inputEl && inputEl.value) || '';
@@ -129,6 +143,9 @@ $studentContext = help_chatbot_student_context($pdo, (int)$_SESSION['user_id']);
                 return;
             }
             append('assistant', data.reply || '');
+            if (data.engine === 'claude' && hint) {
+                hint.textContent = 'Claude AI';
+            }
         } catch (e) {
             append('assistant', 'Offline or blocked request—reload the dashboard and try once more.');
         } finally {
@@ -142,6 +159,19 @@ $studentContext = help_chatbot_student_context($pdo, (int)$_SESSION['user_id']);
     if (inputEl) inputEl.addEventListener('keydown', function (ev) {
         if (ev.key === 'Enter') { ev.preventDefault(); submitMessage(); }
     });
+    var resetBtn = document.getElementById('chatResetBtn');
+    if (resetBtn) {
+        resetBtn.addEventListener('click', async function () {
+            await fetch(<?php echo json_encode(base_path() . '/student/help_chat_api.php'); ?>, {
+                method: 'POST',
+                headers: {'Content-Type': 'application/json', 'X-CSRF-TOKEN': csrf},
+                body: JSON.stringify({reset: true})
+            });
+            if (logEl) logEl.innerHTML = '';
+            append('assistant', welcome);
+        });
+    }
+
     document.querySelectorAll('.chat-quick').forEach(function (btn, idx) {
         var prompts = [
             'How do I apply for hostel?',

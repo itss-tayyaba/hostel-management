@@ -17,7 +17,7 @@ return [
   'DB_USER' => 'root',
   'DB_PASS' => '',
 
-  // Python AI microservice (admin smart allocation)
+  // Python KNN microservice (admin smart room ranking — legacy /recommend)
   'AI_SERVICE_URL' => 'http://127.0.0.1:5001/recommend',
   'AI_SERVICE_TOKEN' => 'change-me-in-production',
   'AI_SERVICE_TIMEOUT' => 2,
@@ -28,4 +28,10 @@ return [
 
   // Set true to show password-reset link on screen (local dev only)
   'DEV_SHOW_RESET_LINK' => true,
+
+  // Student help chatbot — Anthropic Claude (https://console.anthropic.com/)
+  'ANTHROPIC_API_KEY' => '',
+  'ANTHROPIC_MODEL' => 'claude-3-5-haiku-20241022',
+  'ANTHROPIC_MAX_TOKENS' => 600,
+  'ANTHROPIC_TIMEOUT' => 45,
 ];

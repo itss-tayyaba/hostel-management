@@ -1,0 +1,2501 @@
+gender,program,academic_year,home_province,distance_from_uaf_km,cgpa,financial_need,special_needs,fee_paid_on_time,disciplinary_cases,has_sibling_in_hostel,previous_resident,mess_enrolled,allocated
+female,Food Science,1,Gilgit-Baltistan,94.5,2.86,1,0,1,0,0,1,1,0
+male,Agriculture,3,Punjab,4.2,3.03,1,0,1,0,0,1,1,1
+female,Soil Science,2,Punjab,15.7,3.1,1,0,0,0,0,1,0,0
+female,Soil Science,4,Punjab,122.3,3.2,0,0,1,0,0,0,1,0
+male,Environmental Sciences,2,AJK,38.9,3.6,0,0,0,1,1,0,0,0
+female,Biochemistry,2,AJK,107.9,3.22,0,0,0,0,1,0,1,0
+female,Animal Sciences,2,KPK,43.3,2.47,1,0,1,1,0,0,1,0
+female,Environmental Sciences,2,Punjab,44.8,2.85,0,0,1,0,0,0,1,0
+male,Soil Science,5,Sindh,22.8,3.17,1,1,1,0,0,0,1,1
+male,Veterinary Science,1,Punjab,72.7,3.61,0,0,1,0,0,0,1,1
+male,Environmental Sciences,5,AJK,89.3,3.68,1,0,1,0,0,1,1,1
+female,Agriculture,2,Punjab,1.0,3.9,1,0,1,0,0,0,1,1
+female,Plant Breeding,1,Punjab,20.9,3.16,1,0,1,0,0,0,1,1
+female,Biochemistry,1,KPK,71.6,3.44,1,0,1,0,0,1,1,1
+male,Soil Science,1,Sindh,29.8,2.45,1,0,1,0,0,0,1,0
+male,Biochemistry,4,Gilgit-Baltistan,15.3,3.29,1,0,0,0,0,1,0,1
+female,Agriculture,3,Punjab,75.4,2.62,1,0,1,0,0,1,0,0
+male,Plant Breeding,2,Balochistan,79.1,3.07,0,0,1,0,0,1,0,0
+female,Environmental Sciences,3,Punjab,17.0,4.0,1,0,0,0,0,0,0,1
+female,Soil Science,3,Punjab,43.5,3.24,1,0,1,0,1,1,1,1
+female,Biochemistry,5,Sindh,1.0,2.71,1,0,1,0,0,1,1,1
+male,Animal Sciences,5,Punjab,1.0,3.28,1,1,0,0,0,0,1,1
+female,Soil Science,3,Sindh,40.0,2.87,0,0,1,0,1,0,0,0
+female,Animal Sciences,4,Punjab,36.3,2.67,1,0,1,0,0,1,1,1
+female,Environmental Sciences,4,Punjab,1.0,4.0,1,0,1,1,0,0,0,1
+male,Agriculture,2,KPK,6.4,3.58,0,0,1,0,0,0,0,1
+male,Veterinary Science,4,Punjab,1.0,3.26,1,0,1,0,0,0,1,1
+male,Agriculture,1,KPK,53.2,2.92,1,0,1,0,0,0,0,0
+male,Soil Science,4,KPK,1.0,2.96,0,0,1,0,0,0,1,1
+female,Food Science,5,Punjab,1.0,3.79,1,0,1,0,1,1,1,1
+female,Veterinary Science,1,Balochistan,1.0,3.24,1,0,1,0,0,0,1,1
+female,Environmental Sciences,4,Punjab,51.8,2.0,1,0,1,0,0,0,0,0
+male,Veterinary Science,5,Punjab,1.0,4.0,0,0,1,1,0,1,1,1
+male,Food Science,1,Punjab,36.3,3.18,1,0,1,0,0,1,1,1
+male,Agriculture,3,Gilgit-Baltistan,100.6,3.25,1,0,0,1,0,0,1,0
+male,Food Science,5,Sindh,101.9,3.59,1,0,1,0,0,0,1,1
+male,Biochemistry,5,Sindh,1.0,3.31,1,0,0,0,0,0,0,1
+male,Plant Breeding,1,Islamabad,46.9,3.44,1,0,1,1,0,1,1,0
+male,Biochemistry,2,Punjab,1.0,2.91,1,0,0,0,0,0,0,0
+female,Food Science,3,AJK,1.0,2.55,0,0,1,0,1,1,1,1
+male,Veterinary Science,1,KPK,30.5,3.23,1,0,1,0,0,1,1,1
+female,Food Science,2,AJK,84.1,3.74,0,1,1,2,0,0,0,0
+female,Animal Sciences,1,AJK,59.0,2.81,1,0,1,0,0,0,0,0
+male,Plant Breeding,1,Islamabad,6.4,2.77,1,0,0,0,1,1,1,1
+female,Environmental Sciences,3,Punjab,63.2,3.65,0,0,1,0,0,1,1,1
+female,Veterinary Science,3,Balochistan,1.0,2.89,1,0,1,0,0,0,1,1
+male,Environmental Sciences,3,Balochistan,4.9,2.92,0,0,0,0,1,0,1,0
+male,Soil Science,4,KPK,2.0,2.93,1,0,1,0,0,0,1,1
+female,Veterinary Science,2,Punjab,38.1,3.07,1,1,1,1,0,0,1,1
+male,Biochemistry,2,Islamabad,26.9,2.39,1,0,0,0,0,0,1,0
+male,Animal Sciences,1,Punjab,29.3,2.86,1,0,1,1,0,0,1,0
+male,Food Science,1,Sindh,28.0,3.2,1,0,0,0,0,1,1,1
+female,Biochemistry,2,Sindh,35.9,3.2,1,0,0,0,1,0,1,1
+female,Biochemistry,1,Punjab,56.6,3.62,1,0,0,0,0,0,1,1
+female,Agriculture,1,KPK,41.0,3.93,1,0,1,0,0,0,0,1
+female,Biochemistry,1,Punjab,23.6,3.78,0,0,1,0,0,0,1,1
+male,Biochemistry,3,KPK,51.1,3.51,1,0,1,0,0,0,0,1
+female,Environmental Sciences,3,Gilgit-Baltistan,68.0,3.03,1,0,1,0,0,0,1,1
+male,Veterinary Science,5,Punjab,12.8,2.82,1,0,1,0,1,0,1,1
+male,Soil Science,4,KPK,32.6,3.11,1,0,1,0,0,0,0,0
+female,Plant Breeding,3,Punjab,81.5,3.36,1,0,1,0,1,0,1,1
+male,Plant Breeding,1,Gilgit-Baltistan,1.0,3.47,1,0,1,0,0,0,1,1
+female,Plant Breeding,3,Islamabad,107.2,3.38,1,0,1,0,0,0,0,1
+female,Soil Science,1,Punjab,1.0,3.05,1,0,1,1,0,0,1,1
+female,Plant Breeding,2,KPK,21.2,3.45,1,0,0,0,1,0,1,1
+female,Soil Science,2,Sindh,1.0,3.67,0,0,1,0,0,1,1,1
+female,Plant Breeding,2,Sindh,122.5,3.5,1,0,1,0,0,0,1,0
+male,Agriculture,2,KPK,14.9,3.09,1,0,1,0,0,0,1,1
+male,Agriculture,3,Sindh,15.0,2.72,1,0,1,0,0,0,1,1
+male,Biochemistry,4,KPK,20.2,2.71,0,0,0,0,0,0,1,0
+male,Biochemistry,4,Punjab,38.8,2.79,1,0,1,0,1,0,0,1
+male,Plant Breeding,3,Punjab,21.9,3.22,0,0,1,1,0,0,1,0
+female,Food Science,3,Gilgit-Baltistan,29.7,3.33,0,0,1,0,0,0,1,1
+male,Environmental Sciences,1,Punjab,1.0,2.46,1,0,1,1,0,1,0,0
+male,Food Science,4,Sindh,37.3,2.87,1,0,1,0,0,0,1,1
+male,Animal Sciences,3,Punjab,35.7,3.21,0,0,1,0,0,0,0,1
+male,Veterinary Science,2,Gilgit-Baltistan,76.5,2.7,1,0,1,0,0,0,1,0
+female,Agriculture,2,Sindh,87.4,3.3,1,0,1,0,0,1,0,1
+female,Environmental Sciences,5,Punjab,27.5,2.96,1,0,1,1,0,0,1,0
+female,Plant Breeding,3,Punjab,67.6,2.77,1,0,1,0,1,0,1,0
+female,Veterinary Science,2,Punjab,1.0,3.12,1,0,1,0,0,0,1,1
+male,Plant Breeding,3,Islamabad,65.7,3.28,1,0,0,0,0,1,1,0
+female,Agriculture,2,Sindh,12.1,2.72,1,0,1,1,0,1,0,0
+male,Animal Sciences,2,Sindh,1.0,2.99,1,0,1,0,0,0,0,1
+male,Plant Breeding,2,KPK,27.6,3.31,0,0,1,0,0,0,1,1
+male,Veterinary Science,2,Punjab,91.0,2.76,1,0,0,1,0,1,0,0
+female,Environmental Sciences,3,Punjab,42.2,2.35,1,0,1,0,0,0,0,0
+male,Food Science,1,Punjab,94.9,2.41,0,0,1,0,0,0,1,0
+male,Food Science,4,Punjab,5.1,2.91,1,0,0,0,0,0,1,0
+male,Plant Breeding,2,KPK,76.9,2.51,0,0,0,0,1,0,0,0
+male,Biochemistry,3,Gilgit-Baltistan,8.9,2.94,1,0,1,1,1,0,1,1
+female,Animal Sciences,3,AJK,44.0,3.85,1,0,0,0,0,0,0,1
+male,Agriculture,3,AJK,43.7,2.48,1,0,1,0,0,1,1,0
+male,Biochemistry,3,Sindh,61.5,2.97,1,0,1,0,1,0,0,1
+male,Animal Sciences,5,Punjab,45.0,4.0,1,0,1,0,0,0,1,1
+female,Food Science,3,KPK,5.4,3.28,1,1,1,0,0,0,0,1
+male,Plant Breeding,4,Islamabad,70.2,2.93,0,0,1,0,0,1,1,0
+male,Veterinary Science,4,KPK,104.3,3.03,1,0,0,0,1,0,0,0
+male,Biochemistry,1,Sindh,11.6,3.29,1,0,1,0,1,0,1,1
+female,Veterinary Science,2,KPK,1.0,3.86,0,0,0,0,0,0,1,1
+female,Plant Breeding,2,Balochistan,55.0,2.86,0,0,0,1,0,0,1,0
+female,Plant Breeding,2,AJK,21.8,2.76,1,1,0,0,0,0,0,0
+male,Food Science,2,Balochistan,29.8,2.48,0,0,1,1,0,0,1,0
+female,Animal Sciences,2,Punjab,57.2,3.15,1,0,0,0,0,0,1,0
+female,Agriculture,3,Punjab,16.7,2.47,0,0,0,0,0,0,0,0
+female,Soil Science,1,Sindh,24.2,2.89,1,0,1,0,0,1,0,1
+male,Environmental Sciences,4,Punjab,31.0,2.69,1,0,0,0,0,0,1,0
+male,Biochemistry,2,AJK,93.8,3.58,1,0,1,0,0,0,1,1
+male,Veterinary Science,4,Sindh,36.2,2.87,1,0,1,0,0,1,1,1
+female,Veterinary Science,1,Sindh,1.0,3.28,0,0,1,0,1,1,1,1
+male,Plant Breeding,2,Punjab,1.0,2.38,1,0,0,0,0,0,1,0
+male,Soil Science,1,KPK,40.6,3.16,1,0,0,0,0,0,0,0
+male,Biochemistry,3,Sindh,1.0,2.56,1,1,1,0,0,0,1,1
+female,Agriculture,2,Punjab,1.0,2.91,1,1,1,0,1,0,1,1
+male,Food Science,5,Gilgit-Baltistan,60.4,4.0,0,0,0,0,1,0,1,1
+female,Veterinary Science,2,Punjab,62.4,3.52,1,1,1,0,0,0,1,1
+female,Veterinary Science,3,Punjab,20.3,3.04,1,0,1,0,0,0,1,1
+female,Animal Sciences,2,Punjab,46.7,4.0,0,0,0,0,1,0,1,1
+male,Environmental Sciences,3,Sindh,42.5,2.69,1,0,1,1,0,0,0,0
+female,Agriculture,2,KPK,59.1,3.62,0,0,1,0,0,1,1,1
+female,Environmental Sciences,2,AJK,59.2,2.41,1,0,1,1,1,0,0,0
+female,Plant Breeding,1,Punjab,1.0,2.99,1,0,1,0,0,0,0,1
+male,Plant Breeding,1,Islamabad,25.4,2.49,1,0,1,0,1,0,1,1
+male,Soil Science,1,KPK,55.7,3.22,0,0,1,0,0,0,1,0
+male,Agriculture,5,Punjab,18.6,3.13,0,0,1,0,1,1,1,1
+male,Soil Science,2,Punjab,36.4,2.96,1,0,1,0,1,1,1,1
+male,Food Science,1,Punjab,65.0,3.59,0,1,1,1,0,0,1,1
+male,Plant Breeding,5,Gilgit-Baltistan,38.2,2.84,1,0,1,1,0,0,1,0
+male,Soil Science,1,Punjab,95.3,3.25,1,0,0,1,0,0,1,0
+female,Plant Breeding,2,Sindh,80.1,3.47,1,0,1,0,1,1,1,1
+male,Veterinary Science,4,KPK,30.3,2.43,1,0,1,0,0,0,1,0
+female,Animal Sciences,5,Gilgit-Baltistan,27.1,2.76,0,0,1,0,0,0,0,0
+female,Animal Sciences,4,KPK,1.0,3.12,0,0,1,0,1,0,1,1
+male,Agriculture,2,Balochistan,21.9,3.38,1,0,1,0,0,0,0,1
+female,Soil Science,5,Punjab,1.0,3.74,1,0,1,1,0,0,1,1
+male,Agriculture,1,Gilgit-Baltistan,43.8,3.0,1,0,1,0,0,1,1,1
+female,Animal Sciences,5,Punjab,41.1,2.96,1,0,0,0,1,0,1,1
+male,Soil Science,4,Punjab,62.8,2.71,1,0,1,0,0,0,0,0
+female,Agriculture,5,Islamabad,90.9,3.25,1,0,0,0,1,0,1,0
+male,Biochemistry,2,Punjab,33.9,2.97,1,0,1,0,0,0,1,0
+male,Animal Sciences,1,Punjab,126.2,2.98,1,0,1,0,1,1,1,1
+male,Agriculture,3,KPK,44.3,3.06,1,0,1,0,0,1,1,1
+female,Soil Science,3,Punjab,1.0,3.35,1,0,0,0,0,1,1,1
+female,Plant Breeding,3,Punjab,12.5,2.85,1,0,1,0,1,1,1,1
+male,Soil Science,5,KPK,20.1,2.75,1,0,1,0,1,0,1,1
+male,Environmental Sciences,3,Balochistan,58.7,3.29,0,0,1,0,0,0,1,1
+male,Animal Sciences,2,Balochistan,1.0,2.0,1,0,0,0,0,0,1,0
+male,Environmental Sciences,2,Punjab,23.1,2.83,1,0,1,0,0,0,0,1
+male,Veterinary Science,1,Sindh,28.6,2.58,1,0,1,0,0,1,1,1
+male,Plant Breeding,1,Balochistan,17.1,3.64,0,0,1,1,0,0,0,0
+female,Food Science,1,Punjab,67.5,2.9,1,0,1,0,1,0,1,1
+female,Plant Breeding,4,Punjab,60.7,2.85,1,0,1,0,0,0,0,1
+male,Veterinary Science,4,Punjab,81.7,3.08,1,0,1,0,0,0,1,1
+female,Soil Science,3,Sindh,21.8,2.83,1,0,1,0,0,0,1,1
+male,Environmental Sciences,2,Punjab,83.1,2.92,1,0,0,1,0,0,1,0
+female,Environmental Sciences,3,KPK,1.0,3.14,1,0,0,0,0,0,1,1
+male,Biochemistry,4,Islamabad,1.0,2.91,1,0,0,0,1,0,1,0
+female,Agriculture,4,Punjab,1.0,2.91,1,0,1,0,0,1,1,1
+female,Food Science,3,KPK,35.4,2.65,1,0,1,0,0,1,1,1
+female,Biochemistry,4,Punjab,83.1,2.58,1,0,1,0,0,0,1,0
+male,Animal Sciences,3,Punjab,10.9,3.13,0,0,1,0,0,0,1,0
+female,Agriculture,2,Balochistan,15.9,3.24,1,0,1,0,0,0,1,1
+male,Veterinary Science,4,Punjab,26.4,2.46,1,0,1,0,0,0,1,1
+male,Environmental Sciences,2,AJK,57.9,3.44,1,0,1,0,0,0,1,0
+female,Veterinary Science,2,Sindh,15.9,3.44,1,0,1,0,0,1,1,1
+male,Agriculture,2,Punjab,13.7,3.54,0,0,0,0,0,1,1,1
+female,Soil Science,3,Punjab,1.0,3.23,1,0,1,0,0,0,1,1
+female,Food Science,3,Punjab,12.1,3.39,0,0,1,0,0,1,1,1
+male,Veterinary Science,3,Gilgit-Baltistan,82.1,4.0,1,1,1,0,0,0,1,1
+female,Agriculture,2,KPK,38.6,2.96,1,0,1,0,0,1,1,1
+male,Plant Breeding,1,Punjab,5.4,2.63,1,0,1,1,0,0,1,0
+male,Animal Sciences,4,Sindh,84.4,2.41,1,0,1,0,0,1,0,0
+male,Environmental Sciences,2,KPK,11.6,3.89,1,1,1,0,0,0,1,1
+female,Veterinary Science,5,Balochistan,91.8,3.9,0,0,1,0,0,0,1,1
+male,Food Science,1,Punjab,91.1,2.68,1,0,1,0,0,0,1,0
+male,Food Science,3,Punjab,37.2,2.77,1,0,1,0,1,0,1,1
+male,Food Science,3,Punjab,1.0,2.95,1,0,1,0,0,1,1,1
+female,Animal Sciences,4,Punjab,126.6,3.65,0,0,1,0,0,0,1,0
+female,Agriculture,1,Sindh,50.5,2.52,0,0,1,0,0,1,1,0
+female,Animal Sciences,5,Punjab,22.0,2.22,1,0,0,0,0,0,1,0
+female,Environmental Sciences,3,Punjab,73.2,4.0,1,0,1,0,1,1,1,1
+female,Environmental Sciences,3,Punjab,63.1,3.24,1,1,1,0,0,1,0,1
+male,Soil Science,3,Punjab,87.4,3.3,1,0,0,1,1,0,0,0
+male,Biochemistry,1,AJK,8.5,3.01,0,0,1,0,0,0,0,0
+female,Environmental Sciences,2,Sindh,47.7,3.31,1,0,1,0,0,0,1,1
+female,Soil Science,2,Punjab,1.0,2.42,1,0,1,0,0,0,1,1
+male,Environmental Sciences,2,Sindh,61.7,2.72,0,0,1,0,0,0,1,0
+male,Agriculture,3,Punjab,34.1,3.15,0,0,1,1,0,1,1,0
+female,Environmental Sciences,2,Gilgit-Baltistan,46.2,2.08,0,0,1,0,0,1,1,0
+male,Veterinary Science,1,Sindh,29.1,2.96,0,0,1,0,0,0,1,1
+female,Soil Science,1,Sindh,25.0,2.94,1,0,1,0,1,1,1,1
+male,Biochemistry,1,AJK,1.0,2.96,1,0,1,0,1,1,1,1
+male,Animal Sciences,1,Gilgit-Baltistan,66.6,2.85,1,1,1,0,0,0,0,1
+female,Agriculture,3,Balochistan,94.6,2.65,1,0,1,0,0,1,1,0
+male,Veterinary Science,1,Punjab,12.7,2.28,1,0,1,0,1,1,1,1
+male,Animal Sciences,4,Punjab,57.1,3.17,1,0,1,0,0,0,0,0
+female,Biochemistry,1,KPK,52.3,2.96,1,0,1,0,1,1,1,1
+female,Biochemistry,1,Sindh,35.3,2.48,1,0,1,1,0,0,1,0
+male,Plant Breeding,4,KPK,1.0,3.13,1,0,1,0,1,0,1,1
+male,Biochemistry,2,Balochistan,1.0,2.97,1,0,1,1,0,0,1,1
+female,Animal Sciences,2,Punjab,3.8,2.89,1,0,1,0,0,0,1,1
+female,Animal Sciences,5,Punjab,1.0,2.13,1,0,1,0,1,1,1,0
+male,Environmental Sciences,5,Sindh,91.3,3.41,1,0,0,0,1,0,0,0
+male,Soil Science,4,Punjab,49.7,2.55,1,0,0,1,1,0,1,0
+male,Plant Breeding,1,KPK,33.8,3.13,0,0,1,0,0,0,1,1
+male,Animal Sciences,3,KPK,1.0,2.74,1,0,1,0,0,1,1,1
+male,Soil Science,5,Sindh,1.0,2.93,1,0,0,0,0,0,1,0
+female,Environmental Sciences,5,KPK,34.9,3.62,1,0,1,0,0,0,0,1
+male,Animal Sciences,1,Sindh,113.8,3.34,1,0,1,0,0,0,1,1
+male,Agriculture,2,KPK,7.1,3.61,0,0,1,0,0,0,1,1
+female,Agriculture,2,Punjab,69.6,3.25,0,0,1,0,1,1,1,1
+female,Food Science,1,KPK,15.8,3.28,1,0,1,0,1,1,1,1
+male,Animal Sciences,3,KPK,37.2,2.3,1,1,1,0,0,0,0,1
+female,Plant Breeding,2,Punjab,83.6,2.96,0,0,1,0,0,1,1,1
+female,Environmental Sciences,2,Sindh,21.2,3.0,0,0,1,0,0,1,1,1
+female,Food Science,1,Gilgit-Baltistan,7.4,3.65,0,1,1,0,0,0,1,1
+male,Environmental Sciences,2,Punjab,91.7,2.87,1,0,1,0,0,0,1,0
+male,Soil Science,1,KPK,36.8,3.22,0,0,1,0,1,0,1,1
+female,Agriculture,2,Islamabad,78.6,3.2,1,0,1,2,0,0,1,0
+male,Veterinary Science,1,Gilgit-Baltistan,7.6,3.62,1,0,1,0,0,0,1,1
+male,Veterinary Science,5,Punjab,91.3,3.04,1,0,0,0,0,0,1,0
+male,Biochemistry,1,KPK,45.9,3.47,1,0,1,0,0,1,1,1
+female,Biochemistry,3,Islamabad,52.4,2.33,0,0,0,0,0,0,1,0
+female,Environmental Sciences,1,Sindh,40.3,2.37,1,0,1,0,0,0,1,0
+male,Plant Breeding,1,Punjab,14.8,2.07,1,0,1,0,0,0,1,0
+female,Animal Sciences,1,Punjab,34.9,3.45,0,0,1,0,0,0,0,1
+male,Veterinary Science,1,Balochistan,17.3,3.4,1,0,0,0,0,1,0,0
+female,Environmental Sciences,1,Punjab,73.4,3.5,1,0,1,0,0,1,1,1
+female,Agriculture,2,Punjab,26.9,2.8,0,0,0,0,1,0,1,0
+male,Veterinary Science,3,Punjab,1.0,2.85,0,0,1,0,1,0,1,1
+male,Food Science,1,Balochistan,1.0,3.05,1,0,1,0,1,0,1,1
+male,Animal Sciences,2,Sindh,1.0,3.75,1,0,1,1,1,0,1,1
+female,Veterinary Science,3,Gilgit-Baltistan,59.7,3.86,1,0,0,0,1,1,1,1
+female,Food Science,1,KPK,1.0,3.46,0,0,0,0,1,0,1,0
+female,Animal Sciences,2,Islamabad,47.0,3.25,1,1,1,0,0,1,1,1
+female,Environmental Sciences,1,AJK,40.5,3.7,0,0,1,0,0,0,0,1
+male,Plant Breeding,1,Punjab,32.4,2.98,1,0,1,0,0,0,1,1
+female,Environmental Sciences,2,KPK,52.5,2.92,1,0,1,0,1,0,1,1
+male,Biochemistry,5,Punjab,41.3,3.04,1,0,0,0,1,1,1,1
+male,Biochemistry,5,Islamabad,1.0,2.66,1,0,1,0,0,0,1,1
+female,Veterinary Science,5,Punjab,22.1,3.02,1,0,1,0,1,1,1,1
+female,Biochemistry,2,KPK,52.0,2.6,0,0,1,1,0,1,0,0
+male,Biochemistry,1,Gilgit-Baltistan,100.6,3.56,1,0,0,0,0,0,1,0
+male,Biochemistry,2,Punjab,102.5,3.34,0,0,0,0,0,0,1,0
+female,Veterinary Science,1,Gilgit-Baltistan,1.0,3.74,1,0,1,0,0,0,1,1
+female,Food Science,1,Punjab,21.0,2.37,0,0,1,0,0,0,0,0
+female,Plant Breeding,1,Punjab,1.0,3.96,1,0,1,0,0,0,1,1
+male,Biochemistry,2,Sindh,95.8,2.39,0,0,1,0,0,0,1,0
+male,Biochemistry,2,Punjab,75.5,2.56,1,0,1,0,0,0,1,0
+male,Plant Breeding,1,Sindh,49.0,2.82,0,0,1,0,1,0,1,0
+female,Food Science,4,AJK,41.6,3.69,1,0,1,0,0,0,1,1
+female,Animal Sciences,2,Punjab,90.2,3.2,1,0,0,0,0,0,0,0
+male,Soil Science,4,Sindh,83.5,2.99,1,0,0,1,0,1,1,0
+male,Plant Breeding,1,Gilgit-Baltistan,81.3,2.74,1,0,1,0,1,1,0,1
+male,Veterinary Science,3,Balochistan,53.3,2.48,0,0,0,0,0,1,0,0
+female,Veterinary Science,1,Punjab,21.0,3.61,1,0,1,0,0,0,1,1
+female,Agriculture,2,AJK,65.7,3.46,1,0,1,0,0,0,1,1
+male,Veterinary Science,1,Punjab,67.6,3.71,0,0,1,0,0,0,1,1
+male,Soil Science,1,Sindh,27.4,3.28,1,0,1,0,0,1,1,1
+female,Food Science,3,Sindh,21.0,2.0,1,0,1,0,0,0,0,0
+male,Biochemistry,2,Balochistan,80.3,2.54,1,0,1,0,1,0,0,0
+female,Agriculture,1,Punjab,101.6,3.31,1,0,1,0,0,0,1,1
+male,Plant Breeding,5,Punjab,5.0,2.93,1,0,1,0,1,0,0,1
+male,Animal Sciences,1,Balochistan,24.5,2.85,1,0,1,0,0,0,1,1
+female,Environmental Sciences,3,Punjab,49.0,2.6,1,1,1,0,0,0,1,1
+male,Biochemistry,3,Sindh,54.5,3.53,1,0,1,1,0,0,1,0
+male,Plant Breeding,2,KPK,14.1,3.31,0,0,0,0,0,1,1,1
+male,Soil Science,2,KPK,110.3,3.33,1,0,1,0,0,0,1,1
+male,Soil Science,1,Punjab,51.9,2.81,1,0,1,0,1,0,1,1
+male,Plant Breeding,4,Punjab,56.3,3.18,0,0,1,0,0,1,1,1
+male,Food Science,1,Islamabad,105.4,2.5,1,0,1,0,1,1,1,0
+male,Animal Sciences,1,Punjab,17.0,3.04,1,0,1,0,0,0,0,1
+male,Food Science,2,Punjab,31.5,2.0,1,0,1,0,0,0,1,0
+female,Animal Sciences,5,Punjab,1.0,2.39,1,0,1,0,0,0,0,1
+female,Plant Breeding,4,Punjab,28.1,2.95,1,0,1,1,0,0,1,0
+male,Food Science,5,Islamabad,1.0,4.0,1,0,1,0,0,1,1,1
+male,Food Science,3,Punjab,64.9,2.29,1,0,1,1,0,0,1,0
+male,Environmental Sciences,3,Punjab,51.8,2.54,1,1,0,0,0,1,0,0
+female,Animal Sciences,2,Sindh,23.9,3.2,0,0,1,0,0,0,0,0
+female,Food Science,5,Punjab,31.0,3.9,1,0,1,0,0,1,1,1
+male,Soil Science,3,Punjab,65.5,3.19,1,0,0,0,0,0,0,0
+male,Soil Science,2,Islamabad,1.0,3.42,0,0,1,0,0,1,1,1
+male,Environmental Sciences,3,KPK,43.2,2.95,1,0,1,0,0,0,1,0
+male,Environmental Sciences,3,Punjab,63.0,2.87,1,0,1,0,0,0,1,0
+female,Biochemistry,1,Punjab,1.0,3.14,1,0,1,0,1,0,1,1
+male,Plant Breeding,2,Punjab,62.4,2.8,1,0,1,0,1,0,1,1
+male,Veterinary Science,2,Punjab,1.0,3.43,1,0,0,0,0,0,0,1
+male,Environmental Sciences,4,Sindh,30.3,2.38,1,0,1,0,1,0,1,0
+male,Veterinary Science,2,Sindh,1.0,3.5,1,0,1,0,1,0,1,1
+male,Veterinary Science,4,KPK,92.2,3.12,1,1,1,0,0,0,1,1
+female,Environmental Sciences,2,AJK,1.0,3.0,1,0,1,0,1,0,1,1
+male,Biochemistry,4,Punjab,1.0,2.36,1,0,0,0,0,1,1,0
+female,Veterinary Science,1,AJK,40.3,2.66,0,0,1,0,0,0,0,0
+male,Soil Science,5,Sindh,18.5,3.64,1,0,1,0,0,0,1,1
+female,Biochemistry,2,Punjab,1.0,3.01,1,0,1,0,1,0,1,1
+female,Environmental Sciences,2,Gilgit-Baltistan,56.0,3.23,1,0,1,0,1,0,1,1
+female,Agriculture,1,Punjab,1.0,2.7,1,0,1,0,1,1,0,1
+female,Soil Science,2,Sindh,1.0,3.09,1,0,1,0,0,0,1,1
+female,Food Science,2,KPK,12.0,2.48,1,1,1,0,1,1,1,1
+female,Environmental Sciences,4,Punjab,67.1,3.14,0,0,1,0,0,1,0,0
+female,Agriculture,5,Gilgit-Baltistan,86.8,3.27,1,0,1,0,1,1,0,1
+male,Biochemistry,3,Punjab,79.1,3.24,1,0,1,0,1,0,1,1
+male,Food Science,3,Gilgit-Baltistan,28.9,2.69,0,0,1,0,0,0,1,0
+male,Animal Sciences,2,Punjab,1.0,2.95,1,0,1,0,0,1,1,1
+female,Food Science,4,Punjab,50.6,3.34,1,0,1,0,1,1,1,1
+male,Environmental Sciences,4,Punjab,93.8,3.0,1,0,0,0,1,1,1,0
+male,Animal Sciences,2,Gilgit-Baltistan,84.4,2.97,1,0,1,0,1,1,1,1
+female,Soil Science,5,Punjab,53.5,3.96,0,0,1,1,0,1,1,1
+male,Agriculture,2,Gilgit-Baltistan,1.0,2.67,1,0,1,0,0,1,1,1
+male,Animal Sciences,4,Punjab,14.0,3.59,1,0,1,1,0,0,1,0
+male,Biochemistry,5,Sindh,112.4,2.58,1,0,1,0,0,0,1,0
+male,Biochemistry,4,Punjab,1.0,3.39,0,0,1,0,1,0,1,1
+male,Food Science,1,Punjab,1.0,3.42,1,0,1,1,0,1,1,1
+male,Animal Sciences,3,AJK,72.7,2.87,0,0,1,0,0,0,0,0
+male,Animal Sciences,1,Punjab,17.8,2.55,0,1,1,0,0,0,1,0
+male,Plant Breeding,4,KPK,1.0,2.21,1,0,1,0,1,1,0,1
+male,Plant Breeding,2,Sindh,96.1,2.82,1,0,1,1,0,0,1,0
+female,Agriculture,3,Sindh,53.4,3.34,1,0,1,1,0,0,0,0
+male,Environmental Sciences,5,KPK,19.7,2.62,0,0,1,0,0,1,1,1
+female,Food Science,1,AJK,1.0,3.14,1,0,1,0,0,0,0,1
+female,Veterinary Science,2,KPK,116.9,2.44,1,0,1,0,0,0,0,0
+male,Environmental Sciences,3,Sindh,34.0,2.99,1,0,1,1,0,0,1,0
+male,Soil Science,2,KPK,90.9,2.58,1,0,1,0,0,1,1,0
+male,Animal Sciences,1,KPK,70.7,3.06,1,0,1,0,0,0,1,1
+female,Biochemistry,1,Punjab,14.2,2.87,0,0,0,0,0,0,1,0
+female,Animal Sciences,2,KPK,14.5,2.56,0,0,1,0,0,0,1,0
+female,Plant Breeding,3,Punjab,92.9,2.8,1,0,1,1,0,0,1,0
+male,Food Science,3,Balochistan,93.5,2.68,1,1,1,0,0,0,1,1
+female,Food Science,1,Islamabad,1.0,2.51,1,0,1,0,0,0,1,1
+male,Animal Sciences,2,Islamabad,57.0,3.59,1,0,1,0,0,1,1,1
+female,Plant Breeding,2,Balochistan,30.2,2.94,1,0,1,1,1,1,0,0
+male,Environmental Sciences,2,KPK,1.0,2.11,1,0,1,1,1,0,1,0
+female,Animal Sciences,4,KPK,45.5,2.82,1,0,1,0,0,0,1,0
+female,Biochemistry,2,Punjab,1.0,3.51,0,0,1,1,0,1,0,0
+male,Plant Breeding,3,Sindh,16.3,2.76,1,0,0,0,1,0,0,0
+female,Agriculture,5,Punjab,3.1,3.77,1,0,1,0,0,1,1,1
+male,Soil Science,3,Punjab,15.0,2.71,0,0,1,0,1,0,1,1
+female,Plant Breeding,3,Islamabad,32.1,3.33,0,0,1,0,1,0,1,1
+male,Animal Sciences,1,Gilgit-Baltistan,1.0,3.57,1,0,1,1,0,0,1,1
+female,Animal Sciences,1,Sindh,97.9,3.3,1,0,1,0,0,0,1,1
+male,Veterinary Science,1,Punjab,54.7,2.48,0,0,1,0,1,1,1,1
+female,Plant Breeding,4,KPK,106.8,2.68,0,0,1,0,0,0,1,0
+female,Plant Breeding,4,Punjab,28.6,3.63,0,0,1,0,0,1,1,1
+female,Animal Sciences,1,Balochistan,13.0,2.74,0,0,1,0,0,1,1,1
+female,Veterinary Science,1,Islamabad,105.3,3.54,1,0,1,1,0,0,1,0
+female,Animal Sciences,2,Punjab,11.9,2.91,1,0,1,1,1,1,1,1
+female,Animal Sciences,3,Punjab,27.9,3.16,1,0,1,0,0,1,0,1
+male,Animal Sciences,3,Punjab,63.8,2.48,0,0,1,0,0,0,1,0
+female,Veterinary Science,3,Punjab,1.0,2.83,1,0,1,0,0,1,1,1
+male,Plant Breeding,5,Punjab,63.5,2.71,0,0,0,0,0,1,1,0
+female,Food Science,2,Punjab,58.3,3.2,1,0,1,0,0,0,1,0
+male,Plant Breeding,3,Punjab,85.8,3.14,1,0,1,0,1,0,1,1
+female,Agriculture,3,Punjab,70.6,3.31,1,0,1,0,0,0,1,1
+female,Animal Sciences,2,Punjab,87.0,2.88,1,0,1,0,0,1,1,1
+male,Environmental Sciences,5,KPK,30.6,2.68,0,0,0,0,1,1,0,0
+male,Environmental Sciences,1,Punjab,1.0,3.18,0,0,1,0,0,1,1,1
+female,Soil Science,4,Gilgit-Baltistan,119.4,2.64,1,0,1,0,0,1,1,0
+female,Soil Science,4,Punjab,1.0,3.59,1,0,0,0,0,0,1,1
+male,Agriculture,5,Punjab,1.0,3.05,1,0,1,0,0,1,1,1
+female,Veterinary Science,3,Punjab,57.6,2.95,0,0,1,0,0,0,1,0
+female,Soil Science,2,KPK,100.0,3.31,1,0,1,0,0,1,0,1
+male,Environmental Sciences,4,Punjab,42.6,3.07,0,0,1,0,1,0,1,1
+male,Plant Breeding,4,Sindh,75.0,2.35,0,0,1,0,0,0,0,0
+male,Environmental Sciences,3,Punjab,1.0,2.62,1,1,0,1,0,0,1,0
+female,Veterinary Science,4,Islamabad,15.0,3.58,1,0,1,0,0,0,1,1
+male,Food Science,2,Punjab,1.0,3.14,1,1,1,0,0,0,1,1
+female,Agriculture,3,Punjab,66.2,2.34,1,0,1,1,0,0,1,0
+female,Plant Breeding,4,Gilgit-Baltistan,1.0,3.26,0,0,1,0,1,0,1,1
+male,Soil Science,2,Punjab,1.0,2.85,0,0,1,0,0,1,1,1
+female,Veterinary Science,2,Punjab,55.6,2.71,0,0,1,0,0,0,1,0
+female,Environmental Sciences,5,Balochistan,77.5,2.58,1,0,1,0,0,0,1,0
+male,Soil Science,4,Punjab,28.6,3.55,0,0,1,0,0,0,1,1
+male,Veterinary Science,4,Punjab,57.8,2.22,0,0,1,0,0,0,1,0
+male,Food Science,2,Punjab,56.5,2.72,1,0,0,0,0,0,1,0
+male,Soil Science,5,Punjab,26.4,3.15,1,0,0,0,0,1,1,1
+male,Soil Science,1,AJK,1.0,3.81,1,1,1,0,1,0,1,1
+female,Food Science,3,KPK,57.6,3.35,0,0,1,0,1,0,1,1
+male,Veterinary Science,2,Sindh,59.5,2.72,1,0,0,0,0,1,1,0
+male,Animal Sciences,4,Punjab,70.8,3.79,1,0,1,0,0,0,1,1
+female,Plant Breeding,5,KPK,47.5,2.49,0,0,1,0,0,0,1,0
+female,Food Science,4,KPK,1.0,3.22,1,0,1,0,0,1,0,1
+female,Biochemistry,3,Punjab,62.6,3.32,0,0,1,0,0,0,1,1
+female,Animal Sciences,2,AJK,34.9,2.7,1,0,1,0,0,0,1,0
+male,Animal Sciences,3,Sindh,15.7,3.41,1,0,0,0,0,0,1,1
+male,Agriculture,3,Balochistan,23.2,2.87,0,0,1,0,0,1,0,0
+female,Biochemistry,1,Punjab,7.4,3.41,1,0,1,0,0,1,1,1
+female,Food Science,3,Punjab,70.6,2.27,1,0,1,0,0,0,1,0
+female,Biochemistry,4,KPK,1.0,3.25,1,0,1,1,0,0,1,1
+male,Animal Sciences,4,Balochistan,1.0,2.91,1,0,1,0,1,0,1,1
+female,Environmental Sciences,4,Punjab,21.8,3.62,1,0,1,0,0,0,0,1
+female,Food Science,2,Punjab,99.6,3.08,0,0,1,1,0,1,1,0
+male,Food Science,3,Balochistan,77.2,3.66,0,0,1,0,0,0,0,1
+female,Environmental Sciences,1,Punjab,1.0,3.33,1,1,0,0,0,1,1,1
+female,Environmental Sciences,2,Punjab,89.1,3.04,1,1,1,0,1,1,0,1
+male,Plant Breeding,2,KPK,89.0,3.45,1,0,1,0,0,0,1,1
+male,Agriculture,2,Punjab,1.0,3.46,1,0,1,0,0,1,1,1
+female,Biochemistry,1,Punjab,1.0,3.31,1,0,1,0,1,1,1,1
+male,Animal Sciences,3,Punjab,32.1,2.07,1,0,0,0,0,0,1,0
+male,Biochemistry,2,AJK,79.9,2.66,1,1,0,0,0,0,0,0
+male,Environmental Sciences,2,Punjab,98.7,3.72,1,1,0,0,0,1,0,0
+male,Environmental Sciences,1,KPK,1.0,2.53,1,1,1,0,0,0,1,1
+female,Soil Science,3,Islamabad,105.1,3.5,1,0,1,1,0,1,0,0
+female,Soil Science,2,KPK,1.0,3.42,1,0,0,0,0,0,0,1
+male,Plant Breeding,2,Sindh,20.3,2.77,1,0,0,0,0,1,0,0
+female,Agriculture,3,Sindh,18.3,2.2,1,0,0,0,0,1,1,0
+female,Animal Sciences,1,Punjab,81.1,2.84,0,0,1,0,0,0,1,0
+male,Soil Science,5,Sindh,86.9,4.0,1,0,1,0,0,0,1,1
+female,Environmental Sciences,1,Islamabad,73.2,2.71,1,0,1,0,0,0,0,0
+male,Plant Breeding,2,Balochistan,1.0,2.74,1,0,1,1,0,1,1,0
+female,Soil Science,1,Punjab,69.5,2.65,0,0,1,1,0,0,0,0
+female,Agriculture,3,Punjab,55.4,3.65,1,0,1,0,0,1,1,1
+female,Animal Sciences,2,AJK,1.0,2.99,1,0,1,0,0,0,1,1
+male,Plant Breeding,4,Punjab,1.0,2.82,1,0,1,0,0,1,0,1
+female,Biochemistry,2,Gilgit-Baltistan,76.5,3.74,0,0,1,0,1,0,1,1
+male,Veterinary Science,3,Punjab,27.8,3.36,1,0,1,0,0,1,1,1
+male,Food Science,1,KPK,1.0,2.69,0,0,1,0,1,0,1,1
+male,Veterinary Science,1,Balochistan,26.7,2.55,0,0,1,0,0,0,1,0
+female,Food Science,2,Sindh,49.6,3.62,1,0,0,1,0,1,1,0
+male,Plant Breeding,3,Punjab,31.7,3.11,1,0,0,0,0,0,1,0
+female,Soil Science,2,Gilgit-Baltistan,1.0,2.4,1,0,1,0,0,0,1,1
+female,Environmental Sciences,5,Punjab,110.4,2.3,1,0,1,0,1,0,1,0
+male,Biochemistry,4,Punjab,75.2,2.6,1,0,0,0,0,0,1,0
+male,Agriculture,5,Sindh,21.6,2.54,1,0,0,1,0,1,1,0
+male,Food Science,2,Punjab,23.2,2.18,1,0,1,0,1,0,1,1
+female,Veterinary Science,4,KPK,49.4,2.61,0,0,1,1,0,1,1,0
+female,Food Science,3,Punjab,1.0,2.69,1,0,1,1,0,0,1,0
+male,Environmental Sciences,3,Punjab,47.9,2.89,0,0,1,0,0,1,1,1
+female,Food Science,5,AJK,1.0,3.86,1,0,1,0,1,0,1,1
+male,Agriculture,3,Punjab,32.2,2.98,1,0,1,0,0,1,1,1
+female,Environmental Sciences,4,Sindh,1.0,3.02,1,0,1,0,0,0,1,1
+female,Biochemistry,4,KPK,1.0,3.33,1,0,1,0,0,1,0,1
+female,Food Science,1,AJK,100.8,2.99,0,0,1,0,1,0,1,0
+female,Veterinary Science,3,Sindh,37.4,3.28,1,0,1,0,1,0,1,1
+female,Plant Breeding,2,Balochistan,43.3,3.23,1,0,1,0,1,1,1,1
+male,Plant Breeding,5,Punjab,1.0,3.16,0,0,1,1,0,0,1,0
+male,Biochemistry,4,Punjab,11.1,4.0,1,0,0,0,0,0,0,1
+male,Animal Sciences,1,AJK,53.4,3.51,1,0,1,0,1,0,1,1
+male,Agriculture,1,AJK,42.8,2.61,1,0,1,1,0,1,1,0
+female,Animal Sciences,1,Sindh,1.0,3.27,0,1,0,0,1,1,1,1
+female,Plant Breeding,2,Sindh,43.3,2.74,0,1,1,0,1,0,1,1
+female,Plant Breeding,1,Sindh,49.7,3.3,1,0,1,0,0,1,1,1
+male,Plant Breeding,4,Punjab,86.4,2.48,1,0,1,0,0,0,1,0
+female,Biochemistry,3,AJK,8.8,2.6,1,0,1,0,0,0,0,0
+male,Environmental Sciences,4,Balochistan,1.0,3.25,0,0,0,0,0,0,1,1
+male,Veterinary Science,2,Sindh,1.0,3.55,1,0,1,0,0,0,0,1
+female,Veterinary Science,3,Punjab,1.0,3.33,1,0,0,0,0,0,1,1
+female,Soil Science,1,Punjab,64.5,3.48,1,0,1,0,0,0,1,1
+female,Animal Sciences,4,Punjab,1.0,3.27,1,0,1,1,0,0,1,1
+male,Animal Sciences,1,KPK,17.1,3.18,1,0,1,0,0,0,1,1
+female,Food Science,1,Sindh,92.0,2.87,1,1,1,1,0,1,1,0
+male,Veterinary Science,1,Punjab,35.3,3.47,1,0,1,0,0,0,1,1
+female,Soil Science,4,KPK,70.9,3.56,0,0,1,0,0,0,1,1
+female,Environmental Sciences,1,Islamabad,1.0,3.07,1,0,1,0,0,1,1,1
+male,Environmental Sciences,3,Punjab,1.0,3.05,1,0,0,1,1,0,1,0
+male,Veterinary Science,4,Sindh,92.5,3.82,0,0,1,0,0,1,1,1
+male,Food Science,4,Sindh,39.0,3.09,0,0,0,2,1,0,1,0
+female,Food Science,1,Punjab,39.1,3.13,1,0,1,0,0,0,1,1
+male,Animal Sciences,1,Sindh,1.0,3.32,0,0,1,0,0,0,1,1
+female,Plant Breeding,2,KPK,39.0,3.06,0,0,1,0,0,0,1,1
+female,Biochemistry,1,Punjab,1.0,2.73,1,0,1,1,0,0,1,1
+female,Biochemistry,3,Punjab,82.5,3.27,0,0,1,0,0,1,1,1
+male,Agriculture,2,Gilgit-Baltistan,144.1,3.08,0,0,1,0,1,0,1,0
+female,Soil Science,2,Punjab,54.4,3.93,0,0,1,0,0,0,0,1
+male,Veterinary Science,1,KPK,9.6,3.45,0,0,0,0,1,0,0,0
+female,Food Science,3,KPK,1.0,2.83,1,0,1,0,0,1,1,1
+female,Plant Breeding,1,Gilgit-Baltistan,1.0,3.43,1,0,1,0,0,1,0,1
+female,Agriculture,3,KPK,97.2,3.24,0,0,1,0,0,0,1,0
+female,Veterinary Science,1,Gilgit-Baltistan,1.0,3.69,1,0,1,0,0,1,0,1
+male,Plant Breeding,5,KPK,20.2,2.86,1,0,1,1,1,1,0,0
+male,Veterinary Science,3,Punjab,61.2,3.18,0,0,1,0,0,0,1,0
+male,Plant Breeding,1,Punjab,94.3,3.06,1,0,1,0,1,0,1,1
+male,Animal Sciences,1,Punjab,27.0,3.13,1,0,1,0,0,0,1,1
+male,Environmental Sciences,2,Punjab,18.8,2.7,0,0,1,0,0,0,0,1
+male,Food Science,1,Punjab,37.9,3.36,1,0,1,1,0,1,1,1
+male,Agriculture,1,Punjab,9.9,3.29,0,0,1,0,0,1,0,1
+male,Plant Breeding,4,Punjab,12.0,3.68,1,0,0,0,0,0,0,1
+male,Veterinary Science,3,Punjab,51.5,3.1,1,0,1,1,0,0,0,0
+female,Soil Science,1,Punjab,42.4,2.91,1,0,1,0,0,1,1,1
+female,Agriculture,3,Balochistan,120.3,3.46,0,0,1,0,1,0,0,0
+male,Plant Breeding,2,Sindh,52.6,2.74,1,0,0,0,1,0,1,0
+male,Biochemistry,5,Balochistan,81.0,3.59,1,0,1,0,0,1,1,1
+male,Agriculture,1,Sindh,1.0,3.59,0,0,0,0,0,0,0,0
+female,Veterinary Science,4,Gilgit-Baltistan,56.0,3.67,1,0,1,0,0,0,1,1
+male,Environmental Sciences,4,Balochistan,6.1,3.27,1,0,0,0,0,1,1,1
+male,Plant Breeding,1,Punjab,50.8,2.88,0,0,1,0,0,0,1,0
+male,Food Science,1,Islamabad,62.5,3.15,1,0,0,0,1,0,1,1
+male,Food Science,2,Punjab,37.0,3.27,0,0,1,0,1,1,1,1
+male,Environmental Sciences,4,Sindh,131.3,2.85,1,0,1,0,0,0,1,0
+female,Environmental Sciences,3,Balochistan,92.1,3.7,0,0,1,0,0,0,1,1
+female,Veterinary Science,3,Punjab,82.1,3.36,0,0,1,0,0,0,1,1
+female,Animal Sciences,4,Sindh,65.6,2.7,1,0,1,0,0,1,1,1
+female,Environmental Sciences,4,Punjab,105.5,3.95,1,0,1,0,0,0,1,1
+female,Food Science,2,Punjab,1.0,3.14,0,0,0,0,1,0,1,0
+male,Food Science,3,Punjab,89.8,2.61,1,0,1,0,1,0,1,0
+female,Environmental Sciences,4,Punjab,1.0,2.73,1,0,1,0,0,0,1,1
+male,Food Science,2,Punjab,12.4,3.77,1,0,1,0,1,1,1,1
+male,Environmental Sciences,4,KPK,57.5,3.92,1,0,1,0,0,1,1,1
+female,Animal Sciences,1,Sindh,84.3,3.55,1,0,1,0,0,0,1,1
+male,Biochemistry,1,Sindh,1.0,3.69,1,1,1,1,1,1,0,1
+male,Agriculture,4,KPK,14.5,3.65,0,0,1,0,0,1,1,1
+female,Biochemistry,2,Punjab,38.9,3.35,1,0,1,0,0,1,1,1
+female,Food Science,1,Punjab,27.5,3.25,0,1,1,0,0,0,1,1
+female,Agriculture,1,Balochistan,69.2,3.34,0,0,1,0,0,0,1,0
+male,Soil Science,3,AJK,172.4,3.43,1,0,1,1,0,0,1,0
+male,Plant Breeding,4,Punjab,51.8,2.77,0,0,1,0,0,0,0,0
+female,Environmental Sciences,1,Punjab,5.6,3.43,1,0,1,0,0,0,1,1
+male,Agriculture,1,Balochistan,1.0,3.76,1,0,1,0,0,0,1,1
+female,Agriculture,2,AJK,22.0,3.01,1,0,1,0,0,0,1,1
+male,Plant Breeding,5,Punjab,1.0,2.96,1,0,0,0,0,0,0,1
+male,Biochemistry,2,Punjab,53.7,3.31,1,0,1,0,1,0,1,1
+male,Animal Sciences,5,Punjab,53.1,2.81,1,0,1,0,0,0,1,1
+female,Environmental Sciences,4,Sindh,16.5,2.51,0,0,1,1,0,0,1,0
+male,Biochemistry,2,AJK,114.4,3.62,0,0,0,0,1,0,1,0
+male,Environmental Sciences,4,KPK,5.6,2.9,1,0,1,0,1,0,1,1
+male,Plant Breeding,3,Punjab,30.2,3.11,1,0,1,0,0,1,1,1
+male,Soil Science,3,KPK,60.6,2.83,1,0,1,0,0,0,1,1
+male,Plant Breeding,2,Gilgit-Baltistan,70.7,3.67,0,0,1,0,0,0,0,0
+female,Soil Science,4,Sindh,86.1,3.48,0,0,1,0,0,1,1,1
+male,Plant Breeding,4,Balochistan,52.1,2.99,1,0,1,0,0,0,1,1
+female,Plant Breeding,4,Punjab,77.0,2.57,1,0,0,0,0,0,0,0
+female,Animal Sciences,5,Punjab,8.4,2.94,1,0,1,0,0,0,1,1
+male,Soil Science,2,Sindh,71.7,3.36,1,0,1,0,0,0,1,1
+male,Environmental Sciences,4,Sindh,71.2,3.18,1,0,1,0,0,0,1,1
+female,Biochemistry,4,Islamabad,95.5,3.15,0,0,1,0,0,0,1,0
+male,Plant Breeding,1,Sindh,1.0,3.2,1,0,1,0,1,0,1,1
+male,Agriculture,1,Punjab,1.0,3.44,0,1,0,0,0,0,1,1
+female,Plant Breeding,2,Punjab,67.9,3.08,0,1,1,0,0,0,1,1
+female,Veterinary Science,4,Sindh,1.0,3.3,1,0,1,0,1,0,1,1
+female,Agriculture,2,Punjab,54.7,2.66,0,0,1,0,0,0,1,0
+male,Agriculture,4,KPK,77.4,4.0,0,0,1,0,0,0,0,1
+female,Plant Breeding,1,Punjab,11.9,2.97,1,0,1,0,0,0,1,1
+female,Biochemistry,2,Punjab,17.8,3.19,1,0,1,1,0,0,1,0
+male,Plant Breeding,3,KPK,1.0,3.35,1,0,1,0,0,0,1,1
+female,Animal Sciences,1,Punjab,14.1,2.92,1,0,1,0,0,1,0,1
+male,Agriculture,4,KPK,15.3,3.1,0,0,1,0,0,0,1,1
+male,Soil Science,1,Sindh,7.7,3.1,1,0,0,0,0,1,1,1
+male,Agriculture,5,Sindh,5.5,2.69,1,0,1,0,0,0,1,0
+male,Environmental Sciences,1,KPK,24.2,3.3,1,0,1,0,0,1,1,1
+male,Environmental Sciences,5,Balochistan,23.7,2.36,0,0,1,0,1,0,1,1
+female,Biochemistry,3,Gilgit-Baltistan,110.0,3.89,0,0,0,0,0,0,0,0
+female,Veterinary Science,1,Punjab,19.2,3.46,0,0,1,0,0,1,1,1
+female,Food Science,1,Punjab,48.8,3.39,1,0,1,0,0,1,1,1
+female,Veterinary Science,1,KPK,11.9,2.32,0,0,1,1,0,1,0,0
+female,Environmental Sciences,3,Sindh,11.4,2.74,1,0,1,0,1,0,0,1
+male,Food Science,4,KPK,1.0,3.73,1,0,1,0,0,0,1,1
+male,Biochemistry,2,Sindh,1.0,4.0,1,0,1,0,1,0,0,1
+male,Food Science,2,Balochistan,1.0,3.64,1,0,1,0,0,0,1,1
+male,Agriculture,3,Punjab,42.3,3.57,0,0,1,0,0,0,1,1
+female,Food Science,3,Sindh,78.0,3.34,1,0,1,0,0,0,1,1
+male,Environmental Sciences,3,Punjab,1.0,2.72,1,0,1,0,1,0,1,1
+male,Plant Breeding,2,Punjab,13.0,3.55,1,0,1,0,0,1,0,1
+male,Veterinary Science,4,KPK,1.0,2.6,1,0,1,0,0,0,1,1
+male,Soil Science,5,Sindh,24.4,2.56,0,0,1,0,1,0,1,1
+female,Soil Science,2,Punjab,78.0,2.53,1,1,0,0,0,0,0,0
+male,Plant Breeding,1,AJK,17.1,3.54,0,1,1,1,0,0,1,1
+male,Plant Breeding,1,Balochistan,33.1,3.07,0,0,1,1,0,0,1,0
+male,Agriculture,3,Sindh,93.2,3.15,1,0,1,0,1,1,0,1
+male,Veterinary Science,2,Islamabad,53.3,3.09,1,0,1,0,0,0,1,1
+female,Plant Breeding,5,Punjab,4.6,2.59,0,0,1,0,0,0,1,0
+male,Food Science,3,Balochistan,41.4,2.8,1,0,1,0,1,0,1,1
+male,Animal Sciences,3,Punjab,1.9,2.82,1,0,1,0,0,0,1,1
+male,Agriculture,4,Punjab,51.8,2.47,1,0,0,0,0,0,0,0
+female,Environmental Sciences,2,Punjab,55.6,2.87,0,0,1,0,0,0,1,0
+female,Agriculture,4,Punjab,1.0,2.61,1,0,1,0,0,0,1,1
+female,Agriculture,1,Sindh,42.0,3.36,0,0,1,0,0,0,1,0
+female,Soil Science,3,Punjab,30.3,3.4,1,0,1,0,0,0,0,1
+female,Food Science,5,KPK,56.8,2.52,1,0,1,0,0,0,1,0
+male,Veterinary Science,4,Punjab,68.3,2.97,1,0,1,2,1,0,1,0
+male,Veterinary Science,4,Punjab,54.1,3.94,0,0,0,0,0,0,1,1
+male,Food Science,2,Islamabad,22.9,2.66,1,0,0,0,0,0,1,0
+male,Environmental Sciences,4,KPK,72.3,3.29,0,0,1,0,0,1,0,1
+female,Soil Science,3,AJK,1.0,3.15,0,1,1,0,1,0,1,1
+male,Food Science,3,Sindh,1.0,3.59,1,1,0,0,1,0,1,1
+female,Soil Science,1,Punjab,1.0,3.23,0,0,1,0,1,0,0,1
+female,Soil Science,1,Sindh,32.2,2.91,1,0,1,0,1,0,1,1
+male,Plant Breeding,3,Sindh,2.1,3.13,1,0,1,1,1,0,1,1
+female,Plant Breeding,1,Punjab,50.9,3.14,1,0,1,0,1,0,1,1
+female,Biochemistry,4,Gilgit-Baltistan,1.0,3.06,1,0,1,0,0,0,1,1
+female,Animal Sciences,4,KPK,9.1,2.51,1,0,1,0,0,0,1,0
+male,Animal Sciences,5,KPK,53.8,3.66,1,0,0,1,0,0,1,0
+male,Plant Breeding,1,Sindh,1.0,3.58,0,1,1,1,0,0,1,1
+male,Environmental Sciences,5,KPK,51.4,2.63,1,0,0,0,0,1,1,0
+male,Soil Science,1,Punjab,12.7,2.96,1,0,1,0,0,0,1,1
+male,Agriculture,2,Islamabad,33.7,3.0,0,0,1,0,0,0,0,0
+female,Animal Sciences,4,Punjab,58.8,2.58,0,0,1,0,0,0,1,0
+female,Soil Science,1,Punjab,73.1,2.26,0,0,1,0,0,0,1,0
+male,Food Science,1,Punjab,38.7,2.8,1,0,1,0,0,0,1,0
+male,Biochemistry,1,KPK,2.4,2.94,1,0,1,0,1,0,1,1
+male,Environmental Sciences,3,Islamabad,16.7,2.45,1,0,0,0,0,0,0,0
+male,Environmental Sciences,4,AJK,60.5,3.18,1,0,1,1,0,0,1,0
+female,Agriculture,1,KPK,1.0,3.62,1,0,1,0,0,0,0,1
+male,Plant Breeding,1,Islamabad,27.9,3.48,0,0,0,0,0,0,1,1
+male,Plant Breeding,3,KPK,19.6,3.04,1,0,0,0,1,0,1,1
+female,Soil Science,1,Punjab,30.9,2.27,1,0,1,1,0,0,1,0
+male,Environmental Sciences,4,KPK,1.0,3.42,0,0,1,1,1,1,1,1
+male,Veterinary Science,5,Punjab,1.0,3.17,0,0,1,0,0,1,1,1
+female,Plant Breeding,4,Punjab,55.8,3.29,0,0,1,0,1,1,0,1
+female,Soil Science,4,Punjab,73.6,3.97,1,0,1,0,0,0,1,1
+female,Environmental Sciences,3,Punjab,1.0,2.73,0,0,1,0,0,0,1,0
+female,Environmental Sciences,4,Islamabad,49.8,2.0,0,1,1,0,0,1,1,0
+male,Veterinary Science,1,Islamabad,78.3,2.63,0,0,1,0,0,0,0,0
+female,Biochemistry,1,Punjab,58.8,3.32,0,0,0,0,1,0,1,0
+female,Agriculture,3,KPK,18.3,3.11,1,1,1,0,0,1,0,1
+female,Animal Sciences,1,Punjab,1.0,2.55,1,0,1,1,0,0,1,0
+female,Plant Breeding,4,Punjab,38.2,2.46,1,0,1,0,1,1,1,1
+female,Agriculture,3,Punjab,44.9,2.94,1,0,1,0,0,1,1,1
+female,Animal Sciences,5,Punjab,38.8,2.54,0,0,1,0,1,1,1,0
+male,Plant Breeding,2,Punjab,27.8,3.33,1,1,1,0,0,0,0,1
+female,Plant Breeding,2,Punjab,1.0,2.91,1,0,1,0,0,0,1,1
+male,Agriculture,4,Punjab,51.9,2.82,1,0,0,0,0,0,1,0
+female,Veterinary Science,1,Punjab,53.8,2.76,1,0,1,0,0,0,1,0
+female,Food Science,3,AJK,43.0,3.22,0,0,1,0,1,0,1,1
+female,Soil Science,3,Punjab,39.4,3.12,1,0,1,0,0,0,0,1
+female,Veterinary Science,5,Punjab,102.2,3.19,1,0,1,0,0,0,1,1
+male,Plant Breeding,4,Sindh,10.0,3.18,0,0,1,1,1,0,0,0
+female,Soil Science,1,Punjab,86.3,3.07,1,0,1,0,0,1,1,1
+female,Environmental Sciences,2,Sindh,5.6,2.64,0,0,0,0,0,1,1,0
+male,Food Science,3,Punjab,79.4,2.77,0,0,1,0,0,0,1,0
+male,Biochemistry,1,KPK,84.3,2.92,1,0,1,0,0,0,1,0
+male,Food Science,2,Sindh,23.3,4.0,1,0,1,0,1,0,1,1
+female,Agriculture,2,KPK,101.4,2.49,1,0,1,0,0,0,1,0
+male,Agriculture,1,Sindh,53.8,2.91,1,0,1,0,0,0,0,1
+female,Food Science,3,Punjab,1.0,3.14,0,0,1,0,0,1,0,1
+male,Environmental Sciences,1,Punjab,20.0,2.96,1,0,1,0,0,1,1,1
+female,Food Science,3,Punjab,80.3,3.58,1,1,0,0,0,0,1,1
+male,Soil Science,1,Sindh,71.9,2.96,0,0,1,0,0,1,1,1
+female,Animal Sciences,4,Punjab,1.0,2.99,1,0,1,1,1,1,1,1
+male,Agriculture,1,Punjab,29.4,3.47,1,0,1,0,0,1,1,1
+female,Animal Sciences,4,KPK,43.1,3.91,0,0,1,0,1,1,1,1
+female,Agriculture,1,Punjab,14.7,3.73,1,0,0,0,0,0,1,1
+female,Animal Sciences,3,Punjab,129.3,3.04,1,0,1,0,1,1,0,1
+female,Plant Breeding,2,KPK,44.3,3.08,1,1,1,2,0,1,1,1
+male,Plant Breeding,1,Punjab,32.5,3.12,1,0,1,0,1,0,0,1
+male,Veterinary Science,2,Balochistan,82.6,3.17,1,0,1,0,0,0,1,1
+male,Environmental Sciences,4,AJK,20.4,2.72,1,0,1,1,0,0,1,0
+male,Plant Breeding,5,Islamabad,75.3,3.52,0,0,1,0,0,0,1,1
+female,Veterinary Science,2,Punjab,1.0,3.19,1,0,1,0,1,1,0,1
+female,Animal Sciences,1,Punjab,16.9,3.08,1,0,1,0,1,0,1,1
+female,Agriculture,4,KPK,77.0,2.53,1,0,1,0,0,1,1,0
+female,Biochemistry,3,KPK,97.8,3.13,1,0,1,0,0,1,1,1
+female,Environmental Sciences,1,KPK,4.1,2.25,1,1,1,0,0,0,1,1
+female,Veterinary Science,4,Punjab,1.0,2.84,1,0,1,0,0,0,1,1
+male,Soil Science,3,Punjab,57.7,2.85,1,0,1,0,0,1,0,1
+male,Soil Science,3,Punjab,10.1,3.23,1,0,1,0,0,0,1,1
+female,Plant Breeding,2,Punjab,24.3,3.95,1,0,0,0,1,1,1,1
+female,Agriculture,2,Punjab,70.1,3.36,0,0,0,0,0,1,1,0
+male,Biochemistry,1,AJK,13.2,3.75,0,0,1,0,0,0,1,1
+male,Biochemistry,4,Punjab,1.0,3.39,1,0,1,0,0,0,1,1
+female,Biochemistry,1,KPK,1.0,3.61,0,0,0,1,0,1,1,0
+male,Biochemistry,4,AJK,35.4,3.94,0,0,1,0,0,1,0,1
+male,Biochemistry,4,Punjab,1.0,2.77,0,0,0,0,0,0,1,0
+female,Soil Science,4,Sindh,23.1,2.74,1,0,1,1,0,1,1,0
+female,Agriculture,1,KPK,1.0,3.4,1,0,1,0,0,0,1,1
+male,Animal Sciences,2,Punjab,100.6,3.1,1,0,1,0,0,0,1,0
+female,Food Science,2,Sindh,121.6,3.2,1,0,0,0,0,0,1,0
+male,Food Science,3,Balochistan,1.0,2.99,1,0,1,0,0,1,0,1
+female,Environmental Sciences,5,KPK,45.3,2.83,0,0,1,0,1,1,1,1
+male,Environmental Sciences,2,Balochistan,1.0,3.83,0,0,1,0,1,0,1,1
+female,Plant Breeding,4,Islamabad,22.6,2.61,0,0,1,0,0,0,1,0
+male,Soil Science,1,Punjab,107.1,3.41,0,0,1,1,0,0,1,0
+male,Food Science,2,KPK,16.3,3.34,1,0,1,0,1,1,1,1
+female,Food Science,1,KPK,23.6,2.39,0,0,1,0,0,1,0,0
+male,Environmental Sciences,4,KPK,1.0,2.73,1,0,1,0,0,0,1,1
+male,Animal Sciences,1,KPK,80.8,2.8,1,0,1,0,1,1,0,1
+male,Plant Breeding,2,KPK,1.0,3.35,1,1,1,1,1,0,0,1
+female,Animal Sciences,4,AJK,17.3,2.93,1,0,1,0,1,1,0,1
+female,Food Science,3,Punjab,33.2,3.06,1,0,0,0,1,1,1,1
+female,Environmental Sciences,1,KPK,8.6,2.44,1,0,1,0,0,0,1,1
+male,Environmental Sciences,1,Punjab,69.5,4.0,1,0,0,1,0,1,0,1
+male,Soil Science,3,Sindh,83.1,3.13,1,0,1,0,1,0,1,0
+male,Veterinary Science,2,Balochistan,1.0,3.32,1,0,1,1,0,1,1,1
+female,Soil Science,1,Balochistan,118.7,2.86,1,0,1,0,0,0,1,0
+female,Biochemistry,3,Punjab,1.0,2.81,0,0,0,0,0,1,1,0
+female,Soil Science,1,Sindh,86.5,3.96,1,1,1,0,0,0,1,1
+female,Animal Sciences,3,Punjab,41.0,2.24,1,0,1,0,0,0,1,0
+male,Veterinary Science,2,Punjab,14.9,3.23,0,0,1,0,1,1,1,1
+female,Plant Breeding,1,Punjab,18.6,2.55,0,0,1,0,0,0,1,0
+male,Veterinary Science,1,AJK,33.7,2.92,0,0,0,0,0,0,1,0
+male,Plant Breeding,1,Punjab,43.3,2.81,0,0,1,0,0,1,1,0
+male,Agriculture,1,Islamabad,1.0,2.66,0,0,0,0,1,0,1,0
+male,Food Science,2,Punjab,25.6,3.12,1,0,1,0,0,0,1,1
+male,Environmental Sciences,5,KPK,4.2,2.0,1,0,0,0,0,1,1,0
+male,Animal Sciences,4,Sindh,1.0,2.96,1,0,1,0,0,0,1,1
+male,Animal Sciences,2,KPK,2.3,3.06,1,0,1,0,0,0,1,1
+female,Plant Breeding,3,KPK,1.0,2.49,0,0,0,0,0,0,0,0
+male,Animal Sciences,3,KPK,18.2,3.78,1,1,1,0,1,1,1,1
+male,Environmental Sciences,4,AJK,52.3,2.83,0,0,1,0,0,0,1,0
+female,Food Science,1,Sindh,39.8,2.99,0,0,0,0,1,0,0,0
+female,Environmental Sciences,2,Punjab,114.0,2.83,1,1,0,0,0,0,1,0
+male,Food Science,2,Punjab,1.0,3.06,1,0,1,0,0,0,0,1
+male,Veterinary Science,1,KPK,53.8,3.69,1,0,0,0,0,0,0,1
+female,Plant Breeding,2,Sindh,35.3,4.0,1,0,1,0,0,1,1,1
+male,Biochemistry,4,Sindh,67.6,3.44,1,0,0,2,0,0,0,0
+male,Food Science,5,Sindh,63.7,3.59,1,0,1,1,0,0,1,0
+female,Plant Breeding,1,Punjab,28.4,3.87,1,0,1,1,0,1,0,1
+male,Agriculture,2,Balochistan,41.9,3.21,0,0,0,0,0,0,0,0
+female,Agriculture,2,KPK,5.2,3.81,0,0,1,0,0,1,1,1
+female,Environmental Sciences,2,KPK,59.5,3.46,1,0,1,0,0,1,1,1
+female,Soil Science,3,KPK,1.0,3.16,1,1,1,0,0,0,1,1
+male,Animal Sciences,1,AJK,66.1,3.26,0,0,1,0,0,0,0,0
+male,Plant Breeding,4,Sindh,34.1,2.28,0,0,1,0,0,0,1,0
+male,Animal Sciences,5,Islamabad,15.5,3.23,0,0,1,1,0,0,1,0
+male,Veterinary Science,3,Punjab,25.7,2.41,1,0,1,0,0,0,0,0
+female,Animal Sciences,3,KPK,28.6,2.37,0,0,0,0,0,0,1,0
+male,Veterinary Science,3,KPK,86.9,3.19,1,0,1,1,0,0,1,0
+female,Environmental Sciences,2,Sindh,164.3,2.6,0,0,1,0,0,1,1,0
+female,Animal Sciences,1,Punjab,83.8,3.1,0,0,0,0,1,0,1,0
+female,Veterinary Science,3,Sindh,12.4,3.16,0,0,1,0,1,0,1,1
+male,Plant Breeding,1,Punjab,60.2,3.18,1,0,1,0,0,0,0,1
+male,Environmental Sciences,4,AJK,61.9,2.69,0,0,1,0,0,0,1,0
+female,Veterinary Science,2,Punjab,1.0,3.5,1,0,0,0,0,1,1,1
+female,Biochemistry,2,Punjab,1.0,3.06,1,1,1,0,0,1,1,1
+female,Animal Sciences,2,Sindh,32.5,3.3,1,0,1,0,1,0,1,1
+female,Soil Science,5,Punjab,67.3,2.56,0,0,1,0,0,0,0,0
+female,Biochemistry,1,Punjab,1.0,3.02,1,0,0,1,0,0,1,0
+male,Animal Sciences,1,Sindh,6.2,3.59,0,0,1,0,1,1,1,1
+female,Food Science,1,Sindh,57.9,3.54,1,0,1,0,1,0,0,1
+male,Soil Science,3,Punjab,36.7,2.74,1,0,1,0,0,1,1,1
+female,Agriculture,5,Sindh,91.7,2.85,1,0,0,0,0,0,1,0
+female,Animal Sciences,1,Sindh,1.0,2.66,1,0,1,1,1,0,1,1
+male,Biochemistry,5,Balochistan,129.1,2.8,1,0,1,0,0,0,1,0
+male,Animal Sciences,2,Punjab,1.0,2.47,1,0,1,0,0,0,0,1
+male,Soil Science,3,Punjab,1.0,3.04,0,0,1,0,1,0,0,1
+female,Plant Breeding,1,Islamabad,32.6,3.38,1,0,1,0,0,0,0,1
+male,Food Science,2,Sindh,1.0,2.75,0,0,1,0,0,0,1,0
+male,Veterinary Science,3,Punjab,33.4,3.06,0,0,1,0,0,1,0,1
+male,Plant Breeding,3,Balochistan,32.1,3.0,1,0,1,0,0,0,1,1
+male,Agriculture,1,Punjab,27.2,3.57,1,1,1,0,0,1,1,1
+male,Animal Sciences,4,Balochistan,1.3,2.82,1,0,1,0,0,0,1,1
+male,Animal Sciences,5,KPK,52.3,2.84,1,0,1,0,0,0,0,0
+male,Environmental Sciences,2,Islamabad,22.3,2.72,1,0,1,0,1,0,0,0
+male,Agriculture,3,Islamabad,79.1,2.59,1,1,1,0,0,0,1,1
+male,Environmental Sciences,4,Punjab,27.8,3.34,1,0,0,0,0,1,1,1
+male,Animal Sciences,1,Balochistan,1.0,3.04,1,0,1,0,1,0,0,1
+male,Soil Science,4,Punjab,1.0,3.12,0,0,1,0,0,0,0,1
+female,Plant Breeding,2,KPK,28.1,3.67,1,0,1,0,1,0,1,1
+male,Veterinary Science,4,Sindh,1.0,3.7,1,0,1,0,0,1,1,1
+male,Biochemistry,1,Punjab,1.0,2.36,1,0,0,0,0,1,1,0
+male,Food Science,2,Punjab,56.1,3.39,0,0,0,0,0,0,1,0
+male,Agriculture,3,Punjab,1.0,3.2,0,0,1,0,0,1,1,1
+male,Environmental Sciences,3,Punjab,91.5,2.89,0,0,1,0,0,0,0,0
+male,Plant Breeding,4,Punjab,41.4,3.25,0,0,1,0,0,0,1,0
+female,Biochemistry,5,AJK,33.2,2.32,1,0,1,0,0,0,1,0
+male,Animal Sciences,1,Sindh,1.0,3.76,0,0,1,0,0,0,0,1
+male,Agriculture,2,Balochistan,65.6,3.33,1,0,1,0,0,0,1,1
+male,Agriculture,2,Gilgit-Baltistan,34.9,2.71,1,0,1,0,0,1,0,0
+male,Animal Sciences,2,KPK,7.6,2.84,1,1,1,1,0,1,1,1
+male,Food Science,2,Punjab,43.0,2.33,0,0,1,0,0,0,1,0
+female,Biochemistry,4,Gilgit-Baltistan,1.0,2.96,1,0,1,0,0,0,1,1
+female,Agriculture,4,KPK,1.0,2.88,1,0,1,0,1,0,1,1
+male,Biochemistry,1,KPK,1.0,2.5,1,0,1,0,1,0,0,1
+male,Food Science,2,AJK,49.0,3.45,1,1,0,0,0,0,1,1
+male,Agriculture,3,Sindh,34.9,3.67,1,0,0,0,0,0,1,0
+male,Veterinary Science,2,Sindh,77.0,3.09,0,1,0,0,0,0,1,0
+female,Food Science,1,AJK,1.0,2.96,1,0,1,0,1,1,0,1
+male,Animal Sciences,2,Sindh,58.0,3.3,1,0,1,0,0,0,1,1
+male,Veterinary Science,2,Balochistan,30.4,3.09,1,0,1,0,0,0,0,1
+female,Plant Breeding,1,Punjab,1.0,2.61,1,0,1,0,1,1,0,1
+male,Plant Breeding,4,Punjab,50.4,2.81,0,1,1,0,0,0,0,0
+male,Agriculture,2,Sindh,32.4,2.97,0,0,1,0,0,0,1,0
+female,Agriculture,3,Punjab,9.8,3.21,1,1,1,0,0,0,0,1
+male,Food Science,3,Islamabad,36.7,3.1,1,0,0,0,1,0,0,0
+male,Food Science,4,Punjab,29.8,3.19,0,0,1,0,0,1,1,1
+male,Agriculture,1,KPK,28.9,2.41,1,1,1,0,0,0,1,1
+female,Veterinary Science,1,Punjab,18.5,3.4,1,0,1,1,0,0,0,1
+male,Plant Breeding,2,Islamabad,1.0,3.1,1,0,1,0,0,0,1,1
+male,Veterinary Science,2,Punjab,38.0,4.0,0,0,1,0,1,0,1,1
+male,Veterinary Science,2,Punjab,2.9,2.93,1,0,1,0,0,1,0,1
+male,Animal Sciences,4,Punjab,1.0,3.25,1,0,1,0,0,1,0,1
+female,Plant Breeding,1,Sindh,25.4,4.0,1,0,1,0,1,0,1,1
+male,Veterinary Science,1,Islamabad,64.4,3.19,1,0,1,1,0,0,1,0
+female,Food Science,2,Islamabad,42.4,3.07,1,0,0,0,0,1,1,0
+female,Animal Sciences,4,Punjab,13.8,2.66,0,0,0,0,1,1,1,0
+female,Agriculture,4,Sindh,12.1,3.79,1,1,1,0,0,0,1,1
+male,Animal Sciences,4,Punjab,60.4,2.58,0,0,1,0,0,0,1,0
+female,Biochemistry,3,Sindh,1.0,3.29,1,0,1,1,0,0,1,1
+female,Animal Sciences,4,Sindh,66.9,2.89,1,0,1,0,0,0,1,0
+male,Agriculture,3,Punjab,1.0,3.01,1,0,0,0,0,0,1,0
+female,Soil Science,1,KPK,1.0,2.46,1,0,1,1,0,0,1,0
+female,Food Science,3,AJK,14.4,3.7,0,0,1,0,0,0,1,1
+male,Food Science,4,Punjab,121.8,2.97,1,0,1,0,0,0,1,0
+female,Food Science,2,Punjab,102.1,2.55,1,0,1,0,0,0,0,0
+male,Biochemistry,3,Punjab,63.3,3.66,0,1,1,0,1,0,1,1
+female,Biochemistry,2,Punjab,49.3,2.87,0,0,1,0,1,0,1,1
+female,Plant Breeding,3,Punjab,1.0,3.25,1,0,1,0,1,0,1,1
+male,Plant Breeding,1,KPK,41.3,3.48,0,0,0,0,0,1,0,1
+female,Soil Science,3,Punjab,13.0,3.31,0,1,1,0,0,0,0,1
+male,Plant Breeding,4,KPK,2.3,2.11,0,0,0,1,0,1,1,0
+female,Plant Breeding,1,AJK,41.2,3.41,1,0,1,0,0,1,0,1
+female,Biochemistry,2,AJK,16.2,3.05,1,0,1,0,1,1,1,1
+male,Soil Science,1,KPK,69.8,2.95,1,0,1,1,0,0,1,0
+male,Agriculture,1,Punjab,1.0,3.05,1,0,1,1,0,0,1,1
+male,Animal Sciences,5,Punjab,38.0,2.38,0,0,1,0,0,1,1,0
+male,Biochemistry,2,Punjab,1.0,3.19,1,0,1,0,0,0,1,1
+male,Animal Sciences,2,Islamabad,18.6,2.49,0,0,1,0,1,1,1,0
+male,Food Science,2,Islamabad,47.2,2.97,1,0,1,0,0,0,0,0
+male,Environmental Sciences,5,Punjab,1.0,3.17,0,0,1,0,0,0,1,1
+male,Plant Breeding,2,Punjab,41.6,3.58,0,0,0,0,0,0,1,0
+female,Plant Breeding,4,Sindh,26.5,2.73,1,0,0,1,0,0,0,0
+female,Animal Sciences,2,Punjab,8.6,3.75,0,0,1,0,0,0,0,1
+female,Agriculture,1,Islamabad,16.2,3.53,1,0,1,0,0,1,1,1
+male,Animal Sciences,3,Punjab,28.8,2.91,1,0,1,0,1,1,1,1
+female,Animal Sciences,1,Punjab,4.3,2.6,1,0,1,0,1,0,1,1
+female,Biochemistry,3,Punjab,35.3,2.45,0,0,0,0,0,0,0,0
+male,Veterinary Science,2,Punjab,23.9,3.22,1,0,1,0,1,0,0,1
+male,Food Science,4,Punjab,10.5,2.77,1,0,1,1,0,0,1,0
+female,Animal Sciences,4,Gilgit-Baltistan,98.6,3.64,0,0,1,0,0,1,0,0
+male,Biochemistry,4,Punjab,51.6,2.79,1,0,1,0,0,1,1,1
+male,Animal Sciences,1,Sindh,19.7,2.69,1,0,0,0,1,0,1,0
+female,Animal Sciences,4,Punjab,40.8,3.21,1,0,1,0,1,1,1,1
+male,Soil Science,5,Punjab,1.0,2.79,1,0,1,0,0,0,1,1
+male,Soil Science,1,Punjab,17.5,3.1,1,0,1,0,0,1,1,1
+female,Veterinary Science,2,Punjab,22.2,3.54,1,0,1,0,1,0,1,1
+female,Biochemistry,4,Punjab,1.0,3.15,1,0,0,0,0,0,1,0
+male,Plant Breeding,1,Punjab,50.5,3.15,0,0,1,2,0,1,1,0
+female,Agriculture,3,Balochistan,14.8,3.19,1,1,1,0,0,0,1,1
+female,Animal Sciences,4,KPK,20.8,2.34,1,0,0,1,0,0,0,0
+male,Biochemistry,1,AJK,12.3,3.28,1,0,1,0,0,0,1,0
+female,Animal Sciences,3,Punjab,153.4,3.17,1,0,1,0,0,0,0,0
+male,Plant Breeding,3,KPK,8.5,3.5,0,0,1,0,1,0,1,1
+male,Plant Breeding,2,KPK,1.0,3.37,1,0,1,0,0,0,1,1
+female,Soil Science,4,Punjab,1.0,3.01,0,0,1,0,0,0,1,1
+male,Environmental Sciences,1,Punjab,65.4,3.56,1,0,1,0,0,1,1,1
+female,Food Science,2,Sindh,88.5,2.97,1,0,1,0,0,0,1,0
+female,Plant Breeding,4,Balochistan,7.7,3.21,0,0,1,0,0,0,0,1
+male,Plant Breeding,1,Sindh,86.2,2.96,1,0,0,0,0,0,0,0
+female,Food Science,4,Punjab,64.7,3.31,1,0,0,0,0,0,0,0
+male,Soil Science,1,Islamabad,27.4,2.93,1,0,1,0,1,1,1,1
+female,Agriculture,2,Punjab,24.6,3.84,1,0,0,0,0,0,0,1
+male,Animal Sciences,1,Islamabad,42.2,4.0,1,0,1,2,0,0,1,0
+female,Veterinary Science,3,Balochistan,70.1,3.49,1,0,1,0,1,0,0,1
+female,Food Science,4,Gilgit-Baltistan,50.9,3.79,0,0,0,0,0,0,1,1
+male,Environmental Sciences,4,Balochistan,7.9,2.41,0,0,1,0,0,0,1,0
+female,Food Science,5,Punjab,28.0,2.46,0,0,1,0,1,0,1,0
+female,Veterinary Science,3,KPK,114.3,2.96,0,0,1,0,0,0,1,0
+female,Environmental Sciences,4,Balochistan,45.0,3.12,0,0,1,0,0,0,1,0
+female,Biochemistry,3,KPK,69.8,3.01,1,0,1,0,0,0,1,1
+female,Agriculture,5,Punjab,56.6,2.36,1,0,1,0,1,0,1,0
+male,Veterinary Science,3,Punjab,45.9,3.62,0,0,1,0,0,0,1,1
+male,Soil Science,4,Punjab,39.3,4.0,1,0,0,0,1,0,1,1
+male,Environmental Sciences,1,Sindh,70.9,3.68,1,0,1,0,0,0,0,1
+female,Biochemistry,2,Sindh,63.7,3.59,0,1,1,0,0,0,1,1
+male,Plant Breeding,4,Gilgit-Baltistan,45.6,3.2,1,0,0,0,1,0,1,0
+male,Agriculture,1,Balochistan,7.2,2.72,0,0,1,1,1,0,1,0
+male,Environmental Sciences,1,KPK,50.4,3.13,1,0,1,0,0,0,1,1
+female,Food Science,5,Punjab,32.3,4.0,1,0,1,0,0,0,1,1
+male,Agriculture,2,Sindh,22.7,2.94,0,0,1,0,0,0,1,1
+female,Soil Science,1,Punjab,142.2,2.9,0,0,1,0,0,0,0,0
+male,Plant Breeding,2,Punjab,1.0,3.6,1,0,1,1,0,0,1,1
+female,Agriculture,2,Punjab,73.3,3.63,0,0,1,0,0,0,1,1
+male,Food Science,3,Punjab,1.0,2.72,1,0,1,0,1,0,0,1
+male,Plant Breeding,5,Punjab,40.2,2.98,1,0,1,0,0,0,1,1
+female,Veterinary Science,5,Sindh,137.7,2.87,0,0,1,0,0,1,0,0
+female,Soil Science,3,Punjab,1.0,3.13,1,0,1,1,0,0,0,1
+male,Animal Sciences,3,Punjab,6.0,3.6,1,0,1,0,0,0,0,1
+male,Plant Breeding,2,Punjab,34.3,2.74,0,0,1,0,0,0,0,0
+female,Animal Sciences,4,KPK,1.1,3.59,1,1,0,0,0,0,1,1
+female,Veterinary Science,1,Sindh,70.4,3.15,1,0,1,0,0,1,1,0
+male,Veterinary Science,1,Punjab,13.6,4.0,1,0,1,0,0,0,0,1
+male,Soil Science,5,Punjab,61.2,3.24,0,0,1,0,0,0,1,1
+female,Plant Breeding,4,Islamabad,1.0,3.06,0,0,1,1,1,0,1,0
+female,Plant Breeding,2,Sindh,1.0,3.36,1,0,1,0,0,1,0,1
+female,Plant Breeding,3,KPK,25.8,2.95,1,0,1,0,0,1,1,1
+female,Food Science,2,Sindh,1.0,2.29,0,0,1,0,0,0,0,0
+male,Biochemistry,2,Balochistan,95.7,2.99,1,0,1,0,0,0,1,1
+female,Plant Breeding,2,AJK,1.0,2.98,1,0,1,0,1,0,1,1
+female,Soil Science,1,Punjab,1.0,2.38,0,0,1,0,0,1,1,0
+female,Biochemistry,3,KPK,51.5,3.07,1,0,1,1,1,0,0,1
+male,Biochemistry,2,Punjab,11.5,2.17,1,0,1,0,0,0,0,0
+male,Soil Science,3,KPK,1.0,2.94,1,0,1,0,1,0,1,1
+female,Environmental Sciences,1,Punjab,116.6,3.21,1,0,0,0,0,0,0,0
+male,Animal Sciences,5,Punjab,1.0,3.14,1,0,1,0,0,0,1,1
+female,Soil Science,3,Islamabad,27.1,2.92,1,0,1,0,0,1,1,1
+male,Veterinary Science,4,Gilgit-Baltistan,26.6,3.06,1,0,1,0,0,0,1,1
+female,Soil Science,1,Punjab,63.4,2.75,1,0,1,0,0,0,0,1
+female,Agriculture,3,Islamabad,53.5,3.1,1,0,1,0,0,1,1,1
+male,Biochemistry,4,Punjab,1.9,3.13,1,0,1,0,0,1,1,1
+male,Food Science,2,Sindh,22.0,2.69,1,0,1,0,1,0,1,1
+female,Soil Science,1,Gilgit-Baltistan,25.9,3.22,0,0,0,0,0,0,1,0
+female,Agriculture,2,Punjab,65.0,3.22,0,0,1,0,0,1,1,0
+male,Food Science,2,Sindh,1.0,3.03,1,1,1,0,0,0,0,1
+female,Biochemistry,2,KPK,115.7,4.0,1,0,1,1,1,1,1,1
+female,Environmental Sciences,2,Punjab,4.6,3.04,1,0,1,0,0,0,1,1
+male,Food Science,2,Punjab,34.7,2.97,1,0,1,0,0,1,1,1
+male,Food Science,3,Punjab,1.0,2.91,0,0,0,0,0,0,1,0
+male,Environmental Sciences,1,KPK,1.0,2.66,1,0,1,0,0,0,1,1
+male,Biochemistry,2,Punjab,1.0,3.41,0,0,1,0,0,1,1,1
+male,Food Science,3,Punjab,1.0,2.79,1,0,1,1,0,0,1,0
+male,Soil Science,1,KPK,18.4,2.84,1,0,1,0,1,0,0,1
+female,Veterinary Science,1,Punjab,1.0,2.86,1,0,1,0,1,0,1,0
+male,Soil Science,1,Punjab,62.8,2.66,1,0,1,0,0,0,1,0
+female,Animal Sciences,1,KPK,3.7,2.31,0,0,1,0,0,0,1,0
+male,Food Science,2,Balochistan,1.0,2.89,0,0,1,0,1,0,1,1
+male,Veterinary Science,1,Punjab,19.3,3.49,1,0,1,0,0,0,1,1
+female,Plant Breeding,2,Gilgit-Baltistan,74.7,3.19,0,0,1,0,0,0,0,0
+female,Environmental Sciences,5,KPK,43.6,3.8,1,0,1,0,0,0,1,1
+male,Agriculture,5,Punjab,31.0,3.44,0,0,1,0,0,1,1,1
+male,Biochemistry,1,Balochistan,1.0,3.34,0,0,0,0,0,0,0,0
+male,Soil Science,2,KPK,1.0,3.95,0,0,0,0,0,1,0,1
+male,Biochemistry,2,KPK,1.0,3.06,1,0,0,0,0,0,0,1
+male,Biochemistry,4,Sindh,87.3,3.13,1,0,1,0,0,0,0,0
+male,Food Science,4,KPK,56.2,3.09,0,0,1,0,0,0,1,0
+male,Agriculture,1,Islamabad,1.0,3.79,1,0,0,0,0,0,1,1
+male,Environmental Sciences,1,Sindh,12.4,3.1,0,0,0,0,1,0,1,0
+female,Food Science,2,Balochistan,2.0,2.81,1,1,1,0,1,1,1,1
+female,Food Science,4,KPK,1.0,3.36,0,0,1,0,1,0,1,1
+male,Animal Sciences,4,Gilgit-Baltistan,53.4,2.73,1,0,0,0,1,0,1,0
+male,Biochemistry,1,Islamabad,23.5,3.34,0,0,0,0,0,1,0,1
+male,Environmental Sciences,3,Punjab,118.2,3.29,1,0,1,1,0,0,1,0
+male,Plant Breeding,1,Punjab,85.0,3.01,1,1,1,0,0,1,1,1
+female,Food Science,3,Sindh,87.4,3.35,1,1,1,1,0,0,1,1
+female,Veterinary Science,5,Punjab,61.9,2.43,1,0,1,0,0,0,1,0
+female,Soil Science,2,Sindh,18.1,3.17,0,0,0,0,0,0,1,0
+female,Food Science,1,Balochistan,58.9,2.89,1,0,1,0,1,0,1,1
+female,Plant Breeding,3,AJK,21.0,4.0,1,0,1,0,0,0,1,1
+female,Agriculture,2,Punjab,100.2,3.17,1,0,1,0,0,1,1,1
+male,Veterinary Science,4,KPK,51.2,2.83,1,0,1,0,1,0,1,1
+male,Food Science,2,Punjab,45.5,2.48,1,0,1,0,0,1,1,1
+male,Soil Science,4,Sindh,40.1,3.69,1,0,0,0,1,0,1,1
+female,Biochemistry,2,Punjab,104.6,2.94,1,0,1,0,0,0,1,1
+male,Food Science,1,Sindh,1.0,2.74,1,1,1,1,1,0,1,1
+female,Environmental Sciences,2,Sindh,108.5,3.25,1,0,0,0,1,1,1,1
+female,Soil Science,1,KPK,27.6,3.39,1,0,1,0,0,0,1,1
+male,Biochemistry,2,KPK,1.0,3.39,1,1,0,0,0,1,1,1
+male,Biochemistry,3,Punjab,4.9,3.11,1,0,1,1,1,0,1,1
+male,Agriculture,1,Punjab,1.0,3.17,0,0,0,0,0,1,1,0
+male,Soil Science,1,Punjab,61.1,3.2,1,0,1,0,0,1,1,1
+female,Plant Breeding,1,Islamabad,1.0,3.25,1,0,1,0,0,0,1,1
+female,Agriculture,1,AJK,41.7,3.29,0,0,1,0,0,0,1,1
+female,Veterinary Science,4,Punjab,80.4,3.59,1,0,1,0,0,0,1,1
+male,Biochemistry,5,Punjab,8.1,3.13,0,0,1,0,1,1,1,1
+male,Plant Breeding,1,Punjab,24.3,2.73,0,0,1,0,0,0,1,1
+male,Veterinary Science,4,KPK,1.0,3.04,1,0,0,1,0,0,0,0
+female,Veterinary Science,4,Punjab,19.5,3.44,1,0,1,0,0,1,0,1
+female,Environmental Sciences,5,Punjab,138.0,2.3,1,0,0,0,0,0,0,0
+male,Veterinary Science,2,Punjab,66.1,2.3,0,1,1,0,0,0,1,0
+female,Food Science,2,Punjab,24.4,3.51,1,0,0,0,0,0,0,1
+male,Plant Breeding,2,Punjab,10.5,3.78,0,1,1,0,0,0,1,1
+female,Biochemistry,4,Punjab,33.3,2.53,1,0,1,0,0,0,0,0
+male,Food Science,4,KPK,40.2,3.15,0,0,1,0,0,0,0,0
+male,Veterinary Science,2,Sindh,18.2,2.92,1,0,1,0,0,1,1,1
+female,Animal Sciences,1,Punjab,56.2,2.98,0,0,0,0,1,0,1,0
+male,Food Science,4,Sindh,1.0,3.24,0,0,1,0,1,1,1,1
+male,Soil Science,4,Sindh,1.0,2.52,1,0,0,0,1,0,1,0
+male,Veterinary Science,2,Balochistan,49.8,2.6,1,0,1,0,1,1,0,0
+male,Food Science,3,Islamabad,1.0,2.96,1,0,1,0,0,0,1,1
+female,Veterinary Science,2,Punjab,64.2,3.03,1,0,1,0,1,0,0,1
+female,Biochemistry,2,AJK,34.4,2.59,1,1,1,0,0,1,1,1
+female,Biochemistry,3,KPK,1.0,3.46,0,0,1,0,1,0,0,1
+male,Plant Breeding,4,KPK,39.4,2.91,1,0,0,1,0,1,0,0
+male,Animal Sciences,5,Punjab,1.0,2.91,1,1,0,0,0,0,1,1
+male,Environmental Sciences,2,Punjab,62.7,3.23,1,0,1,0,0,0,1,1
+male,Food Science,2,Punjab,25.1,3.04,1,0,1,1,0,0,0,0
+male,Soil Science,2,Islamabad,109.0,3.48,1,0,1,0,0,1,1,1
+female,Soil Science,1,KPK,77.9,2.68,1,0,1,0,0,0,1,0
+female,Soil Science,2,Punjab,1.0,2.47,0,0,0,0,1,1,1,1
+female,Food Science,1,Sindh,1.0,2.96,1,0,1,0,0,0,1,1
+male,Soil Science,2,Punjab,4.8,3.13,1,0,1,0,0,0,1,1
+male,Plant Breeding,1,Punjab,1.0,2.54,1,0,1,0,0,1,1,1
+male,Biochemistry,2,KPK,108.0,2.48,1,0,1,0,0,1,1,0
+male,Food Science,4,Sindh,34.6,3.18,1,0,1,0,0,0,0,1
+male,Plant Breeding,1,Balochistan,72.3,2.76,0,0,1,0,0,0,0,0
+male,Environmental Sciences,3,KPK,23.6,2.45,1,0,1,0,0,0,1,1
+male,Veterinary Science,5,KPK,27.8,3.53,1,0,1,0,0,0,1,1
+female,Soil Science,3,Balochistan,33.7,2.82,1,1,1,0,0,1,1,1
+male,Agriculture,1,Punjab,79.3,3.62,0,0,1,0,0,0,1,1
+female,Soil Science,2,KPK,47.5,3.11,1,0,1,0,1,0,1,1
+male,Plant Breeding,3,KPK,1.0,3.23,0,0,1,0,1,1,1,1
+female,Food Science,3,Punjab,99.9,3.0,0,0,1,1,0,1,0,0
+male,Agriculture,1,Punjab,23.3,2.0,1,0,1,0,0,0,1,0
+male,Soil Science,2,Punjab,16.8,2.59,0,0,1,0,1,1,1,1
+male,Food Science,3,Punjab,1.0,3.04,1,0,1,0,0,0,1,1
+male,Animal Sciences,2,Sindh,60.4,3.26,0,0,1,0,0,0,1,0
+female,Agriculture,3,Punjab,39.0,2.29,0,0,1,0,0,1,0,0
+male,Biochemistry,1,KPK,39.0,3.08,0,0,1,0,0,0,1,0
+female,Plant Breeding,2,Punjab,18.9,2.59,1,0,1,0,1,1,1,1
+male,Biochemistry,4,Punjab,12.0,3.21,0,0,1,0,1,0,0,1
+male,Food Science,2,Punjab,20.2,3.09,0,0,1,0,0,1,1,1
+male,Food Science,3,Punjab,53.5,3.43,1,0,1,0,0,0,1,1
+male,Plant Breeding,2,Islamabad,60.6,3.58,1,0,1,0,1,0,1,1
+female,Plant Breeding,2,Punjab,25.8,3.31,1,0,1,0,0,1,1,1
+female,Environmental Sciences,5,Punjab,73.0,3.49,0,0,1,1,0,1,0,0
+female,Biochemistry,2,Punjab,31.8,2.94,1,0,0,0,0,1,1,0
+male,Environmental Sciences,1,Punjab,14.8,4.0,1,1,0,0,1,0,1,1
+male,Food Science,5,KPK,42.9,2.55,1,0,1,0,0,0,1,0
+female,Veterinary Science,4,Balochistan,1.0,2.86,0,0,1,0,0,0,0,1
+male,Biochemistry,3,Punjab,44.3,3.51,0,0,1,0,0,0,1,1
+male,Plant Breeding,1,KPK,1.0,3.44,1,0,1,0,0,0,1,1
+male,Environmental Sciences,1,Sindh,1.0,3.32,0,1,0,0,0,1,1,1
+female,Plant Breeding,3,Gilgit-Baltistan,1.0,3.4,1,0,1,0,1,0,1,1
+female,Agriculture,1,Sindh,28.0,2.16,0,0,1,0,1,0,1,1
+female,Animal Sciences,1,Punjab,99.4,3.82,0,0,1,0,0,1,1,1
+female,Environmental Sciences,4,KPK,30.3,3.01,0,0,1,0,0,1,1,1
+male,Soil Science,2,Balochistan,60.7,3.66,0,0,1,0,1,0,1,1
+female,Food Science,1,Sindh,129.1,2.18,1,0,1,0,0,1,1,0
+male,Food Science,1,Islamabad,51.2,3.22,0,0,1,0,0,1,1,1
+female,Environmental Sciences,2,Gilgit-Baltistan,4.4,2.85,1,0,1,0,0,0,1,1
+male,Biochemistry,3,Punjab,9.9,3.36,0,0,1,1,0,1,1,1
+female,Environmental Sciences,4,Balochistan,35.0,3.24,1,0,1,0,0,1,1,1
+male,Agriculture,1,KPK,9.7,3.26,1,0,1,0,0,1,0,1
+male,Plant Breeding,1,Sindh,12.7,2.62,1,0,1,0,0,0,0,1
+male,Environmental Sciences,3,Sindh,74.4,3.07,1,0,1,0,0,0,1,1
+male,Soil Science,2,Gilgit-Baltistan,76.0,3.02,1,0,0,0,0,1,1,0
+male,Plant Breeding,2,KPK,1.0,3.32,1,0,1,0,0,0,1,1
+female,Animal Sciences,5,Sindh,2.3,3.55,1,1,1,0,0,0,1,1
+male,Food Science,3,Punjab,16.4,3.17,1,0,1,0,0,0,1,1
+female,Veterinary Science,2,Punjab,59.0,2.53,0,0,0,1,1,1,1,0
+male,Soil Science,5,AJK,80.7,3.15,1,0,1,0,1,0,1,0
+female,Agriculture,1,KPK,143.1,4.0,0,0,0,0,0,1,1,0
+male,Agriculture,5,Punjab,16.4,3.84,1,0,1,0,0,0,1,1
+female,Animal Sciences,3,AJK,18.4,2.0,0,1,0,0,1,1,1,0
+female,Environmental Sciences,3,Balochistan,58.5,3.13,0,0,1,0,0,0,1,1
+male,Soil Science,5,Sindh,7.7,3.52,1,0,1,0,1,1,1,1
+female,Plant Breeding,3,Punjab,29.4,3.02,1,0,0,0,0,1,1,0
+male,Plant Breeding,2,Sindh,18.4,2.89,1,0,1,0,0,0,0,1
+male,Agriculture,2,Punjab,1.0,2.98,1,0,1,0,0,0,1,1
+female,Veterinary Science,3,Punjab,39.9,3.35,1,0,1,0,0,1,1,1
+female,Agriculture,3,KPK,27.7,2.58,1,1,0,0,1,1,0,1
+male,Environmental Sciences,1,AJK,85.8,3.63,1,0,1,0,0,0,1,1
+male,Environmental Sciences,4,Punjab,35.2,3.07,1,0,1,0,0,0,1,1
+female,Veterinary Science,3,Gilgit-Baltistan,1.0,2.68,0,0,1,0,0,1,1,1
+female,Veterinary Science,2,AJK,24.7,3.61,1,0,1,0,1,1,1,1
+female,Veterinary Science,1,Punjab,1.0,2.4,1,0,1,0,1,0,0,0
+male,Biochemistry,2,Punjab,1.0,2.85,1,0,1,1,0,0,0,0
+female,Animal Sciences,1,KPK,60.4,2.84,0,0,1,0,0,0,1,0
+male,Environmental Sciences,1,Balochistan,25.1,4.0,0,0,1,0,0,1,1,1
+female,Animal Sciences,2,Punjab,71.9,2.79,0,0,0,0,0,1,1,0
+male,Soil Science,1,KPK,1.0,2.13,1,0,1,0,1,0,0,1
+female,Plant Breeding,2,KPK,25.3,2.84,1,0,1,0,1,0,1,1
+male,Veterinary Science,3,KPK,16.0,3.3,1,0,1,0,1,0,1,1
+female,Biochemistry,2,KPK,73.2,3.45,0,0,1,0,0,0,1,1
+female,Soil Science,5,Punjab,61.9,4.0,1,0,1,1,1,1,1,1
+male,Environmental Sciences,5,Punjab,60.7,3.73,0,0,1,0,1,1,1,1
+female,Biochemistry,3,Punjab,96.7,3.18,1,0,1,0,0,0,1,1
+male,Food Science,5,AJK,20.3,2.7,1,0,1,0,1,0,0,1
+female,Agriculture,4,AJK,88.4,3.83,0,0,1,0,0,0,1,1
+male,Plant Breeding,2,Balochistan,1.0,2.93,1,1,1,0,0,1,0,1
+male,Veterinary Science,4,Punjab,1.0,2.8,1,0,1,0,0,0,1,1
+male,Animal Sciences,1,Sindh,65.1,2.91,0,0,0,0,0,0,1,0
+male,Food Science,3,Punjab,1.0,2.54,1,1,1,1,0,1,0,0
+male,Animal Sciences,2,Punjab,57.9,2.89,1,0,1,1,0,0,1,0
+female,Animal Sciences,1,Punjab,39.1,3.0,1,0,1,0,0,1,1,1
+female,Veterinary Science,2,Balochistan,77.9,3.43,0,0,1,0,0,0,1,1
+female,Soil Science,5,Punjab,32.6,2.93,0,0,1,0,0,0,1,1
+male,Plant Breeding,2,KPK,37.2,2.53,1,0,0,0,0,1,1,0
+male,Animal Sciences,1,Islamabad,55.4,2.38,0,0,1,0,1,1,0,1
+male,Agriculture,1,KPK,8.5,3.19,1,0,0,0,0,1,1,1
+female,Plant Breeding,2,Punjab,6.8,3.13,1,0,1,0,1,0,0,1
+female,Food Science,4,AJK,54.0,2.85,1,0,0,1,1,0,1,0
+male,Veterinary Science,4,KPK,33.8,2.89,1,0,1,0,0,0,1,1
+female,Animal Sciences,2,Sindh,18.7,3.27,1,0,1,0,0,0,1,1
+male,Food Science,1,KPK,31.7,3.73,0,0,1,0,0,0,1,1
+male,Animal Sciences,1,Gilgit-Baltistan,98.8,2.75,0,0,0,0,1,0,0,0
+male,Veterinary Science,2,Sindh,17.3,3.14,1,1,1,0,0,0,1,1
+male,Environmental Sciences,4,Sindh,16.1,3.53,1,0,1,0,1,0,1,1
+female,Environmental Sciences,4,Sindh,1.0,2.75,1,0,1,0,0,0,1,0
+female,Agriculture,2,Punjab,33.3,3.09,1,0,1,0,0,0,0,1
+male,Plant Breeding,3,Balochistan,61.3,3.08,1,0,1,0,0,1,1,1
+male,Soil Science,2,Punjab,68.4,2.51,0,0,1,0,1,1,1,0
+female,Animal Sciences,3,Punjab,39.3,3.18,0,0,1,0,1,0,1,1
+female,Animal Sciences,3,Punjab,73.2,3.11,1,0,0,1,1,0,1,0
+female,Environmental Sciences,3,Punjab,64.2,3.35,0,0,0,0,0,1,1,0
+male,Animal Sciences,3,Punjab,79.5,2.57,1,0,1,0,0,0,1,0
+female,Agriculture,5,KPK,74.4,3.1,0,0,1,0,1,1,1,1
+male,Veterinary Science,2,Punjab,97.8,3.72,1,0,1,0,0,0,1,1
+female,Veterinary Science,1,Punjab,28.2,4.0,0,0,0,0,0,0,0,1
+male,Animal Sciences,1,Gilgit-Baltistan,1.0,3.68,1,0,1,0,0,0,0,1
+female,Food Science,3,Islamabad,61.5,2.57,0,0,1,0,0,1,0,0
+male,Food Science,3,Sindh,66.2,3.3,1,0,1,0,0,0,0,1
+male,Biochemistry,3,Punjab,97.8,2.88,1,0,1,0,1,0,1,1
+female,Food Science,4,Punjab,86.3,3.23,1,0,0,0,0,0,0,0
+female,Soil Science,2,Punjab,112.8,2.75,0,0,1,0,1,0,0,0
+male,Soil Science,3,Punjab,59.8,2.33,1,0,0,0,0,1,1,0
+female,Plant Breeding,4,AJK,44.2,2.94,1,0,1,0,1,0,1,1
+female,Biochemistry,2,KPK,1.0,3.43,0,0,1,0,0,0,1,1
+male,Agriculture,2,Punjab,47.3,3.23,1,0,0,1,0,0,1,0
+male,Veterinary Science,1,Islamabad,12.9,3.28,1,0,1,0,1,0,1,1
+male,Food Science,2,Punjab,43.5,3.2,1,0,1,0,0,1,0,1
+female,Plant Breeding,4,Punjab,37.2,3.28,1,0,1,0,0,1,1,1
+male,Soil Science,5,Punjab,53.9,3.34,1,0,1,0,0,0,1,1
+male,Biochemistry,3,Punjab,31.1,2.98,1,1,1,0,0,0,1,1
+female,Animal Sciences,2,AJK,72.4,3.14,0,0,1,0,0,0,0,0
+female,Food Science,3,Punjab,1.0,3.88,1,0,1,0,0,0,1,1
+female,Biochemistry,4,KPK,42.6,3.16,1,1,1,0,0,0,1,1
+female,Soil Science,2,Punjab,83.1,3.12,0,0,0,1,0,0,1,0
+female,Environmental Sciences,4,AJK,109.8,3.15,0,0,1,0,0,0,1,0
+female,Animal Sciences,1,KPK,64.3,3.0,1,0,0,0,0,0,1,0
+female,Animal Sciences,1,Sindh,102.4,2.9,0,0,1,0,1,0,0,0
+male,Animal Sciences,1,Punjab,41.8,3.19,0,0,1,0,1,1,1,1
+male,Soil Science,1,AJK,35.1,2.87,0,0,0,1,0,0,1,0
+male,Food Science,4,Sindh,56.2,3.03,0,1,1,0,0,1,0,0
+female,Biochemistry,2,Punjab,34.9,2.74,1,0,1,0,1,0,0,1
+male,Food Science,2,Gilgit-Baltistan,3.7,3.15,1,0,1,0,1,0,1,1
+male,Animal Sciences,2,Punjab,14.4,3.36,1,0,1,0,0,0,1,1
+female,Veterinary Science,2,Punjab,1.0,3.0,1,0,1,0,0,0,1,1
+male,Soil Science,2,Sindh,56.1,2.2,1,0,0,0,0,0,1,0
+male,Soil Science,1,Punjab,35.5,3.37,1,0,1,0,0,0,0,1
+female,Biochemistry,3,Sindh,20.6,3.15,1,0,1,0,0,0,1,1
+female,Environmental Sciences,1,Punjab,12.3,2.65,1,1,1,0,0,0,0,1
+male,Food Science,4,Punjab,55.2,3.45,1,0,1,0,0,0,1,1
+male,Food Science,1,Punjab,66.2,2.47,1,0,1,0,1,0,1,0
+male,Biochemistry,4,Punjab,1.0,3.57,1,0,1,0,0,0,1,1
+female,Animal Sciences,4,Islamabad,1.0,3.07,0,0,0,0,1,0,1,1
+female,Agriculture,1,Sindh,73.2,2.08,1,0,1,0,1,1,1,0
+male,Environmental Sciences,1,Sindh,1.0,3.18,1,0,1,0,0,1,0,1
+female,Soil Science,5,Punjab,56.9,2.92,1,0,1,0,0,1,0,0
+male,Agriculture,2,KPK,99.7,2.85,1,0,1,0,1,1,0,0
+male,Environmental Sciences,3,Punjab,99.8,2.77,1,0,1,0,0,0,1,0
+female,Plant Breeding,1,Punjab,64.5,3.04,0,0,0,0,0,0,1,0
+male,Plant Breeding,2,KPK,63.4,2.88,1,0,1,0,0,0,1,1
+male,Environmental Sciences,3,Sindh,125.1,2.26,1,0,1,0,0,0,1,0
+male,Animal Sciences,4,Balochistan,1.0,3.67,1,0,1,0,0,1,1,1
+female,Animal Sciences,2,AJK,16.4,2.99,1,1,1,0,1,1,1,1
+female,Plant Breeding,4,Balochistan,68.9,2.77,1,0,1,0,0,0,0,1
+female,Food Science,3,Punjab,21.5,2.59,1,0,1,0,1,1,1,1
+male,Food Science,1,Punjab,84.6,3.45,0,0,1,0,0,1,1,1
+male,Environmental Sciences,2,Punjab,33.4,2.52,1,0,1,0,1,0,1,1
+female,Food Science,1,Balochistan,40.3,3.16,1,0,1,0,1,0,1,1
+male,Plant Breeding,2,AJK,24.0,2.84,1,0,1,1,0,1,1,1
+female,Veterinary Science,3,AJK,14.1,2.86,0,0,0,1,1,0,1,0
+female,Food Science,2,Punjab,13.1,2.6,0,0,1,0,1,0,1,1
+male,Plant Breeding,1,Gilgit-Baltistan,45.8,2.82,0,0,1,0,0,0,1,0
+female,Environmental Sciences,3,Sindh,4.0,3.1,1,0,1,0,1,1,1,1
+male,Animal Sciences,3,Balochistan,73.1,3.21,1,0,1,0,0,1,1,1
+male,Food Science,3,Sindh,61.1,2.75,1,1,1,0,0,0,1,1
+female,Food Science,3,Punjab,79.0,3.06,0,0,1,0,0,1,0,1
+male,Food Science,1,Punjab,1.0,3.5,0,0,1,0,0,0,1,1
+female,Biochemistry,3,Islamabad,1.0,2.35,1,0,0,0,0,1,1,0
+female,Veterinary Science,2,Punjab,34.8,3.1,0,0,1,0,0,0,1,1
+female,Veterinary Science,2,Punjab,151.0,2.67,0,1,1,0,1,1,1,0
+female,Agriculture,1,Punjab,85.6,2.63,0,0,0,0,0,1,1,0
+male,Animal Sciences,3,Punjab,12.8,3.22,1,0,1,0,1,1,1,1
+male,Biochemistry,3,AJK,52.0,2.85,1,0,1,0,0,0,0,1
+female,Animal Sciences,2,Punjab,64.1,2.55,0,0,1,0,0,1,1,0
+female,Soil Science,4,Punjab,1.0,3.7,0,0,1,0,1,0,1,1
+male,Food Science,4,Balochistan,89.8,3.51,1,0,1,0,0,0,1,1
+male,Food Science,1,Sindh,28.3,2.23,1,0,1,0,0,0,1,0
+male,Soil Science,3,Punjab,31.4,2.44,1,0,0,0,1,0,1,0
+male,Agriculture,2,Punjab,36.0,3.37,0,0,1,1,0,0,1,0
+female,Animal Sciences,5,Punjab,80.8,2.97,0,0,1,0,0,0,0,0
+male,Veterinary Science,1,Punjab,4.8,3.78,1,0,1,0,0,0,0,1
+female,Agriculture,2,Punjab,1.0,3.38,1,0,1,0,0,0,1,1
+female,Plant Breeding,2,Punjab,47.9,3.23,1,0,0,0,0,1,1,0
+female,Biochemistry,2,KPK,1.0,2.64,1,0,1,0,0,0,0,0
+male,Agriculture,3,Gilgit-Baltistan,23.0,3.32,1,0,1,0,0,0,1,1
+male,Environmental Sciences,2,AJK,82.5,2.53,1,0,1,0,0,0,1,0
+female,Plant Breeding,1,Punjab,58.2,3.69,0,0,1,0,0,0,1,1
+female,Soil Science,3,Punjab,76.7,3.29,0,0,1,0,0,0,1,1
+male,Agriculture,4,Islamabad,59.8,2.73,1,0,1,0,1,0,1,1
+female,Environmental Sciences,4,Balochistan,131.4,3.46,1,0,1,0,1,1,1,1
+male,Agriculture,2,Sindh,11.5,4.0,1,0,1,0,0,1,1,1
+female,Biochemistry,2,Punjab,50.9,3.0,1,0,0,0,1,0,1,1
+male,Soil Science,1,Punjab,17.5,3.35,1,0,1,0,1,0,1,1
+male,Veterinary Science,4,Sindh,73.3,2.91,1,0,1,0,0,0,0,0
+male,Agriculture,4,Sindh,32.5,3.14,0,1,1,0,0,0,1,0
+male,Plant Breeding,3,Punjab,103.8,2.42,1,0,0,0,0,0,1,0
+male,Agriculture,4,Islamabad,13.8,3.1,1,0,1,0,0,0,0,1
+male,Plant Breeding,1,Sindh,91.3,3.12,1,0,1,1,0,0,1,0
+male,Environmental Sciences,3,Sindh,58.7,3.91,1,0,0,1,0,0,1,1
+female,Veterinary Science,1,Punjab,33.7,2.29,1,0,1,0,1,1,1,1
+male,Food Science,1,Balochistan,56.7,2.97,0,0,1,0,0,0,0,0
+female,Food Science,2,KPK,45.5,3.68,0,0,1,0,0,0,1,1
+female,Food Science,2,Punjab,49.2,2.99,1,0,1,0,1,1,0,1
+male,Agriculture,5,Sindh,26.7,3.02,0,0,1,0,0,0,1,0
+male,Food Science,2,KPK,6.9,2.73,1,0,1,0,0,0,1,1
+female,Soil Science,4,Gilgit-Baltistan,21.6,2.68,0,0,1,0,0,0,1,1
+female,Veterinary Science,4,Punjab,1.0,2.28,1,0,0,0,0,1,1,0
+male,Environmental Sciences,3,Gilgit-Baltistan,68.7,2.82,1,0,1,0,0,0,1,1
+female,Environmental Sciences,5,Sindh,1.0,2.65,1,1,1,0,0,0,1,1
+male,Environmental Sciences,2,Punjab,26.3,3.15,1,0,0,1,1,0,1,0
+male,Plant Breeding,2,Punjab,60.9,2.75,0,0,1,0,0,0,1,0
+female,Veterinary Science,1,Punjab,68.6,2.88,1,0,0,0,1,0,0,0
+male,Biochemistry,2,Punjab,1.0,2.9,1,0,1,0,0,0,0,1
+female,Food Science,4,Sindh,31.3,3.08,1,0,1,0,0,0,1,1
+male,Animal Sciences,2,KPK,53.4,2.86,0,0,1,1,0,0,0,0
+female,Animal Sciences,2,Punjab,37.1,2.62,0,0,0,0,0,1,1,0
+male,Soil Science,1,Islamabad,88.8,3.14,1,0,0,0,0,0,0,0
+male,Plant Breeding,2,Punjab,2.1,3.58,1,0,1,0,0,0,0,1
+male,Environmental Sciences,4,Sindh,1.0,3.16,1,0,1,0,0,0,0,1
+male,Biochemistry,2,AJK,67.4,2.83,1,0,1,1,0,0,0,0
+female,Animal Sciences,4,Gilgit-Baltistan,13.5,3.04,1,0,1,0,0,0,0,1
+male,Environmental Sciences,3,KPK,1.0,2.18,1,0,0,0,0,0,1,0
+male,Food Science,4,KPK,28.7,3.04,1,0,1,0,0,1,1,1
+male,Biochemistry,2,Punjab,84.2,2.92,1,0,0,0,1,0,1,0
+male,Food Science,3,Punjab,1.0,2.68,1,0,1,0,0,0,1,1
+female,Environmental Sciences,1,Punjab,128.4,2.76,1,0,1,0,0,1,1,0
+male,Animal Sciences,2,Punjab,1.5,2.92,1,0,1,0,0,0,1,1
+female,Biochemistry,4,Punjab,38.5,3.55,0,0,1,0,0,0,0,1
+male,Food Science,3,Punjab,1.0,3.59,0,0,1,0,1,1,0,1
+female,Animal Sciences,1,AJK,36.7,2.68,1,0,0,0,1,0,1,1
+male,Biochemistry,4,AJK,29.7,2.87,1,0,0,0,1,0,1,0
+male,Agriculture,1,Balochistan,1.0,2.88,0,0,0,1,1,0,0,0
+female,Veterinary Science,3,KPK,148.0,3.46,1,0,1,0,0,0,1,0
+female,Agriculture,5,Punjab,15.2,3.17,1,0,1,1,1,0,1,1
+female,Veterinary Science,3,Punjab,15.2,3.14,1,0,1,0,1,1,0,1
+male,Animal Sciences,4,KPK,73.8,3.34,1,0,1,0,1,1,0,1
+male,Plant Breeding,3,KPK,107.6,2.83,0,0,1,0,1,0,1,0
+female,Veterinary Science,4,Punjab,80.1,3.71,1,0,0,0,0,1,1,1
+male,Food Science,3,Sindh,1.0,3.1,0,0,1,0,0,1,1,1
+female,Food Science,3,Sindh,43.6,2.71,1,0,1,1,0,0,0,0
+female,Biochemistry,1,Punjab,1.0,3.0,0,0,1,0,0,0,0,1
+female,Biochemistry,4,Punjab,71.1,3.65,1,0,1,0,0,0,0,1
+female,Food Science,1,Punjab,1.0,2.91,1,0,0,0,0,0,1,0
+female,Food Science,5,KPK,2.9,3.53,1,0,1,0,0,1,1,1
+male,Agriculture,1,Islamabad,34.9,2.82,1,0,1,0,0,1,1,1
+male,Biochemistry,1,Sindh,52.8,2.76,1,0,1,0,0,1,0,0
+female,Soil Science,4,KPK,24.6,3.4,1,0,0,1,0,0,0,0
+male,Environmental Sciences,1,Balochistan,95.8,2.71,0,0,0,1,0,0,0,0
+male,Veterinary Science,2,Punjab,63.9,3.47,1,0,1,0,0,0,1,1
+male,Soil Science,4,KPK,60.8,3.26,1,1,1,0,0,0,1,1
+female,Agriculture,1,Sindh,1.0,2.71,0,0,1,0,0,0,1,0
+female,Soil Science,1,Sindh,103.0,3.07,1,0,1,0,0,0,1,1
+female,Plant Breeding,2,Punjab,2.9,2.85,0,0,1,0,0,0,1,0
+male,Veterinary Science,1,AJK,104.5,3.26,1,1,1,0,0,0,1,1
+male,Soil Science,1,Islamabad,115.9,3.95,0,0,1,0,0,0,1,1
+male,Soil Science,1,Punjab,55.5,2.93,1,0,0,0,0,0,1,0
+male,Animal Sciences,2,Punjab,76.3,3.34,0,0,1,0,0,1,0,1
+female,Food Science,2,Punjab,1.0,3.11,1,0,1,0,1,0,1,1
+female,Agriculture,1,Balochistan,27.2,3.11,0,0,1,0,0,0,1,0
+male,Biochemistry,3,Sindh,79.1,3.03,1,0,1,1,0,0,1,0
+male,Veterinary Science,3,Punjab,72.0,2.71,0,0,1,0,0,0,1,0
+male,Veterinary Science,1,Balochistan,1.0,3.25,1,0,0,0,0,0,1,1
+female,Soil Science,2,Punjab,23.3,2.97,1,0,0,1,0,1,1,0
+female,Veterinary Science,4,Sindh,1.0,2.69,1,0,0,0,0,0,1,0
+male,Animal Sciences,3,Punjab,51.5,3.56,1,0,1,0,0,0,0,1
+female,Soil Science,2,Sindh,1.0,3.14,1,1,1,0,0,0,1,1
+male,Plant Breeding,2,Sindh,80.2,3.0,1,0,0,0,0,0,1,0
+male,Soil Science,1,Punjab,82.3,3.7,0,0,1,1,0,1,1,0
+female,Agriculture,4,Punjab,16.0,2.27,1,0,0,0,1,0,0,0
+male,Animal Sciences,5,AJK,55.9,3.67,1,0,1,0,0,0,1,1
+male,Animal Sciences,5,Sindh,26.3,2.7,1,0,1,0,0,0,1,1
+female,Soil Science,1,AJK,44.7,3.2,0,0,1,0,0,0,1,1
+male,Food Science,2,Sindh,1.0,2.84,1,0,1,0,0,0,0,1
+female,Food Science,1,Balochistan,59.9,2.68,1,0,1,0,0,0,0,0
+male,Environmental Sciences,2,Punjab,1.0,3.69,1,0,1,0,0,1,1,1
+male,Soil Science,2,Balochistan,1.0,3.94,0,0,1,0,0,1,1,1
+male,Environmental Sciences,3,Punjab,30.1,3.0,1,0,1,0,0,0,1,1
+male,Veterinary Science,1,Punjab,26.6,3.25,1,0,0,0,0,1,1,1
+male,Biochemistry,5,Punjab,45.9,3.13,0,0,1,0,1,0,1,1
+male,Veterinary Science,1,Punjab,9.0,3.88,1,0,1,0,0,0,1,1
+female,Soil Science,1,AJK,110.4,2.15,1,0,1,0,0,0,0,0
+male,Food Science,4,Islamabad,41.4,3.27,1,0,1,1,1,0,0,0
+male,Biochemistry,4,Balochistan,44.3,2.77,0,0,1,0,0,0,1,0
+male,Veterinary Science,2,Punjab,42.9,2.04,1,0,1,0,0,1,1,0
+male,Environmental Sciences,3,AJK,75.1,2.94,0,0,1,0,0,0,0,0
+male,Veterinary Science,1,KPK,58.0,3.93,1,0,0,0,1,0,1,1
+female,Environmental Sciences,1,Punjab,52.7,2.8,1,1,1,0,0,0,1,1
+male,Animal Sciences,2,Sindh,64.4,3.46,1,0,0,0,0,0,1,0
+female,Agriculture,2,KPK,1.0,3.64,0,0,1,0,1,0,1,1
+female,Food Science,3,Punjab,1.0,3.09,1,0,1,1,0,0,1,1
+male,Soil Science,1,Sindh,32.0,3.15,0,0,1,0,0,0,1,0
+male,Food Science,3,KPK,27.1,2.33,1,0,1,0,1,0,0,1
+male,Veterinary Science,4,Punjab,58.2,2.78,1,1,1,0,1,0,0,1
+female,Plant Breeding,1,Punjab,35.8,3.51,1,0,1,1,0,0,1,0
+male,Veterinary Science,1,Sindh,58.3,3.13,1,0,1,0,0,1,1,1
+female,Food Science,2,KPK,1.0,3.27,0,0,1,0,0,0,0,1
+female,Plant Breeding,4,Islamabad,34.6,3.16,0,1,0,0,1,1,1,1
+female,Soil Science,3,Gilgit-Baltistan,1.0,4.0,1,0,0,0,0,0,1,1
+male,Soil Science,4,KPK,50.5,2.91,1,0,1,0,0,0,1,0
+female,Biochemistry,2,Sindh,1.0,3.82,0,0,1,1,0,0,0,1
+male,Agriculture,1,KPK,48.9,3.16,1,0,1,0,0,0,1,1
+male,Animal Sciences,3,Sindh,1.0,3.86,1,0,1,1,0,1,1,1
+male,Food Science,1,Punjab,19.7,2.55,1,1,1,0,0,0,1,1
+female,Biochemistry,4,KPK,70.8,3.18,1,0,1,0,0,0,1,1
+female,Plant Breeding,1,KPK,44.1,2.92,0,0,0,1,0,0,1,0
+female,Agriculture,2,Sindh,1.0,3.16,0,0,0,0,0,1,1,0
+male,Soil Science,3,Gilgit-Baltistan,8.1,3.65,1,1,1,0,0,0,1,1
+female,Agriculture,2,KPK,1.0,3.27,1,0,1,1,0,1,1,1
+male,Veterinary Science,3,Punjab,1.0,3.65,1,0,1,0,0,0,1,1
+male,Soil Science,2,Punjab,39.7,2.8,1,1,0,0,0,0,1,1
+female,Plant Breeding,5,Punjab,57.4,2.73,0,0,1,0,0,1,1,0
+male,Environmental Sciences,4,Punjab,52.6,3.11,1,0,1,0,0,1,1,1
+male,Plant Breeding,4,Sindh,59.1,3.08,1,0,0,0,0,0,1,0
+female,Environmental Sciences,3,Punjab,34.5,3.02,0,0,1,0,0,1,1,1
+male,Plant Breeding,3,Punjab,24.1,2.67,1,0,1,0,1,0,1,1
+male,Agriculture,3,Punjab,1.0,3.64,1,0,1,1,0,1,1,1
+male,Agriculture,2,Balochistan,17.4,2.94,0,0,0,0,0,1,1,1
+male,Environmental Sciences,2,Balochistan,1.0,3.74,1,0,1,0,0,0,1,1
+female,Agriculture,3,Punjab,1.2,3.11,0,0,1,0,0,0,1,1
+female,Animal Sciences,1,Punjab,38.6,3.39,1,0,1,0,1,0,1,1
+male,Agriculture,1,Punjab,30.3,3.35,1,0,1,0,0,0,1,1
+male,Veterinary Science,4,Punjab,157.6,2.73,0,0,1,0,1,0,1,0
+male,Plant Breeding,1,Punjab,1.0,3.27,1,0,1,0,1,0,1,1
+female,Food Science,3,Punjab,30.0,3.97,1,0,1,0,1,1,0,1
+female,Animal Sciences,3,Punjab,1.0,3.21,0,0,0,0,0,0,1,0
+female,Biochemistry,1,Islamabad,19.5,3.51,1,0,1,1,1,0,1,1
+male,Agriculture,4,Sindh,21.1,3.41,1,0,1,1,0,1,1,1
+male,Agriculture,1,Balochistan,68.8,3.24,0,0,1,0,0,1,0,1
+male,Veterinary Science,4,Punjab,17.0,3.18,0,0,1,0,0,0,0,1
+female,Environmental Sciences,4,Punjab,27.3,3.35,0,0,0,0,1,0,0,0
+male,Animal Sciences,1,AJK,17.8,3.44,1,0,1,1,1,0,1,1
+female,Soil Science,1,Punjab,1.0,2.49,1,0,1,0,0,0,1,1
+female,Agriculture,2,KPK,8.9,3.21,1,0,1,0,1,0,1,1
+male,Soil Science,2,Islamabad,19.7,3.02,0,0,1,0,0,0,1,0
+male,Agriculture,1,Sindh,38.0,2.92,0,0,0,0,0,0,1,0
+male,Soil Science,5,Punjab,57.4,3.68,1,0,0,0,0,0,1,0
+male,Food Science,1,Sindh,25.6,2.77,0,0,1,0,0,1,1,0
+male,Environmental Sciences,4,Punjab,24.9,2.47,1,0,1,0,0,1,1,1
+female,Veterinary Science,1,Punjab,1.0,3.46,1,0,1,0,1,0,1,1
+male,Food Science,5,Punjab,56.6,2.46,1,0,1,0,1,0,1,0
+male,Veterinary Science,1,AJK,7.2,2.23,1,0,1,0,0,0,0,0
+female,Agriculture,2,KPK,64.9,3.51,1,0,1,0,0,0,1,1
+female,Food Science,3,Punjab,87.7,3.17,0,0,1,0,0,1,0,0
+male,Plant Breeding,1,Punjab,27.5,3.31,1,0,1,0,1,0,1,1
+female,Veterinary Science,4,KPK,1.0,2.9,0,0,1,0,0,0,1,1
+female,Veterinary Science,2,AJK,34.3,2.48,0,0,1,0,0,0,1,0
+female,Environmental Sciences,3,Punjab,48.9,2.57,1,0,1,0,0,0,0,0
+female,Agriculture,3,Punjab,22.4,2.98,0,0,1,0,0,0,1,1
+male,Animal Sciences,3,Gilgit-Baltistan,12.4,2.53,1,1,0,2,1,0,1,0
+female,Food Science,1,AJK,57.5,3.24,1,0,1,0,0,0,1,1
+male,Animal Sciences,1,AJK,54.9,2.89,1,0,1,0,0,0,1,0
+female,Veterinary Science,1,Punjab,21.1,3.18,1,0,1,0,0,1,0,1
+female,Agriculture,2,Punjab,1.0,3.17,1,0,0,0,0,0,1,1
+male,Agriculture,1,Punjab,53.3,3.27,1,0,1,0,0,0,1,1
+male,Environmental Sciences,5,Punjab,4.3,3.32,0,0,0,0,0,0,1,0
+female,Agriculture,3,AJK,43.6,2.95,1,0,1,0,0,1,1,1
+female,Environmental Sciences,3,Punjab,41.0,3.18,0,0,1,1,0,0,1,0
+male,Biochemistry,2,KPK,1.0,3.21,0,0,1,1,0,0,0,0
+female,Animal Sciences,2,AJK,38.2,2.01,0,0,1,0,0,0,1,0
+female,Veterinary Science,3,Islamabad,55.6,3.39,0,0,1,0,0,0,0,0
+male,Environmental Sciences,2,KPK,60.5,3.17,0,1,1,0,0,1,1,1
+male,Biochemistry,2,AJK,39.7,3.35,0,0,1,0,1,1,1,1
+male,Agriculture,2,Punjab,1.0,2.52,1,0,1,1,0,0,1,0
+female,Biochemistry,3,Punjab,86.1,2.96,1,0,1,0,1,1,1,1
+male,Biochemistry,5,Punjab,51.4,2.61,1,0,1,1,0,0,1,0
+female,Food Science,1,Islamabad,1.0,3.44,0,0,0,0,0,0,1,0
+male,Agriculture,2,AJK,3.5,2.47,0,0,1,0,0,0,1,1
+female,Soil Science,1,Punjab,44.2,2.68,1,0,1,0,0,0,1,0
+male,Agriculture,2,Punjab,62.2,3.34,0,0,1,0,0,1,1,0
+male,Plant Breeding,4,Punjab,15.5,2.82,1,1,0,0,1,0,1,1
+female,Agriculture,1,Punjab,68.0,2.68,1,0,1,0,0,0,1,0
+male,Soil Science,3,Gilgit-Baltistan,1.0,3.51,1,0,1,0,0,1,1,1
+male,Food Science,2,Punjab,1.0,3.53,0,0,1,0,0,0,1,1
+female,Agriculture,1,Balochistan,1.0,3.42,1,0,1,0,0,0,1,1
+female,Agriculture,5,Sindh,1.0,3.48,1,0,1,0,0,0,1,1
+female,Food Science,2,Punjab,95.3,3.0,1,0,1,0,0,0,1,0
+male,Plant Breeding,4,Punjab,117.3,3.01,0,0,1,0,0,1,1,0
+female,Agriculture,2,Islamabad,44.4,2.81,1,0,1,0,0,0,1,0
+female,Environmental Sciences,5,KPK,9.5,3.18,1,1,1,0,0,0,0,1
+male,Plant Breeding,2,Punjab,26.1,2.86,0,0,1,0,0,0,1,0
+male,Veterinary Science,2,Punjab,53.9,2.91,1,1,0,0,0,0,0,0
+female,Biochemistry,4,AJK,1.0,3.37,1,0,1,0,0,0,0,1
+male,Soil Science,2,Balochistan,12.1,3.63,0,0,1,0,0,0,0,1
+female,Soil Science,2,Balochistan,92.4,3.28,1,0,1,0,0,0,1,1
+female,Food Science,5,KPK,1.0,3.91,1,0,1,0,0,0,1,1
+female,Soil Science,3,AJK,5.0,2.78,1,0,1,0,0,0,1,1
+male,Plant Breeding,3,Punjab,35.5,2.27,0,0,1,0,0,1,1,0
+male,Biochemistry,3,KPK,46.3,3.42,1,0,1,0,0,1,1,1
+male,Animal Sciences,4,Punjab,10.0,2.75,0,0,0,0,0,0,1,0
+male,Soil Science,4,Sindh,38.1,2.98,1,0,1,0,0,1,1,1
+female,Veterinary Science,3,Islamabad,59.3,2.3,1,0,1,0,0,0,1,0
+female,Agriculture,2,Islamabad,113.5,2.7,1,0,1,0,0,1,1,1
+male,Food Science,1,Sindh,30.0,2.42,1,0,1,0,1,1,1,1
+male,Environmental Sciences,3,Sindh,33.3,2.9,0,0,1,0,0,0,1,0
+female,Soil Science,4,AJK,96.1,2.92,0,0,1,0,0,0,0,0
+male,Veterinary Science,2,Islamabad,13.0,3.14,1,1,1,1,1,0,1,1
+male,Soil Science,1,Balochistan,1.0,3.66,0,1,1,0,0,0,1,1
+male,Agriculture,2,Punjab,45.0,3.4,1,0,1,1,0,0,1,0
+female,Agriculture,3,Punjab,78.0,2.37,1,0,0,0,1,0,1,0
+male,Plant Breeding,4,AJK,49.4,3.37,1,0,1,0,0,0,1,1
+female,Plant Breeding,1,Balochistan,31.1,3.15,0,0,1,1,1,1,0,0
+male,Biochemistry,3,KPK,1.0,3.06,1,0,1,0,1,1,1,1
+female,Environmental Sciences,4,KPK,32.7,3.09,0,1,1,0,0,0,1,1
+male,Veterinary Science,5,Punjab,84.3,3.19,1,1,1,0,0,0,1,1
+male,Environmental Sciences,1,Punjab,1.0,2.79,1,0,1,0,0,1,1,1
+male,Animal Sciences,5,Balochistan,25.2,3.02,1,0,1,0,0,0,1,1
+male,Environmental Sciences,3,Punjab,19.5,3.63,1,0,1,0,0,1,1,1
+male,Food Science,4,KPK,7.1,2.78,0,0,1,0,1,0,0,0
+male,Agriculture,1,KPK,44.9,2.64,1,0,1,0,0,0,1,1
+male,Agriculture,3,Gilgit-Baltistan,52.7,3.07,1,0,0,0,1,0,1,0
+male,Biochemistry,3,Punjab,52.3,2.59,0,0,0,0,0,0,0,0
+female,Agriculture,2,KPK,1.0,2.32,1,0,1,0,0,0,1,1
+male,Biochemistry,2,Punjab,1.0,2.94,1,0,1,0,1,1,1,1
+female,Soil Science,3,Punjab,45.5,3.75,1,0,0,0,0,0,1,1
+female,Food Science,3,Punjab,14.8,3.08,1,1,1,0,0,0,1,1
+male,Environmental Sciences,1,Punjab,108.5,3.18,0,0,1,0,0,0,0,0
+female,Food Science,2,AJK,110.4,2.14,1,0,0,0,0,0,1,0
+female,Food Science,1,AJK,114.6,3.3,0,0,1,0,0,0,0,0
+female,Plant Breeding,5,Punjab,1.0,3.14,1,0,1,0,0,0,1,1
+male,Veterinary Science,5,Gilgit-Baltistan,57.8,2.8,0,0,1,0,1,0,0,0
+male,Veterinary Science,2,Sindh,69.8,3.18,1,1,1,0,0,1,1,1
+male,Food Science,1,KPK,65.3,3.18,0,0,0,0,1,1,1,0
+male,Plant Breeding,1,AJK,20.8,2.62,0,0,0,0,1,0,0,0
+female,Agriculture,2,Sindh,86.2,3.25,0,0,0,0,0,1,1,0
+female,Food Science,4,Punjab,35.0,3.64,1,0,1,0,1,1,1,1
+male,Plant Breeding,3,Punjab,40.1,3.0,0,0,1,0,1,0,0,0
+female,Animal Sciences,1,Sindh,1.0,2.71,0,0,0,0,0,0,1,0
+male,Soil Science,1,AJK,60.8,3.02,0,0,1,0,0,0,1,0
+female,Food Science,1,Sindh,24.6,3.48,0,0,1,0,0,0,1,1
+male,Soil Science,4,Punjab,53.6,2.55,1,0,0,0,1,0,1,0
+female,Environmental Sciences,3,Punjab,44.4,3.36,1,1,1,0,1,0,1,1
+female,Animal Sciences,3,AJK,42.2,2.79,0,0,1,0,0,0,0,0
+male,Veterinary Science,2,Punjab,33.2,3.21,0,0,1,1,1,0,1,0
+male,Plant Breeding,5,KPK,66.5,2.85,0,0,1,0,0,0,1,0
+female,Plant Breeding,2,KPK,27.0,2.84,1,0,0,0,1,0,1,1
+male,Agriculture,4,Punjab,1.0,3.79,0,0,1,0,0,0,1,1
+male,Plant Breeding,4,Punjab,57.8,2.47,0,0,0,0,1,0,1,0
+female,Food Science,2,Punjab,2.6,3.32,0,0,1,1,1,0,0,0
+female,Plant Breeding,4,Punjab,1.0,3.88,0,0,1,0,0,0,1,1
+male,Biochemistry,2,KPK,1.0,3.41,1,0,1,0,1,1,0,1
+male,Plant Breeding,3,Balochistan,46.3,2.5,0,0,0,0,0,0,1,0
+male,Environmental Sciences,1,Punjab,31.1,2.52,1,0,1,0,0,0,0,0
+female,Veterinary Science,2,Sindh,1.0,2.76,1,0,1,0,0,1,0,1
+male,Biochemistry,1,Punjab,19.7,3.17,1,0,0,0,0,0,0,1
+male,Environmental Sciences,1,Punjab,81.8,3.2,0,0,1,0,0,0,1,0
+male,Biochemistry,1,Balochistan,16.9,2.53,1,0,0,0,0,0,1,0
+female,Soil Science,2,Balochistan,28.4,2.71,1,0,0,0,0,0,1,0
+male,Soil Science,3,Balochistan,76.7,2.73,1,0,1,0,0,1,1,0
+female,Plant Breeding,2,Punjab,66.8,3.02,1,0,0,0,0,1,0,0
+female,Biochemistry,2,Sindh,75.9,3.99,0,0,1,0,1,0,1,1
+female,Environmental Sciences,5,Punjab,1.0,2.68,1,0,1,0,0,0,1,1
+female,Animal Sciences,5,Islamabad,104.3,2.66,1,1,0,1,0,1,1,0
+female,Agriculture,1,KPK,60.5,2.59,0,0,1,0,0,0,1,0
+female,Agriculture,2,AJK,133.5,3.39,0,0,1,0,1,0,1,1
+male,Food Science,3,Punjab,3.7,3.08,1,0,1,0,0,1,1,1
+female,Agriculture,4,Sindh,1.0,2.7,0,0,1,0,1,0,1,1
+male,Food Science,2,Balochistan,35.3,2.94,1,0,1,1,0,1,1,0
+male,Agriculture,4,Punjab,24.0,2.74,1,0,1,0,1,1,1,1
+female,Biochemistry,1,KPK,61.1,3.23,1,0,1,0,0,0,1,1
+female,Agriculture,2,Sindh,78.0,4.0,0,0,1,1,0,0,0,0
+female,Soil Science,4,Islamabad,31.5,3.35,1,0,1,0,0,0,0,1
+male,Veterinary Science,3,Punjab,25.4,3.06,1,0,0,0,0,1,1,1
+male,Food Science,4,AJK,55.9,2.8,1,0,0,0,0,0,1,0
+male,Soil Science,1,Punjab,24.7,2.5,0,0,1,0,0,0,0,0
+male,Biochemistry,1,Sindh,21.4,3.43,0,1,1,0,0,0,1,1
+male,Environmental Sciences,1,Sindh,76.5,3.41,0,0,1,0,0,0,1,1
+male,Biochemistry,1,Punjab,85.4,2.89,0,0,1,0,0,0,0,0
+male,Plant Breeding,1,Islamabad,78.4,3.65,1,0,0,0,0,1,1,1
+female,Soil Science,3,AJK,28.3,3.11,0,0,1,0,0,0,1,1
+male,Food Science,3,Islamabad,1.0,3.45,0,0,1,0,0,0,1,1
+female,Environmental Sciences,3,Islamabad,29.1,3.23,1,0,1,0,0,0,1,1
+female,Soil Science,2,KPK,4.7,3.02,0,0,1,0,0,0,1,1
+male,Veterinary Science,1,Sindh,29.8,2.67,0,0,1,0,1,0,1,1
+male,Veterinary Science,3,Gilgit-Baltistan,8.2,3.03,1,1,1,0,1,0,1,1
+male,Plant Breeding,1,Punjab,34.2,3.48,1,0,1,1,0,1,1,1
+female,Agriculture,4,Gilgit-Baltistan,1.0,2.87,1,0,1,0,0,0,1,1
+male,Environmental Sciences,1,Sindh,1.0,3.3,1,0,1,0,0,0,1,1
+male,Veterinary Science,3,KPK,83.9,2.61,0,0,1,0,1,1,1,0
+female,Agriculture,4,Punjab,1.0,3.45,1,0,0,1,0,0,1,0
+female,Veterinary Science,3,Punjab,35.0,3.24,1,0,1,0,0,1,0,1
+male,Environmental Sciences,3,Punjab,73.2,2.56,1,0,1,0,0,0,1,0
+male,Veterinary Science,3,Punjab,71.6,3.0,1,0,1,1,1,0,0,0
+male,Plant Breeding,1,Punjab,66.8,3.52,1,0,1,0,0,0,1,1
+male,Environmental Sciences,3,Punjab,47.1,2.53,1,0,1,0,1,0,0,1
+male,Agriculture,4,Punjab,64.0,2.62,1,0,1,0,0,1,1,0
+female,Environmental Sciences,5,Sindh,89.9,3.07,0,0,1,0,1,1,1,1
+female,Veterinary Science,2,Punjab,52.0,4.0,1,0,1,0,1,0,1,1
+male,Soil Science,2,Gilgit-Baltistan,1.0,2.8,0,0,0,0,0,0,1,0
+female,Food Science,4,Punjab,13.9,3.32,1,0,1,0,0,0,0,1
+male,Food Science,3,Sindh,62.9,3.22,1,0,1,0,0,0,0,1
+female,Environmental Sciences,2,Punjab,9.9,2.83,0,0,1,0,1,0,0,1
+female,Environmental Sciences,1,Sindh,99.8,3.17,0,0,1,0,0,0,1,0
+female,Biochemistry,1,Sindh,32.5,2.9,1,0,1,0,0,0,1,1
+female,Soil Science,2,KPK,38.4,2.94,0,0,1,0,1,0,0,0
+male,Animal Sciences,1,Punjab,80.0,2.35,0,0,0,0,0,1,1,0
+male,Food Science,1,Sindh,27.7,3.09,0,0,1,0,1,0,0,1
+male,Veterinary Science,1,Punjab,42.1,3.5,1,0,1,0,0,0,1,1
+male,Soil Science,5,Sindh,71.0,3.13,0,0,1,0,0,0,1,0
+female,Veterinary Science,1,Punjab,1.0,3.59,1,0,0,0,1,0,1,1
+male,Animal Sciences,1,KPK,23.6,3.36,1,0,1,0,0,0,1,1
+female,Food Science,2,Punjab,68.2,3.07,0,0,1,0,0,0,1,1
+male,Animal Sciences,1,Balochistan,37.6,2.82,1,0,1,1,0,1,1,0
+male,Food Science,5,Punjab,93.7,2.88,0,0,0,0,0,0,0,0
+male,Agriculture,5,Punjab,1.0,2.44,0,0,1,0,0,0,1,0
+female,Food Science,2,Punjab,1.0,2.98,1,0,1,0,0,0,1,1
+female,Plant Breeding,2,Punjab,65.8,3.17,0,0,0,0,0,1,1,0
+male,Veterinary Science,2,Sindh,69.6,3.87,1,0,1,1,0,0,1,1
+male,Agriculture,1,Gilgit-Baltistan,27.3,3.34,1,0,0,0,0,0,0,0
+female,Plant Breeding,2,Balochistan,51.0,2.71,0,0,1,0,1,0,0,0
+male,Food Science,1,Punjab,64.8,2.45,1,0,1,0,1,0,1,0
+female,Agriculture,1,Punjab,2.4,3.01,1,0,1,0,0,1,1,1
+male,Food Science,3,Gilgit-Baltistan,6.7,3.47,0,0,1,0,1,1,1,1
+male,Animal Sciences,1,Punjab,42.6,3.0,1,0,1,0,0,1,1,1
+male,Biochemistry,1,Punjab,71.2,3.34,1,0,1,0,0,0,1,1
+male,Food Science,2,Gilgit-Baltistan,1.0,3.02,1,1,1,1,0,0,0,1
+male,Veterinary Science,2,Punjab,27.1,3.42,1,0,1,0,1,0,0,1
+male,Food Science,1,Punjab,25.2,2.38,1,0,1,0,0,1,1,0
+female,Veterinary Science,1,Punjab,51.7,3.82,0,0,0,0,0,0,0,0
+male,Soil Science,1,KPK,34.7,2.6,0,0,1,0,1,0,1,1
+male,Veterinary Science,1,Punjab,13.2,3.46,1,0,1,1,0,1,1,1
+male,Soil Science,4,KPK,84.9,2.98,1,0,1,1,1,1,1,0
+male,Biochemistry,5,Punjab,13.4,3.05,1,0,0,0,0,0,1,1
+female,Biochemistry,2,Punjab,23.3,2.99,0,0,0,0,0,0,1,0
+male,Plant Breeding,2,Punjab,1.0,3.22,1,0,0,0,0,0,1,1
+female,Soil Science,4,Balochistan,6.5,3.31,0,0,0,0,1,0,0,0
+male,Biochemistry,3,Punjab,55.6,3.58,0,0,1,0,0,0,1,1
+female,Environmental Sciences,1,KPK,47.8,3.73,1,0,1,0,0,0,0,1
+male,Veterinary Science,1,Punjab,59.0,3.25,0,0,1,0,1,0,1,1
+female,Food Science,2,Punjab,57.0,3.87,1,0,0,0,0,1,1,1
+male,Agriculture,3,Punjab,118.5,3.14,1,0,1,0,0,1,1,1
+male,Biochemistry,1,Sindh,5.1,3.58,1,0,1,0,0,1,1,1
+female,Plant Breeding,2,Sindh,1.0,3.29,1,0,0,0,1,1,1,1
+female,Veterinary Science,2,Balochistan,1.0,2.85,1,0,1,0,1,0,0,1
+female,Veterinary Science,2,AJK,6.9,3.18,1,0,1,0,0,0,1,1
+male,Veterinary Science,2,Balochistan,1.0,3.33,1,0,0,0,0,0,1,1
+female,Environmental Sciences,3,Sindh,38.7,3.09,1,0,0,0,0,0,1,0
+female,Plant Breeding,3,Sindh,85.1,3.29,0,0,1,0,0,0,0,0
+female,Biochemistry,1,KPK,96.6,3.49,0,0,1,1,0,0,0,0
+male,Veterinary Science,1,Punjab,55.2,3.09,1,0,1,0,0,1,1,1
+female,Animal Sciences,4,Balochistan,120.7,2.0,0,0,0,0,0,0,1,0
+female,Agriculture,2,Gilgit-Baltistan,20.7,3.86,1,0,1,1,0,0,0,1
+female,Biochemistry,1,Punjab,1.0,2.97,0,0,1,1,1,1,1,1
+male,Plant Breeding,2,AJK,77.1,2.73,1,0,1,0,0,0,1,1
+male,Plant Breeding,4,Gilgit-Baltistan,1.0,2.59,0,0,1,0,1,0,0,1
+female,Animal Sciences,4,Punjab,4.8,2.95,1,0,1,0,0,0,1,1
+male,Veterinary Science,4,AJK,55.8,2.85,0,1,1,0,0,0,1,1
+female,Biochemistry,3,Punjab,30.9,2.77,1,0,1,0,1,0,1,1
+male,Animal Sciences,2,Punjab,27.4,2.79,1,0,1,0,0,0,1,1
+male,Soil Science,2,Punjab,1.0,3.34,0,0,1,0,0,1,1,1
+female,Agriculture,1,Sindh,34.6,4.0,0,0,1,1,0,0,1,1
+male,Veterinary Science,3,Punjab,75.1,3.47,1,0,0,0,1,0,1,1
+male,Environmental Sciences,3,AJK,35.8,3.61,1,0,1,0,1,0,1,1
+female,Agriculture,1,Punjab,1.8,2.93,0,0,1,0,0,0,1,1
+female,Agriculture,4,Punjab,1.0,3.15,1,0,1,0,1,1,1,1
+female,Environmental Sciences,2,KPK,2.6,3.29,0,0,1,0,0,0,0,1
+male,Veterinary Science,1,Punjab,50.7,2.8,0,0,0,0,0,1,1,0
+male,Veterinary Science,2,KPK,48.7,2.91,1,0,1,0,0,1,0,1
+female,Plant Breeding,4,Punjab,3.0,3.48,0,0,1,0,1,0,1,1
+male,Food Science,5,Islamabad,1.0,3.59,1,0,1,0,0,1,1,1
+male,Agriculture,2,KPK,51.8,3.13,0,0,1,0,0,1,1,1
+male,Agriculture,5,Punjab,1.0,2.56,1,1,0,0,0,1,0,1
+male,Agriculture,4,Punjab,62.6,2.97,1,0,1,0,0,0,1,1
+female,Food Science,4,Punjab,4.8,2.45,0,0,1,0,0,0,0,0
+female,Soil Science,4,Islamabad,1.0,3.13,1,1,1,0,0,0,0,1
+female,Veterinary Science,2,KPK,41.1,3.21,1,1,0,0,0,0,1,1
+male,Agriculture,4,Punjab,129.3,2.98,0,0,1,0,0,0,0,0
+male,Agriculture,3,Punjab,65.0,3.21,1,0,0,0,0,0,0,0
+male,Animal Sciences,4,Gilgit-Baltistan,40.4,3.29,0,0,1,0,1,0,1,1
+male,Environmental Sciences,1,Punjab,49.4,3.22,0,0,1,0,1,1,1,1
+male,Veterinary Science,4,KPK,1.0,2.56,1,0,1,0,1,0,1,1
+male,Agriculture,5,Balochistan,1.0,2.99,0,1,0,0,0,1,1,1
+male,Food Science,2,Punjab,1.0,3.28,1,0,1,0,0,0,1,1
+female,Animal Sciences,5,Sindh,104.2,3.81,1,0,1,0,0,0,0,1
+female,Food Science,2,Punjab,96.1,2.98,1,0,1,0,0,1,1,1
+male,Biochemistry,1,Punjab,50.7,3.35,0,0,1,0,0,0,1,0
+male,Environmental Sciences,1,Islamabad,40.4,3.5,0,0,1,0,0,0,1,1
+female,Veterinary Science,4,KPK,1.0,3.01,1,0,1,0,0,1,0,1
+female,Biochemistry,3,Gilgit-Baltistan,26.2,3.62,0,1,1,1,1,1,0,1
+female,Veterinary Science,2,Sindh,106.7,3.64,1,0,0,0,0,1,0,0
+male,Food Science,3,Punjab,40.3,3.72,1,0,0,0,1,0,1,1
+female,Biochemistry,2,KPK,12.4,3.31,1,0,1,0,0,0,1,1
+male,Biochemistry,2,Sindh,1.0,4.0,1,1,1,1,1,0,1,1
+male,Veterinary Science,4,Punjab,90.2,2.82,0,0,1,0,0,0,0,0
+male,Plant Breeding,3,Punjab,32.2,4.0,0,0,1,0,0,1,1,1
+male,Food Science,4,KPK,1.0,3.45,1,0,1,0,0,0,0,1
+male,Soil Science,3,KPK,1.0,3.7,1,0,1,0,0,1,0,1
+male,Soil Science,5,Punjab,1.0,2.96,0,0,1,0,1,0,1,1
+female,Soil Science,1,Gilgit-Baltistan,29.7,3.48,0,0,1,0,0,0,0,1
+male,Plant Breeding,2,Punjab,43.3,3.74,1,0,1,0,1,0,1,1
+male,Soil Science,1,Punjab,14.9,2.61,0,1,1,0,0,0,1,1
+male,Plant Breeding,3,Punjab,66.1,3.03,1,1,1,0,1,0,0,1
+male,Environmental Sciences,3,Balochistan,38.2,2.14,0,0,1,0,0,1,0,0
+male,Food Science,4,Punjab,77.5,3.02,1,1,1,0,0,0,0,1
+male,Animal Sciences,2,Sindh,20.7,2.73,1,0,1,0,1,0,1,1
+male,Animal Sciences,1,Punjab,156.8,3.0,1,0,1,0,0,0,0,0
+female,Plant Breeding,3,KPK,12.4,4.0,1,0,1,0,0,1,1,1
+female,Food Science,5,Balochistan,1.0,3.87,0,0,1,0,0,0,1,1
+male,Veterinary Science,2,Punjab,1.0,2.45,1,0,0,0,0,0,1,0
+female,Biochemistry,1,AJK,26.6,3.35,1,0,1,0,1,0,0,1
+female,Agriculture,2,Punjab,1.0,3.46,1,0,1,0,0,1,1,1
+female,Soil Science,2,Punjab,46.8,2.95,1,0,1,0,1,1,1,1
+female,Soil Science,2,Sindh,1.0,3.18,1,1,1,0,1,1,0,1
+female,Animal Sciences,2,KPK,41.5,3.22,0,0,1,0,1,0,0,1
+female,Agriculture,3,Punjab,1.0,2.49,1,0,1,0,0,0,1,1
+female,Agriculture,2,Sindh,19.7,2.64,0,0,1,0,0,0,1,0
+male,Veterinary Science,2,Punjab,59.2,3.18,1,0,1,0,1,0,1,1
+male,Agriculture,1,Sindh,127.2,3.14,1,0,1,0,0,0,1,0
+male,Agriculture,5,KPK,1.0,2.78,1,0,0,0,0,0,1,0
+male,Food Science,2,Islamabad,29.0,2.74,0,0,1,0,1,0,0,0
+male,Food Science,2,Sindh,6.0,3.06,1,0,1,0,0,0,1,1
+male,Environmental Sciences,1,KPK,1.0,3.5,1,0,1,0,1,0,1,1
+female,Soil Science,3,Sindh,6.4,3.07,0,0,1,1,0,1,1,0
+female,Agriculture,4,Punjab,68.0,3.83,1,0,1,1,1,0,1,1
+female,Soil Science,1,Punjab,15.5,2.79,0,0,1,1,1,0,1,0
+male,Food Science,1,Islamabad,125.0,3.19,1,0,0,0,0,0,1,0
+male,Animal Sciences,1,Punjab,51.6,2.94,1,0,1,0,0,0,0,1
+female,Agriculture,3,Balochistan,1.0,3.36,1,0,1,0,1,0,1,1
+female,Agriculture,5,Punjab,20.3,2.75,0,0,1,0,1,1,1,1
+female,Food Science,2,Balochistan,2.9,3.97,0,1,1,0,0,0,1,1
+female,Animal Sciences,2,Punjab,67.0,2.34,1,0,1,0,1,0,1,0
+female,Animal Sciences,4,Islamabad,1.0,3.87,1,0,0,0,0,1,1,1
+male,Veterinary Science,4,KPK,1.0,3.14,0,0,1,0,0,0,1,1
+male,Plant Breeding,1,Punjab,11.3,3.35,0,1,0,0,1,0,1,1
+male,Soil Science,1,KPK,62.3,3.7,1,0,1,0,0,0,1,1
+female,Soil Science,2,KPK,84.3,3.49,1,0,1,0,1,0,0,1
+female,Plant Breeding,4,Punjab,90.2,2.77,0,1,1,0,1,0,1,1
+male,Plant Breeding,3,Punjab,56.2,3.37,1,0,1,0,0,0,1,1
+female,Animal Sciences,3,KPK,31.7,3.94,1,0,1,0,0,0,1,1
+male,Food Science,4,KPK,66.8,2.7,1,0,1,0,1,1,1,1
+male,Animal Sciences,2,Punjab,1.0,4.0,1,1,1,0,0,0,1,1
+male,Agriculture,2,Gilgit-Baltistan,1.0,3.27,1,0,1,0,0,0,1,1
+male,Biochemistry,1,Punjab,52.5,2.91,0,0,1,0,0,1,1,1
+female,Veterinary Science,4,Punjab,1.0,2.7,1,0,0,1,0,0,1,0
+male,Environmental Sciences,3,Sindh,32.4,3.0,0,0,1,0,0,1,1,1
+female,Biochemistry,2,Punjab,39.8,2.22,1,0,1,1,0,0,1,0
+female,Animal Sciences,1,Punjab,44.9,2.91,0,0,1,0,1,1,1,1
+male,Environmental Sciences,4,Sindh,72.5,2.98,0,0,1,0,0,1,1,0
+male,Animal Sciences,4,Punjab,68.3,2.62,0,0,0,0,0,0,1,0
+female,Food Science,3,Punjab,42.8,3.44,0,0,1,0,0,0,1,1
+male,Agriculture,1,KPK,17.3,3.0,1,0,1,0,1,0,1,1
+female,Food Science,5,Sindh,39.3,2.81,1,0,1,0,0,0,1,0
+male,Biochemistry,4,Gilgit-Baltistan,11.2,2.95,1,0,1,0,0,0,1,1
+female,Animal Sciences,3,Sindh,27.1,3.26,1,1,1,0,0,0,1,1
+female,Veterinary Science,3,Sindh,139.7,3.13,1,0,1,0,0,0,1,0
+male,Animal Sciences,5,Punjab,42.3,2.78,0,0,1,1,0,0,1,0
+male,Veterinary Science,5,Balochistan,53.0,3.16,1,1,1,0,1,1,1,1
+female,Environmental Sciences,3,Punjab,6.8,3.08,0,0,1,0,0,0,0,0
+male,Biochemistry,2,Punjab,75.8,2.59,0,0,1,0,0,0,1,0
+male,Agriculture,2,Gilgit-Baltistan,65.4,2.97,0,1,1,0,0,1,1,1
+male,Soil Science,4,KPK,65.7,3.36,0,0,1,0,0,1,1,1
+male,Veterinary Science,3,KPK,43.6,3.36,1,1,0,0,1,1,0,1
+female,Agriculture,1,Punjab,76.4,3.0,0,0,1,0,0,0,1,0
+female,Biochemistry,1,Punjab,85.9,3.4,0,0,1,0,1,0,1,1
+male,Agriculture,5,Sindh,46.3,2.66,1,0,1,0,0,0,0,0
+female,Food Science,4,KPK,30.4,2.67,0,0,1,0,0,1,1,1
+male,Agriculture,5,Sindh,70.8,2.99,1,0,1,0,0,1,1,1
+male,Animal Sciences,2,Punjab,1.0,3.77,1,0,1,0,0,1,1,1
+female,Plant Breeding,4,Punjab,6.3,3.17,1,0,1,0,0,0,1,1
+female,Veterinary Science,4,Sindh,32.9,2.98,1,0,0,0,0,0,1,0
+male,Agriculture,2,KPK,1.0,3.79,0,0,1,0,0,1,0,1
+male,Agriculture,1,Punjab,68.1,2.97,1,0,1,0,0,0,1,1
+male,Biochemistry,5,Punjab,1.0,4.0,1,0,1,0,0,0,1,1
+female,Environmental Sciences,1,Punjab,16.1,2.87,0,0,1,1,0,0,1,0
+male,Biochemistry,3,Punjab,26.5,2.64,1,0,1,0,0,1,0,1
+male,Plant Breeding,3,Sindh,36.6,3.03,1,0,1,0,1,0,1,1
+female,Plant Breeding,3,Punjab,21.3,2.99,0,0,1,0,0,1,1,1
+male,Environmental Sciences,2,KPK,32.3,2.74,1,0,1,0,1,0,1,1
+male,Plant Breeding,4,Balochistan,32.6,4.0,0,0,1,0,0,0,0,1
+male,Animal Sciences,1,Islamabad,17.1,3.24,1,0,1,0,0,0,0,1
+male,Veterinary Science,4,AJK,4.1,3.31,1,0,0,0,1,0,0,1
+male,Animal Sciences,1,Punjab,78.3,2.89,1,1,0,2,1,0,1,0
+female,Agriculture,3,Punjab,1.0,2.84,1,0,1,0,1,0,1,1
+female,Food Science,4,Punjab,26.8,3.56,0,0,1,1,0,0,1,0
+female,Soil Science,1,KPK,16.2,2.35,1,0,1,0,0,0,1,0
+female,Environmental Sciences,1,Punjab,51.8,2.59,1,0,0,0,1,0,1,0
+male,Agriculture,4,Punjab,1.0,2.99,1,0,1,0,1,1,1,1
+male,Agriculture,1,Punjab,15.0,3.71,0,0,1,0,0,0,0,1
+female,Agriculture,1,Punjab,30.9,2.93,0,0,1,0,0,0,1,0
+male,Environmental Sciences,2,KPK,77.8,3.29,0,0,0,1,0,0,1,0
+female,Veterinary Science,5,KPK,48.3,3.11,1,0,0,0,0,0,1,0
+female,Veterinary Science,3,Sindh,1.0,3.68,1,0,1,0,0,0,1,1
+male,Agriculture,2,AJK,15.5,2.39,1,0,1,1,0,1,1,0
+male,Biochemistry,5,Punjab,70.4,3.43,0,0,1,0,0,0,0,1
+male,Animal Sciences,2,Punjab,1.0,3.01,0,0,1,0,0,0,1,1
+male,Environmental Sciences,2,Punjab,31.9,3.52,1,0,0,0,0,0,1,1
+male,Soil Science,2,KPK,34.6,2.73,1,0,1,0,0,0,1,1
+male,Food Science,2,Sindh,19.6,3.11,0,0,1,1,0,1,1,0
+female,Environmental Sciences,2,Punjab,142.8,3.05,1,0,1,1,1,0,0,0
+female,Plant Breeding,3,Islamabad,18.5,2.65,0,0,1,0,0,1,1,1
+female,Plant Breeding,1,Punjab,53.0,2.52,1,0,0,0,1,1,1,0
+male,Food Science,3,Punjab,4.3,2.84,1,0,1,0,0,0,0,1
+male,Environmental Sciences,1,KPK,56.1,3.16,0,0,1,1,0,0,1,0
+male,Biochemistry,2,AJK,69.8,2.76,1,0,1,1,1,1,1,0
+male,Animal Sciences,1,KPK,11.5,2.95,1,1,1,0,0,1,1,1
+female,Agriculture,3,Islamabad,32.8,2.25,1,0,1,0,0,0,1,0
+male,Environmental Sciences,4,Punjab,1.0,2.93,1,0,0,1,1,0,1,0
+male,Biochemistry,2,KPK,1.0,3.56,1,0,1,0,0,0,1,1
+female,Plant Breeding,1,Balochistan,76.5,3.42,0,0,1,0,0,0,1,1
+male,Plant Breeding,1,Sindh,12.8,3.06,1,0,1,0,1,0,1,1
+male,Food Science,4,Punjab,1.0,3.21,1,1,1,0,0,0,1,1
+male,Agriculture,2,Islamabad,105.6,2.73,0,0,1,1,0,0,1,0
+female,Biochemistry,4,Punjab,2.9,3.83,1,0,1,0,1,0,0,1
+female,Animal Sciences,2,Punjab,25.1,4.0,1,0,1,0,1,0,1,1
+male,Veterinary Science,1,Gilgit-Baltistan,100.6,3.17,0,0,1,0,0,1,1,1
+female,Soil Science,4,AJK,29.3,4.0,1,0,1,0,0,0,0,1
+female,Agriculture,2,Islamabad,28.5,2.79,0,0,1,0,1,1,0,1
+female,Agriculture,1,AJK,1.0,2.54,1,0,1,0,1,0,1,1
+male,Food Science,5,Punjab,1.0,2.78,1,0,0,0,0,0,1,0
+male,Animal Sciences,1,AJK,28.3,3.0,1,0,0,0,0,0,1,0
+female,Veterinary Science,2,Punjab,49.5,4.0,1,1,1,0,0,0,0,1
+male,Food Science,2,KPK,47.2,2.97,0,0,1,0,0,0,1,0
+female,Veterinary Science,2,Punjab,15.7,2.71,1,0,1,1,1,0,1,0
+female,Veterinary Science,4,Balochistan,35.8,2.7,1,0,0,0,1,1,1,0
+male,Plant Breeding,1,Sindh,1.0,3.61,0,0,1,0,0,0,1,1
+female,Plant Breeding,5,Gilgit-Baltistan,53.4,3.55,1,0,1,0,1,0,1,1
+female,Biochemistry,3,Punjab,41.5,2.88,1,0,1,0,1,0,0,1
+female,Environmental Sciences,5,Punjab,113.9,2.26,1,0,1,0,0,1,1,0
+male,Veterinary Science,4,Punjab,35.3,2.59,1,0,1,1,1,0,0,0
+female,Biochemistry,5,Punjab,1.0,3.87,1,1,0,0,0,0,0,1
+male,Plant Breeding,3,KPK,33.0,3.41,1,0,1,0,1,1,1,1
+female,Food Science,2,Punjab,21.9,3.13,1,1,1,0,0,0,1,1
+female,Veterinary Science,2,Sindh,52.4,3.94,1,0,1,0,0,0,1,1
+female,Soil Science,3,Punjab,36.1,3.98,1,0,0,0,0,0,1,1
+male,Environmental Sciences,2,Punjab,1.0,3.08,1,0,1,0,0,0,1,1
+male,Veterinary Science,4,KPK,1.0,3.09,1,0,0,0,0,1,1,1
+male,Food Science,1,Punjab,45.5,2.84,0,0,1,0,0,0,1,0
+male,Food Science,4,Punjab,90.3,2.97,0,0,1,0,0,1,1,0
+male,Agriculture,1,Punjab,38.2,2.43,1,0,1,0,0,0,0,0
+female,Soil Science,5,Punjab,67.5,2.43,0,0,1,0,0,1,0,0
+male,Plant Breeding,1,KPK,75.5,2.32,1,0,1,0,0,1,1,0
+female,Animal Sciences,1,Punjab,45.7,3.59,1,0,1,0,0,1,1,1
+female,Soil Science,4,Punjab,2.4,2.4,1,0,1,0,1,1,1,1
+male,Environmental Sciences,4,KPK,42.8,3.98,1,0,1,0,1,1,1,1
+female,Environmental Sciences,4,Sindh,83.3,2.77,1,0,0,0,0,0,1,0
+female,Food Science,5,Sindh,56.2,3.88,1,0,1,0,0,0,1,1
+male,Plant Breeding,2,Punjab,64.9,2.94,1,0,1,0,0,0,0,0
+male,Biochemistry,4,AJK,16.5,2.4,1,1,1,0,0,0,1,1
+female,Environmental Sciences,2,Punjab,26.9,3.68,0,0,1,0,0,0,1,1
+female,Veterinary Science,3,Punjab,30.3,3.73,0,0,1,0,0,0,1,1
+female,Animal Sciences,2,AJK,32.9,2.69,1,1,0,1,0,0,1,0
+female,Biochemistry,1,KPK,81.7,2.95,0,0,1,1,1,0,1,0
+female,Agriculture,3,KPK,1.0,2.69,1,0,1,0,0,0,1,1
+male,Plant Breeding,4,AJK,36.2,3.05,1,0,1,0,0,1,1,1
+female,Agriculture,1,Punjab,31.8,3.15,0,0,0,0,0,0,0,0
+male,Biochemistry,5,Gilgit-Baltistan,1.0,2.94,1,0,1,0,0,0,1,1
+female,Agriculture,3,KPK,61.9,2.28,0,0,1,0,1,0,1,0
+male,Agriculture,1,Punjab,6.0,2.84,1,0,0,1,0,0,1,0
+male,Veterinary Science,3,Punjab,20.7,3.42,1,1,1,0,0,0,1,1
+female,Food Science,1,Punjab,109.0,3.01,0,0,0,0,0,0,1,0
+male,Animal Sciences,1,AJK,75.4,2.95,0,0,1,0,0,1,1,1
+female,Veterinary Science,3,Punjab,58.0,2.68,1,1,0,0,0,1,1,0
+male,Veterinary Science,1,Punjab,50.2,2.83,0,0,0,0,0,0,1,0
+female,Plant Breeding,1,KPK,28.4,3.73,1,1,1,0,0,0,1,1
+female,Plant Breeding,4,KPK,115.0,2.59,1,0,0,0,0,0,1,0
+male,Biochemistry,1,Punjab,67.1,3.42,0,0,0,0,0,0,1,0
+female,Animal Sciences,4,Balochistan,5.0,3.12,0,0,1,0,0,1,1,1
+male,Plant Breeding,4,Sindh,1.0,3.21,0,0,0,0,1,0,1,1
+female,Soil Science,1,Gilgit-Baltistan,57.7,2.77,1,0,0,0,0,0,1,0
+female,Food Science,3,Punjab,32.8,2.94,1,0,1,0,0,1,1,1
+female,Soil Science,1,Punjab,1.0,3.1,0,0,1,0,0,0,1,1
+male,Environmental Sciences,3,KPK,52.1,2.87,1,0,1,0,1,1,1,1
+male,Veterinary Science,1,Punjab,24.2,3.25,1,0,1,0,0,0,0,1
+female,Food Science,5,Sindh,56.2,3.31,1,0,1,0,0,1,1,1
+female,Veterinary Science,1,Punjab,52.7,4.0,0,0,1,1,0,0,1,1
+male,Veterinary Science,3,Balochistan,10.7,3.23,0,0,1,0,0,1,1,1
+male,Plant Breeding,1,AJK,60.3,2.24,0,0,1,1,0,1,0,0
+male,Environmental Sciences,1,Gilgit-Baltistan,15.1,3.62,1,0,1,1,0,0,1,1
+female,Plant Breeding,2,Islamabad,17.7,3.01,1,0,1,0,0,1,0,1
+male,Food Science,3,AJK,13.7,4.0,0,0,1,0,0,0,1,1
+male,Veterinary Science,5,Punjab,80.2,3.76,0,0,1,0,0,0,1,1
+female,Soil Science,1,Punjab,23.8,2.87,1,0,0,0,0,0,1,1
+male,Veterinary Science,1,AJK,89.9,3.42,0,0,1,0,0,0,1,1
+female,Plant Breeding,2,AJK,106.3,2.83,1,0,1,0,0,0,1,0
+male,Soil Science,2,Islamabad,5.5,3.1,1,0,1,0,1,0,1,1
+female,Veterinary Science,4,Balochistan,1.0,3.4,0,0,1,0,1,0,1,1
+female,Soil Science,5,Punjab,76.8,3.6,1,0,1,0,0,0,1,1
+female,Animal Sciences,4,AJK,21.3,3.5,0,0,0,0,0,0,0,0
+male,Food Science,1,AJK,1.0,3.13,1,0,1,0,1,0,1,1
+male,Veterinary Science,2,KPK,11.5,4.0,0,0,1,0,0,1,1,1
+female,Animal Sciences,4,Gilgit-Baltistan,18.4,2.94,1,1,1,1,0,0,1,1
+male,Agriculture,2,Sindh,86.9,2.38,1,0,1,1,0,1,1,0
+male,Biochemistry,3,AJK,41.4,2.46,0,0,1,0,0,0,1,0
+male,Plant Breeding,1,Punjab,86.3,3.76,1,0,1,0,0,0,0,1
+female,Agriculture,2,Gilgit-Baltistan,54.8,3.07,1,0,1,0,1,0,0,1
+female,Environmental Sciences,4,Punjab,22.6,3.17,1,0,1,0,1,0,1,1
+female,Environmental Sciences,2,Punjab,19.4,2.86,0,0,1,0,0,0,1,1
+female,Agriculture,5,Punjab,57.5,2.9,0,0,1,0,0,0,1,0
+male,Food Science,2,Sindh,67.8,2.75,0,0,1,0,1,0,1,0
+male,Veterinary Science,1,Punjab,74.9,3.31,1,0,1,0,1,0,0,1
+male,Plant Breeding,2,Islamabad,24.5,3.06,1,0,1,0,0,1,0,1
+female,Soil Science,1,Sindh,42.0,3.3,0,0,1,0,0,0,1,1
+male,Animal Sciences,3,AJK,58.4,3.25,1,0,1,0,1,0,1,1
+female,Plant Breeding,1,Punjab,19.6,2.91,0,0,1,0,0,0,1,0
+female,Agriculture,3,Punjab,1.0,2.44,1,0,0,1,0,0,1,0
+male,Soil Science,4,Balochistan,2.7,2.4,1,0,0,1,0,1,1,0
+female,Biochemistry,2,KPK,25.4,4.0,1,0,1,0,0,0,1,1
+male,Plant Breeding,1,Sindh,61.5,3.77,1,1,1,1,0,0,1,1
+female,Animal Sciences,2,Balochistan,85.4,3.7,0,0,1,1,0,0,1,0
+female,Veterinary Science,4,Gilgit-Baltistan,1.0,2.8,1,0,1,0,1,1,0,1
+female,Biochemistry,3,Sindh,11.1,3.1,1,0,1,0,0,0,0,1
+male,Agriculture,1,Islamabad,20.7,2.73,0,0,1,0,1,1,1,1
+male,Veterinary Science,3,KPK,66.8,2.51,1,0,1,0,1,1,1,1
+male,Food Science,2,KPK,13.9,2.84,1,1,1,0,1,0,0,1
+male,Environmental Sciences,2,Punjab,17.8,3.7,1,0,1,0,0,1,1,1
+male,Animal Sciences,1,Punjab,1.0,3.48,1,0,0,1,1,0,1,1
+male,Biochemistry,5,Punjab,54.3,2.66,0,1,0,0,0,0,0,0
+female,Soil Science,1,Balochistan,28.5,2.96,1,0,0,0,0,0,1,0
+male,Plant Breeding,1,KPK,8.8,3.44,1,0,1,0,1,0,0,1
+male,Plant Breeding,1,Punjab,24.6,2.84,0,0,1,0,0,0,1,1
+female,Food Science,3,KPK,80.1,3.14,1,0,1,0,1,1,1,1
+female,Plant Breeding,2,Punjab,1.0,3.28,0,1,1,0,0,0,1,1
+female,Soil Science,1,Punjab,1.3,3.28,0,0,1,1,0,1,1,1
+female,Biochemistry,2,AJK,85.1,3.21,1,0,1,0,1,0,1,1
+female,Plant Breeding,3,Punjab,38.0,2.81,0,0,0,0,0,0,0,0
+female,Biochemistry,2,Punjab,61.8,2.85,1,0,1,0,0,0,1,1
+male,Biochemistry,5,Sindh,51.1,2.59,1,0,1,0,1,1,1,1
+female,Plant Breeding,2,Punjab,33.6,2.4,1,0,1,0,0,0,0,0
+male,Animal Sciences,1,KPK,21.1,3.05,0,0,0,0,0,0,1,0
+male,Food Science,5,Islamabad,68.3,3.47,1,0,1,0,0,0,0,1
+male,Veterinary Science,4,Sindh,81.5,2.48,1,0,1,0,0,1,1,0
+male,Biochemistry,2,Sindh,78.4,3.22,1,0,1,0,0,0,1,1
+female,Food Science,4,Punjab,1.0,3.45,0,0,1,0,0,0,1,1
+male,Animal Sciences,3,Sindh,87.2,2.27,0,0,1,0,0,0,1,0
+male,Soil Science,2,Punjab,20.7,2.98,1,0,1,0,1,1,1,1
+male,Food Science,4,Punjab,4.8,3.84,0,0,1,0,0,1,1,1
+female,Biochemistry,4,Gilgit-Baltistan,28.2,3.35,1,0,1,0,1,1,1,1
+male,Soil Science,2,Punjab,68.2,2.26,1,1,0,0,0,0,1,0
+female,Agriculture,3,Sindh,56.6,3.4,1,0,1,1,0,0,1,1
+female,Food Science,2,Punjab,24.8,2.76,1,0,1,1,1,0,1,0
+male,Soil Science,1,Gilgit-Baltistan,68.5,3.41,1,0,1,0,0,0,1,1
+female,Environmental Sciences,5,Punjab,40.6,2.79,1,1,1,0,0,1,1,1
+male,Biochemistry,3,Punjab,12.1,3.08,1,0,1,0,1,0,1,1
+male,Environmental Sciences,3,Gilgit-Baltistan,6.7,2.86,0,0,1,0,1,0,1,1
+female,Agriculture,3,Sindh,51.4,3.1,1,0,1,1,0,0,1,0
+female,Soil Science,3,AJK,31.7,2.84,1,1,1,0,1,0,0,1
+male,Agriculture,2,Punjab,1.0,3.0,1,0,1,0,1,0,0,1
+female,Agriculture,5,KPK,68.9,2.57,0,0,1,0,0,0,1,0
+male,Soil Science,3,Islamabad,15.8,3.32,0,0,1,0,0,0,0,0
+female,Animal Sciences,3,Sindh,98.7,3.18,1,0,1,0,0,1,0,1
+female,Soil Science,2,KPK,1.0,2.37,0,0,0,0,0,1,1,0
+female,Environmental Sciences,2,Punjab,27.8,3.55,1,1,1,0,0,1,1,1
+female,Agriculture,1,Balochistan,7.0,3.02,1,0,0,0,0,0,0,1
+male,Plant Breeding,2,AJK,1.0,3.17,0,0,1,0,0,1,1,1
+female,Environmental Sciences,1,KPK,15.5,3.44,0,0,1,0,0,0,1,1
+female,Animal Sciences,3,AJK,105.8,3.25,1,0,1,0,0,0,1,0
+female,Plant Breeding,4,Sindh,40.7,3.62,0,0,1,0,0,0,1,1
+male,Animal Sciences,2,Sindh,3.3,2.97,1,0,1,0,0,0,1,1
+male,Biochemistry,2,Punjab,1.0,3.57,1,0,1,1,0,1,1,1
+male,Agriculture,3,KPK,1.0,3.16,1,0,1,0,0,0,1,1
+male,Biochemistry,1,AJK,13.5,3.33,1,0,1,0,0,0,1,1
+male,Environmental Sciences,5,KPK,9.7,3.28,0,0,1,0,0,0,0,0
+male,Environmental Sciences,2,Punjab,26.0,3.66,1,0,1,0,0,0,1,1
+female,Animal Sciences,1,Sindh,1.0,3.42,0,0,0,0,0,1,1,0
+male,Plant Breeding,1,Balochistan,31.3,2.9,0,0,1,0,0,0,1,0
+female,Veterinary Science,5,AJK,76.1,2.81,1,0,1,1,0,0,1,0
+male,Veterinary Science,1,Punjab,99.9,3.08,0,0,1,0,0,1,1,0
+female,Biochemistry,3,Punjab,1.0,2.76,0,0,1,0,0,1,1,0
+male,Plant Breeding,1,Punjab,2.9,2.63,1,0,1,0,0,0,0,1
+male,Soil Science,1,Punjab,1.0,2.14,0,1,1,0,0,0,0,0
+female,Agriculture,4,Islamabad,40.8,2.4,0,0,0,0,0,1,0,0
+female,Environmental Sciences,1,Punjab,1.0,3.99,1,0,1,0,0,0,0,1
+male,Soil Science,1,Sindh,102.3,2.8,1,0,1,0,1,0,0,0
+male,Biochemistry,3,Punjab,36.7,3.96,1,0,1,0,0,0,1,1
+female,Food Science,4,Punjab,30.1,3.28,1,0,1,1,0,0,1,0
+female,Plant Breeding,2,Islamabad,98.7,3.08,1,0,1,0,1,1,0,1
+male,Plant Breeding,1,Sindh,34.4,2.42,0,0,1,0,1,1,1,1
+male,Plant Breeding,5,Punjab,51.0,3.1,1,0,1,0,0,0,1,0
+male,Agriculture,3,Punjab,5.0,3.95,0,0,1,0,0,0,0,1
+female,Animal Sciences,4,Islamabad,1.0,3.8,1,0,1,0,0,1,0,1
+male,Veterinary Science,4,Islamabad,10.6,3.22,1,0,1,0,1,0,1,1
+male,Plant Breeding,3,Punjab,122.5,2.58,0,0,1,0,0,0,1,0
+female,Food Science,2,KPK,60.3,2.67,1,0,1,0,0,1,1,0
+male,Animal Sciences,2,Punjab,46.0,2.72,1,0,1,0,0,0,0,0
+male,Plant Breeding,4,Sindh,1.0,3.68,0,0,1,0,0,0,1,1
+male,Agriculture,4,Punjab,71.5,3.83,1,0,1,0,0,1,1,1
+male,Environmental Sciences,5,Balochistan,1.0,3.19,1,0,0,0,0,1,1,1
+male,Soil Science,3,AJK,1.0,2.96,0,0,1,0,0,0,1,1
+male,Agriculture,2,Punjab,12.6,3.8,0,0,1,0,0,0,1,1
+female,Agriculture,2,Sindh,113.2,2.66,1,0,1,0,1,0,0,0
+female,Environmental Sciences,3,Punjab,110.9,3.12,1,0,1,1,0,0,1,0
+male,Veterinary Science,2,Punjab,17.0,3.31,1,0,1,1,1,1,0,1
+female,Environmental Sciences,4,Punjab,8.0,2.71,1,0,1,0,0,1,1,1
+male,Animal Sciences,3,Punjab,1.0,2.81,1,0,1,0,0,0,1,1
+female,Veterinary Science,1,Islamabad,38.1,2.78,0,0,0,0,0,0,0,0
+male,Veterinary Science,3,Punjab,41.5,3.74,0,0,1,0,0,0,1,1
+female,Soil Science,3,Gilgit-Baltistan,66.6,3.96,1,0,1,1,0,0,0,0
+male,Agriculture,5,Punjab,71.4,3.15,1,0,1,0,0,0,0,0
+female,Animal Sciences,2,Sindh,27.1,2.98,1,0,0,0,0,0,1,1
+male,Veterinary Science,3,Sindh,57.2,2.83,1,0,1,0,0,1,1,1
+female,Food Science,2,AJK,7.0,3.1,0,0,1,2,1,1,1,0
+male,Veterinary Science,3,Punjab,56.5,2.85,1,0,1,0,0,0,1,1
+female,Plant Breeding,1,Punjab,14.7,3.06,1,0,0,0,1,1,1,1
+male,Soil Science,4,KPK,53.4,3.29,1,0,1,0,1,0,1,1
+female,Agriculture,5,KPK,50.1,2.92,0,0,1,0,0,0,1,0
+female,Environmental Sciences,3,KPK,37.8,3.01,0,0,1,0,0,0,0,0
+female,Biochemistry,3,Punjab,66.8,3.02,1,0,1,0,0,1,1,1
+male,Soil Science,1,Punjab,1.0,2.96,1,0,1,1,1,0,1,1
+male,Biochemistry,3,Gilgit-Baltistan,1.0,2.9,1,0,1,0,0,0,1,1
+male,Animal Sciences,2,KPK,24.2,3.44,1,0,1,0,0,0,1,1
+male,Environmental Sciences,4,KPK,1.0,2.3,1,0,1,0,0,0,1,0
+female,Soil Science,1,Punjab,18.7,3.81,0,0,1,0,0,0,1,1
+female,Plant Breeding,4,Punjab,20.0,3.16,1,0,1,0,0,0,1,1
+female,Food Science,2,AJK,87.4,3.37,1,0,1,0,0,1,1,1
+male,Plant Breeding,3,KPK,40.7,3.43,1,0,1,0,0,0,1,1
+female,Biochemistry,3,Punjab,76.2,2.78,0,0,1,1,0,0,1,0
+female,Biochemistry,1,AJK,47.1,2.69,1,0,1,0,0,0,0,0
+female,Animal Sciences,2,Sindh,13.6,2.64,0,0,1,1,1,1,1,0
+male,Food Science,4,Punjab,40.3,2.99,1,0,1,0,0,0,1,1
+male,Soil Science,3,Punjab,64.2,3.41,1,0,1,0,0,1,1,1
+female,Agriculture,1,KPK,82.7,2.84,1,0,1,0,0,0,1,0
+male,Food Science,2,Punjab,29.7,3.37,1,0,0,0,0,0,1,1
+male,Plant Breeding,2,Sindh,1.0,2.03,1,0,0,0,0,1,1,0
+female,Biochemistry,3,KPK,1.0,2.93,0,0,0,0,0,0,1,0
+female,Veterinary Science,3,Punjab,21.9,3.63,0,0,1,0,1,0,1,1
+female,Animal Sciences,1,AJK,1.0,3.02,1,0,0,0,1,0,1,1
+female,Veterinary Science,3,Punjab,106.8,2.73,1,0,0,0,0,1,1,0
+male,Animal Sciences,4,Punjab,58.9,2.8,1,1,1,1,1,0,1,1
+male,Agriculture,4,KPK,9.6,2.0,1,0,1,0,0,0,1,0
+male,Plant Breeding,1,KPK,1.0,2.64,0,0,1,0,1,0,0,0
+female,Plant Breeding,2,Punjab,76.1,3.58,1,0,1,0,0,0,1,1
+male,Veterinary Science,2,KPK,1.0,2.84,1,0,0,0,0,0,1,0
+female,Veterinary Science,1,AJK,1.0,2.89,1,0,1,1,0,0,1,0
+male,Environmental Sciences,2,Balochistan,4.4,2.05,1,0,1,0,0,0,1,0
+female,Food Science,1,Balochistan,39.6,2.37,0,0,1,0,1,1,1,0
+male,Agriculture,1,Punjab,59.8,3.64,0,0,1,0,0,0,1,1
+male,Agriculture,3,Punjab,82.7,3.38,0,0,1,0,0,0,0,1
+male,Biochemistry,2,Sindh,76.8,2.52,1,0,1,0,0,0,1,0
+male,Veterinary Science,4,Punjab,35.0,2.82,0,0,0,0,1,0,1,0
+female,Agriculture,1,Balochistan,75.8,3.09,0,0,0,0,0,0,1,0
+male,Biochemistry,3,Punjab,8.2,2.56,1,0,1,0,0,1,0,1
+male,Food Science,2,Punjab,1.0,2.2,1,0,1,0,0,0,0,0
+female,Veterinary Science,4,Punjab,8.2,3.03,1,0,1,0,0,1,0,1
+female,Agriculture,4,Punjab,2.7,3.36,1,0,0,0,0,0,1,1
+male,Soil Science,2,Punjab,9.7,3.37,0,0,1,0,0,0,0,1
+male,Soil Science,3,KPK,1.0,3.49,0,0,1,1,1,0,1,1
+male,Environmental Sciences,1,Sindh,16.6,2.4,1,0,0,1,1,0,1,0
+female,Veterinary Science,3,Punjab,59.8,3.13,1,0,0,0,0,1,1,0
+male,Veterinary Science,1,Punjab,103.6,2.98,1,0,1,0,0,1,1,1
+male,Biochemistry,2,Balochistan,1.0,3.06,1,0,0,0,1,0,1,1
+male,Environmental Sciences,1,Punjab,1.0,3.0,0,1,1,1,0,0,0,0
+female,Agriculture,4,Sindh,3.3,2.8,1,0,1,0,0,1,1,1
+male,Soil Science,2,Sindh,65.6,2.0,0,0,1,1,0,0,1,0
+female,Environmental Sciences,3,Sindh,26.8,3.62,1,0,1,0,1,1,0,1
+male,Plant Breeding,2,AJK,6.0,3.25,1,0,1,0,0,0,1,1
+female,Soil Science,2,KPK,63.7,2.43,0,0,1,1,1,0,0,0
+male,Agriculture,1,Islamabad,73.3,3.31,1,0,1,1,0,0,1,1
+male,Agriculture,5,Gilgit-Baltistan,34.2,2.9,1,0,1,0,0,0,1,1
+male,Agriculture,4,Punjab,2.4,2.91,1,0,1,0,0,0,1,1
+female,Food Science,1,Punjab,45.8,2.75,0,0,1,0,0,0,0,0
+female,Biochemistry,4,Punjab,25.7,3.34,1,0,1,0,0,1,1,1
+male,Soil Science,2,Punjab,25.4,2.74,1,1,1,0,0,0,0,1
+male,Environmental Sciences,1,Sindh,14.5,2.61,0,0,1,0,0,0,1,0
+female,Veterinary Science,3,Punjab,72.0,3.61,1,0,1,0,0,0,0,1
+male,Biochemistry,1,Punjab,45.0,3.02,0,0,1,0,1,0,0,0
+male,Food Science,1,Punjab,76.4,3.03,1,0,1,0,1,0,1,1
+male,Biochemistry,3,KPK,88.5,3.41,0,0,1,1,0,0,1,0
+female,Agriculture,2,KPK,53.4,2.8,1,0,1,0,0,1,1,1
+female,Agriculture,4,Islamabad,14.7,2.89,1,0,1,0,0,1,1,1
+female,Agriculture,3,Punjab,76.6,3.24,1,0,1,1,0,1,0,1
+female,Environmental Sciences,4,Punjab,53.6,2.41,1,0,1,0,0,0,1,0
+male,Veterinary Science,3,Islamabad,139.1,3.2,1,0,1,0,0,0,0,0
+male,Animal Sciences,4,KPK,47.4,2.76,0,0,1,0,1,0,1,0
+male,Animal Sciences,2,Sindh,62.9,3.48,1,1,0,0,0,1,0,1
+male,Environmental Sciences,3,Sindh,46.6,3.35,1,1,1,0,0,0,0,1
+male,Veterinary Science,3,Punjab,31.0,3.29,0,0,1,0,0,1,0,1
+male,Agriculture,5,AJK,24.6,2.38,1,0,0,0,0,1,0,0
+male,Animal Sciences,1,KPK,46.8,3.05,0,0,1,1,0,0,1,0
+female,Veterinary Science,3,Sindh,55.8,2.57,1,0,1,0,0,0,1,0
+male,Soil Science,4,Sindh,81.2,3.08,1,0,0,0,0,0,1,0
+male,Environmental Sciences,2,Punjab,47.4,2.06,1,0,1,0,0,0,0,0
+female,Agriculture,4,Punjab,16.5,2.41,1,0,1,0,0,0,1,0
+female,Environmental Sciences,2,Balochistan,21.9,3.64,1,0,1,1,1,0,1,1
+female,Agriculture,1,Sindh,1.0,3.27,1,0,1,0,0,1,0,1
+female,Plant Breeding,3,Punjab,101.4,2.94,1,0,1,0,0,0,0,0
+female,Animal Sciences,2,Punjab,13.4,2.69,1,0,1,0,0,0,0,1
+male,Veterinary Science,1,AJK,73.7,2.61,0,0,1,0,1,0,0,0
+male,Animal Sciences,1,Punjab,46.1,3.19,0,0,0,0,0,1,1,0
+female,Veterinary Science,1,Punjab,47.1,2.95,0,0,0,0,0,0,0,0
+male,Environmental Sciences,4,KPK,30.3,3.8,1,0,1,0,0,1,1,1
+male,Biochemistry,4,Balochistan,3.5,3.02,1,0,1,0,1,0,1,1
+male,Environmental Sciences,3,KPK,1.0,3.13,0,0,0,0,0,1,1,0
+male,Animal Sciences,1,Gilgit-Baltistan,104.1,2.48,1,0,1,0,0,1,0,0
+male,Plant Breeding,3,Punjab,39.6,2.94,0,0,1,0,0,1,1,0
+male,Animal Sciences,4,AJK,80.0,3.18,1,0,1,0,0,1,1,1
+female,Environmental Sciences,4,AJK,90.4,2.93,1,0,1,0,0,0,1,0
+female,Plant Breeding,2,Sindh,18.6,2.88,1,1,1,0,1,0,0,1
+male,Animal Sciences,1,KPK,51.9,3.25,0,0,1,0,0,1,0,0
+female,Animal Sciences,5,Punjab,36.8,3.78,1,0,1,0,1,0,1,1
+male,Animal Sciences,4,Punjab,1.0,3.17,1,0,1,0,1,0,1,1
+female,Plant Breeding,1,Punjab,27.6,3.61,0,0,0,0,0,0,0,1
+female,Soil Science,4,Punjab,58.5,3.38,1,0,1,0,1,0,1,1
+male,Animal Sciences,1,Islamabad,15.0,3.59,1,0,1,0,0,0,1,1
+female,Environmental Sciences,1,Punjab,22.0,2.83,1,0,1,0,0,0,1,1
+female,Environmental Sciences,4,Sindh,28.1,3.01,1,0,1,0,0,0,0,1
+female,Animal Sciences,3,Punjab,119.5,3.01,1,0,1,0,1,0,1,0
+female,Biochemistry,2,Punjab,1.0,3.35,1,0,1,0,1,1,1,1
+female,Food Science,5,Punjab,55.1,3.46,1,0,1,0,0,0,1,1
+male,Biochemistry,4,Punjab,24.9,3.16,0,0,1,0,0,1,1,1
+female,Veterinary Science,1,KPK,9.4,3.49,1,0,1,0,1,1,1,1
+female,Plant Breeding,3,Islamabad,23.9,2.85,0,0,0,0,0,0,1,0
+female,Veterinary Science,4,Punjab,61.7,3.5,1,0,0,1,0,0,1,0
+male,Animal Sciences,3,Islamabad,64.0,3.56,1,1,1,0,0,0,0,1
+female,Veterinary Science,5,KPK,42.4,3.4,0,0,0,0,0,1,1,1
+male,Soil Science,3,KPK,78.7,3.16,1,0,1,0,0,0,1,1
+female,Agriculture,1,Punjab,85.8,3.42,0,0,1,0,0,0,1,1
+male,Environmental Sciences,1,Punjab,67.7,2.7,1,0,1,0,0,0,1,0
+female,Biochemistry,4,Gilgit-Baltistan,13.2,3.19,1,0,1,0,0,0,1,1
+female,Plant Breeding,5,Sindh,54.8,3.24,1,0,1,0,0,0,1,1
+male,Plant Breeding,1,Punjab,55.0,2.5,1,0,1,0,0,0,0,0
+male,Soil Science,1,Balochistan,2.4,3.31,1,0,0,1,0,1,1,0
+male,Food Science,4,Punjab,1.0,2.54,1,0,1,1,0,0,1,0
+female,Soil Science,1,Balochistan,1.0,2.91,0,0,1,1,1,0,1,0
+female,Food Science,1,Punjab,37.8,3.12,1,0,1,0,0,0,1,1
+male,Soil Science,4,AJK,46.9,2.77,0,0,1,1,1,0,1,0
+male,Veterinary Science,4,Punjab,1.0,3.14,0,0,1,0,0,0,1,1
+male,Soil Science,4,Punjab,76.8,3.13,0,0,1,0,0,0,1,0
+male,Environmental Sciences,3,KPK,41.1,2.73,1,0,0,0,1,1,1,1
+female,Food Science,2,Punjab,89.0,3.36,1,0,1,0,0,0,1,1
+female,Plant Breeding,5,AJK,49.8,2.76,0,0,1,0,1,0,1,1
+male,Animal Sciences,2,KPK,1.0,4.0,0,0,1,0,0,1,1,1
+female,Veterinary Science,2,Punjab,53.3,3.05,1,0,1,1,1,0,1,1
+male,Plant Breeding,4,Punjab,61.8,2.57,1,0,1,0,0,0,1,0
+female,Biochemistry,3,AJK,13.1,2.66,1,0,1,0,1,0,1,1
+male,Agriculture,4,KPK,1.0,3.62,1,0,1,0,0,1,0,1
+female,Biochemistry,1,AJK,39.0,2.92,1,0,0,0,0,0,1,0
+female,Environmental Sciences,5,Punjab,1.0,2.49,0,0,1,0,0,0,1,0
+male,Plant Breeding,3,AJK,79.8,3.48,1,0,0,1,1,0,1,0
+female,Plant Breeding,3,Sindh,18.7,2.91,1,0,0,0,0,1,0,0
+female,Veterinary Science,5,KPK,104.0,3.39,1,0,1,0,0,1,0,1
+male,Food Science,2,Punjab,1.0,3.52,1,0,1,0,0,0,0,1
+male,Plant Breeding,4,Punjab,40.4,3.22,1,0,0,0,0,0,0,0
+female,Environmental Sciences,3,Islamabad,92.2,4.0,1,0,0,0,1,0,0,1
+male,Food Science,4,Islamabad,1.0,2.32,1,0,0,0,0,0,1,0
+male,Soil Science,4,Punjab,28.6,2.73,0,0,1,0,0,0,1,1
+male,Soil Science,3,AJK,18.9,2.98,1,1,1,2,1,0,1,0
+female,Environmental Sciences,1,Punjab,7.6,4.0,0,0,0,0,0,0,1,1
+male,Veterinary Science,1,Punjab,44.8,3.91,1,0,1,0,0,1,1,1
+male,Animal Sciences,5,Punjab,1.0,3.68,1,0,1,0,0,0,1,1
+female,Animal Sciences,5,Punjab,30.6,2.74,0,0,1,1,0,0,1,0
+male,Environmental Sciences,5,Punjab,55.6,2.8,1,0,1,0,1,0,1,1
+female,Biochemistry,1,Punjab,26.4,2.73,0,1,1,0,1,1,1,1
+male,Animal Sciences,2,Punjab,1.0,2.75,1,0,1,0,1,0,1,1
+female,Biochemistry,4,KPK,76.2,3.77,1,0,1,1,0,0,1,1
+female,Plant Breeding,4,Gilgit-Baltistan,64.2,2.99,1,0,1,0,0,0,1,1
+male,Animal Sciences,1,KPK,1.0,3.05,1,0,1,0,0,0,1,1
+female,Agriculture,3,Punjab,1.0,3.45,1,0,1,0,0,1,1,1
+male,Plant Breeding,1,Balochistan,1.0,2.35,1,1,1,0,0,0,1,1
+male,Soil Science,2,Punjab,56.8,3.12,1,0,1,0,0,0,1,1
+male,Biochemistry,1,Balochistan,46.0,2.61,0,0,1,0,1,0,1,1
+female,Soil Science,1,Sindh,66.6,2.97,1,0,1,1,0,0,0,0
+male,Agriculture,1,Punjab,22.0,2.84,0,0,1,0,0,1,0,1
+male,Plant Breeding,5,Punjab,1.0,2.81,1,0,0,0,1,0,1,1
+male,Soil Science,4,Balochistan,71.8,3.2,1,0,1,0,0,0,1,1
+male,Animal Sciences,5,AJK,12.9,3.2,1,0,1,0,0,0,1,1
+male,Animal Sciences,2,KPK,42.5,3.0,1,1,1,0,0,0,1,1
+male,Environmental Sciences,2,Islamabad,1.0,3.27,0,0,1,0,1,0,1,1
+male,Plant Breeding,2,AJK,12.2,2.71,1,0,1,0,0,1,1,1
+male,Soil Science,3,Punjab,75.4,3.41,0,0,1,0,0,0,1,0
+female,Animal Sciences,2,KPK,6.3,3.01,0,0,1,0,0,0,1,1
+male,Veterinary Science,4,Punjab,67.6,2.88,1,0,1,0,0,0,1,0
+female,Plant Breeding,4,Sindh,1.0,2.74,0,0,0,0,0,1,1,0
+male,Biochemistry,4,Punjab,12.6,2.99,1,0,1,1,0,0,1,1
+male,Plant Breeding,1,Islamabad,28.1,3.94,1,0,1,0,0,0,1,1
+male,Soil Science,3,KPK,104.7,3.07,1,0,1,0,1,0,0,1
+male,Agriculture,1,Punjab,1.0,2.59,0,0,1,0,0,0,0,0
+male,Biochemistry,1,Punjab,61.8,3.51,0,0,1,0,0,0,1,1
+female,Food Science,4,Punjab,77.3,2.89,0,0,1,0,0,1,0,0
+male,Biochemistry,3,KPK,6.1,3.23,1,0,0,1,0,0,1,0
+male,Animal Sciences,4,AJK,20.1,2.83,0,0,1,0,0,1,1,0
+female,Biochemistry,1,Punjab,40.7,3.68,0,0,1,0,0,0,1,1
+male,Biochemistry,5,Sindh,1.0,2.83,1,0,0,0,0,1,1,1
+male,Environmental Sciences,5,Sindh,16.8,3.73,1,0,1,0,0,0,1,1
+male,Biochemistry,2,Punjab,86.0,2.63,1,0,1,1,0,0,0,0
+male,Plant Breeding,4,Sindh,55.9,2.97,0,0,0,1,0,1,1,0
+male,Environmental Sciences,1,Punjab,28.7,3.73,1,0,1,0,0,0,1,1
+female,Food Science,4,Punjab,39.5,3.18,0,0,1,0,0,0,1,0
+female,Agriculture,4,Punjab,58.2,4.0,1,0,1,0,1,1,1,1
+male,Plant Breeding,4,AJK,65.9,2.98,1,0,1,0,0,0,1,0
+female,Environmental Sciences,4,Punjab,12.7,3.22,1,0,0,0,1,1,1,1
+female,Environmental Sciences,2,Punjab,96.4,3.96,1,0,1,0,0,0,1,1
+male,Plant Breeding,4,KPK,87.7,2.42,0,1,1,0,1,0,1,1
+female,Plant Breeding,3,AJK,62.1,2.36,1,0,1,0,0,0,1,0
+female,Plant Breeding,1,Sindh,1.3,2.74,1,0,1,0,0,0,1,1
+female,Environmental Sciences,1,Punjab,1.0,3.47,0,0,1,0,0,0,1,1
+female,Environmental Sciences,4,KPK,21.9,2.38,1,0,1,0,0,1,1,1
+male,Agriculture,3,Punjab,37.4,3.37,0,0,0,0,0,1,1,0
+male,Plant Breeding,3,KPK,1.0,3.34,0,0,0,0,0,0,1,0
+male,Animal Sciences,5,Punjab,54.8,4.0,1,0,1,0,1,0,1,1
+male,Environmental Sciences,3,Punjab,86.5,3.57,0,0,1,0,1,0,1,1
+male,Plant Breeding,2,Punjab,58.1,3.26,1,0,0,0,0,0,1,0
+female,Biochemistry,2,KPK,8.0,3.71,0,0,1,0,1,0,0,1
+male,Animal Sciences,3,Punjab,3.2,3.34,1,0,1,0,0,0,1,1
+male,Soil Science,4,Punjab,47.0,2.89,1,0,1,0,0,0,1,1
+female,Agriculture,3,Sindh,28.9,2.58,1,0,1,0,0,1,1,0
+male,Biochemistry,3,Balochistan,52.7,2.84,1,1,1,0,0,1,1,1
+male,Food Science,4,Punjab,59.1,3.08,1,1,1,0,1,0,1,1
+female,Animal Sciences,4,KPK,78.7,3.18,1,0,1,0,1,0,1,1
+male,Environmental Sciences,4,KPK,1.0,2.14,0,0,0,1,1,0,1,0
+male,Biochemistry,1,Punjab,43.9,3.0,1,0,1,0,0,0,1,1
+male,Animal Sciences,4,Islamabad,20.5,3.11,1,0,1,0,0,0,1,1
+female,Animal Sciences,3,AJK,31.1,3.35,0,0,1,1,1,0,1,1
+male,Agriculture,1,Punjab,69.6,3.83,1,0,1,0,0,1,0,1
+male,Biochemistry,3,Punjab,73.9,3.18,0,0,1,0,1,0,1,1
+male,Agriculture,4,Punjab,90.9,2.69,0,0,1,1,0,0,1,0
+male,Agriculture,3,Punjab,52.0,2.28,1,0,0,0,1,0,1,0
+female,Animal Sciences,4,Sindh,30.6,3.41,1,0,1,1,0,0,1,1
+male,Agriculture,2,AJK,24.9,2.71,1,0,1,0,0,0,1,1
+female,Food Science,1,Gilgit-Baltistan,1.0,3.49,0,0,1,0,0,0,1,1
+male,Soil Science,2,Punjab,88.6,3.73,1,1,1,0,0,0,1,1
+male,Soil Science,2,Punjab,22.1,2.41,1,0,1,0,0,0,1,0
+female,Veterinary Science,3,Punjab,55.2,3.35,0,0,1,0,1,0,1,1
+male,Environmental Sciences,4,Sindh,62.2,3.68,1,0,1,0,0,0,1,1
+male,Plant Breeding,4,Punjab,1.0,3.56,0,0,1,0,0,1,1,1
+female,Food Science,1,AJK,1.0,2.16,0,0,1,0,0,1,1,0
+male,Soil Science,2,Gilgit-Baltistan,96.9,2.72,0,0,1,0,0,0,1,0
+male,Plant Breeding,1,Punjab,46.6,2.52,0,0,1,0,0,1,1,0
+female,Environmental Sciences,3,KPK,11.8,3.34,0,0,0,1,1,0,1,0
+male,Food Science,1,Sindh,29.9,3.29,1,0,0,0,0,0,0,1
+male,Food Science,3,Balochistan,78.4,2.0,1,0,1,0,1,0,0,0
+male,Veterinary Science,4,Sindh,72.4,2.96,0,1,1,0,0,0,1,1
+male,Veterinary Science,3,Punjab,1.0,3.46,1,0,1,0,0,0,0,1
+male,Biochemistry,2,KPK,100.4,3.17,0,0,0,0,0,1,0,0
+female,Soil Science,2,Punjab,73.6,3.17,1,0,1,0,0,0,0,0
+male,Plant Breeding,3,Sindh,28.9,2.94,1,1,1,0,0,0,0,1
+female,Plant Breeding,3,Punjab,1.0,2.62,1,0,0,0,0,0,1,0
+male,Biochemistry,1,KPK,77.2,3.09,1,0,1,0,0,1,1,1
+male,Animal Sciences,4,Balochistan,54.1,3.12,0,0,1,0,0,0,1,1
+male,Food Science,3,Punjab,1.0,3.38,0,0,1,0,0,1,1,1
+female,Food Science,2,Punjab,25.7,3.41,1,0,1,0,0,0,1,1
+male,Veterinary Science,1,KPK,160.0,3.14,1,0,1,1,0,1,0,0
+male,Soil Science,2,Punjab,35.7,3.59,1,0,1,1,0,0,0,0
+female,Animal Sciences,2,Sindh,5.3,2.93,1,0,0,0,0,0,1,0
+female,Animal Sciences,2,KPK,1.0,2.45,0,0,1,1,0,0,1,0
+male,Animal Sciences,3,Punjab,105.9,3.31,1,0,1,0,0,0,1,1
+female,Biochemistry,2,Gilgit-Baltistan,68.9,3.16,1,0,1,0,0,0,1,1
+male,Biochemistry,4,Sindh,91.3,3.32,0,0,1,0,0,0,1,0
+male,Food Science,5,KPK,44.9,2.53,0,0,1,0,0,0,1,0
+male,Agriculture,1,Punjab,85.2,3.91,1,0,0,0,0,0,0,1
+male,Food Science,1,Punjab,1.1,3.42,0,0,1,0,1,0,1,1
+male,Environmental Sciences,4,Punjab,41.5,2.97,1,0,1,0,0,0,1,1
+female,Animal Sciences,5,AJK,46.5,2.68,1,0,1,0,0,1,1,1
+male,Environmental Sciences,4,AJK,90.3,3.58,1,0,1,0,0,1,0,1
+female,Soil Science,1,Balochistan,47.8,2.6,1,0,1,0,1,0,1,1
+female,Plant Breeding,2,Punjab,10.0,4.0,1,0,1,0,0,0,1,1
+female,Veterinary Science,1,Sindh,37.6,2.82,1,1,0,0,0,1,1,1
+female,Veterinary Science,4,Balochistan,1.0,3.87,1,0,1,1,0,1,1,1
+female,Food Science,3,KPK,1.0,3.02,0,0,1,0,1,1,1,1
+female,Plant Breeding,3,Punjab,68.3,3.81,1,0,1,0,0,0,1,1
+male,Veterinary Science,3,AJK,20.0,2.77,0,0,1,0,0,0,1,0
+male,Veterinary Science,2,Punjab,24.5,3.11,0,0,1,0,0,1,1,1
+male,Agriculture,3,Punjab,68.2,3.46,1,0,1,0,0,0,1,1
+male,Environmental Sciences,1,AJK,90.9,3.4,0,0,1,0,0,0,1,1
+male,Biochemistry,3,Sindh,56.4,3.6,0,0,1,0,1,1,1,1
+female,Animal Sciences,4,Punjab,112.1,2.88,0,0,1,0,1,1,1,0
+male,Plant Breeding,3,Sindh,55.1,3.14,1,0,1,0,0,0,1,1
+female,Biochemistry,2,Islamabad,47.1,3.66,1,0,1,0,1,0,1,1
+male,Plant Breeding,4,Punjab,44.6,2.78,0,0,1,0,1,1,1,1
+male,Plant Breeding,4,Balochistan,1.0,3.36,1,0,0,0,0,0,1,1
+male,Animal Sciences,1,Punjab,73.2,3.0,0,0,1,1,1,0,0,0
+male,Plant Breeding,1,Punjab,1.0,3.19,1,0,1,0,0,0,0,1
+male,Plant Breeding,3,Punjab,11.5,3.14,0,0,0,0,0,0,1,0
+male,Soil Science,2,Sindh,35.9,2.75,1,0,1,1,0,1,1,0
+male,Plant Breeding,1,Punjab,3.4,2.98,1,0,1,0,1,1,1,1
+male,Plant Breeding,1,Punjab,16.9,3.17,1,0,1,0,1,0,1,1
+male,Agriculture,1,KPK,108.6,3.05,1,0,1,0,0,0,1,0
+male,Biochemistry,2,Sindh,79.2,3.81,0,0,1,0,0,0,0,0
+male,Biochemistry,3,KPK,7.6,3.55,1,0,1,0,0,0,0,1
+male,Food Science,1,Gilgit-Baltistan,16.2,3.23,1,0,1,0,1,1,0,1
+male,Veterinary Science,4,Punjab,1.0,2.76,1,0,1,0,0,0,1,1
+male,Biochemistry,2,Punjab,63.2,2.73,1,0,1,0,0,1,1,1
+male,Veterinary Science,2,Sindh,25.0,3.99,0,0,1,0,0,1,1,1
+female,Environmental Sciences,1,Sindh,1.0,2.65,0,0,1,0,0,0,0,1
+female,Environmental Sciences,4,Punjab,39.0,3.15,0,0,1,0,0,0,1,1
+female,Environmental Sciences,5,Punjab,52.6,3.26,1,0,1,0,0,1,1,1
+male,Agriculture,2,Punjab,73.5,2.96,1,0,1,0,0,0,1,0
+male,Animal Sciences,1,Punjab,32.1,2.65,0,0,1,0,1,1,1,1
+male,Plant Breeding,2,Islamabad,20.1,2.75,1,0,1,0,0,0,1,1
+female,Environmental Sciences,1,Sindh,114.5,2.85,1,1,1,0,0,0,1,1
+female,Food Science,4,Punjab,35.3,2.78,1,0,1,0,1,0,1,1
+female,Veterinary Science,1,Sindh,63.8,3.7,1,0,1,0,0,0,1,1
+female,Food Science,5,KPK,13.4,3.1,1,1,1,0,0,0,0,1
+male,Environmental Sciences,3,Punjab,62.6,2.86,0,0,1,0,1,0,0,0
+female,Biochemistry,3,Punjab,1.0,3.15,1,0,1,1,0,0,0,0
+female,Food Science,4,KPK,16.5,3.4,0,0,1,0,0,0,1,1
+male,Food Science,1,Punjab,1.0,2.94,0,0,1,0,0,0,0,1
+female,Veterinary Science,4,Sindh,10.8,3.51,1,1,1,0,0,1,1,1
+male,Biochemistry,1,Sindh,85.0,2.53,1,0,1,0,0,1,1,0
+female,Animal Sciences,4,Balochistan,10.5,3.63,1,0,1,0,0,0,1,1
+female,Veterinary Science,3,Islamabad,63.7,3.1,0,0,1,0,0,1,1,0
+male,Veterinary Science,1,Balochistan,95.7,3.08,1,0,1,0,0,0,0,0
+female,Plant Breeding,4,Sindh,33.9,2.79,1,1,0,0,0,0,1,1
+male,Animal Sciences,1,Punjab,74.8,2.55,1,0,1,0,0,0,0,0
+female,Food Science,1,Sindh,56.2,2.35,1,0,1,0,0,1,1,0
+female,Environmental Sciences,4,Gilgit-Baltistan,39.7,2.76,1,0,1,0,0,0,1,1
+female,Animal Sciences,2,AJK,65.0,3.36,1,0,1,0,0,1,1,1
+female,Veterinary Science,4,Balochistan,108.6,2.67,1,0,1,0,1,0,0,0
+male,Soil Science,3,Punjab,9.5,2.4,1,0,1,1,1,0,0,0
+male,Soil Science,3,KPK,1.0,2.69,1,0,1,0,0,0,1,1
+male,Food Science,2,AJK,1.0,2.93,1,1,1,0,0,0,1,1
+male,Agriculture,1,KPK,74.8,2.94,1,0,1,0,0,0,1,1
+male,Agriculture,5,KPK,80.2,3.04,0,0,0,0,0,1,1,0
+male,Environmental Sciences,1,Sindh,13.5,3.56,0,0,1,0,1,0,1,1
+male,Soil Science,3,KPK,1.0,3.66,0,0,1,0,0,0,0,1
+male,Environmental Sciences,2,Punjab,8.0,4.0,1,0,0,0,0,1,1,1
+female,Soil Science,2,Punjab,56.9,2.37,0,0,1,0,0,0,0,0
+male,Animal Sciences,3,Balochistan,32.3,2.71,0,0,1,0,1,1,1,1
+female,Plant Breeding,4,AJK,42.2,3.41,1,0,0,0,0,0,0,0
+male,Soil Science,4,Gilgit-Baltistan,14.1,2.9,0,0,1,0,1,0,1,1
+male,Animal Sciences,4,Punjab,75.6,3.49,1,0,1,0,0,0,1,1
+male,Biochemistry,2,Punjab,48.7,3.19,1,0,1,0,1,0,1,1
+male,Biochemistry,2,Punjab,58.5,3.81,0,0,1,0,0,0,1,1
+male,Environmental Sciences,1,Gilgit-Baltistan,41.4,3.57,0,0,0,0,1,0,1,1
+male,Biochemistry,4,KPK,56.0,3.58,1,0,1,0,1,0,1,1
+male,Animal Sciences,2,Islamabad,53.3,2.91,1,0,1,0,1,0,1,1
+male,Agriculture,3,Punjab,1.0,3.06,1,0,1,1,1,0,1,1
+female,Animal Sciences,1,Sindh,49.9,2.96,0,0,1,0,0,0,1,0
+male,Soil Science,4,Balochistan,66.7,2.42,1,0,0,0,0,1,1,0
+female,Environmental Sciences,4,Punjab,81.2,3.76,1,0,0,0,0,0,0,0
+male,Animal Sciences,4,Islamabad,51.6,3.44,1,0,1,0,1,0,1,1
+female,Veterinary Science,1,Sindh,1.0,2.94,1,0,1,0,1,0,0,1
+female,Animal Sciences,5,Punjab,2.5,3.69,1,0,1,0,1,0,1,1
+female,Environmental Sciences,1,Punjab,17.6,2.82,1,0,1,0,0,0,1,1
+female,Agriculture,2,AJK,42.6,2.27,1,0,0,0,1,1,1,0
+male,Veterinary Science,1,KPK,30.1,3.55,1,0,1,0,1,0,0,1
+male,Food Science,2,Balochistan,1.0,2.52,1,0,1,0,0,0,1,1
+male,Environmental Sciences,3,Balochistan,1.0,3.01,1,0,1,0,0,0,0,1
+female,Animal Sciences,1,Punjab,1.0,3.19,1,0,1,0,1,0,1,1
+female,Agriculture,2,Balochistan,1.0,3.27,1,0,0,0,1,1,0,1
+male,Veterinary Science,3,AJK,29.7,3.48,1,0,1,0,0,0,1,1
+female,Agriculture,4,Punjab,127.8,3.36,0,0,1,1,0,1,0,0
+male,Animal Sciences,3,Balochistan,106.9,3.35,1,0,1,0,0,0,1,1
+female,Biochemistry,3,Punjab,1.0,2.74,1,0,1,0,0,0,1,1
+female,Plant Breeding,1,Punjab,41.0,3.23,0,0,1,0,0,0,1,1
+male,Environmental Sciences,4,Punjab,1.0,2.42,1,0,1,1,0,0,0,0
+female,Soil Science,1,Gilgit-Baltistan,1.0,3.8,0,0,0,0,1,0,1,1
+female,Biochemistry,2,Punjab,1.0,2.47,1,0,0,0,1,0,0,0
+male,Veterinary Science,1,Punjab,26.0,2.94,0,0,0,0,0,0,1,0
+male,Biochemistry,3,KPK,27.7,2.51,0,0,1,0,1,0,0,0
+male,Food Science,2,Punjab,45.1,2.77,0,0,1,0,0,0,1,0
+female,Animal Sciences,3,Balochistan,61.5,3.11,1,0,0,0,0,0,1,0
+male,Soil Science,2,AJK,21.5,2.86,1,0,1,1,0,1,1,0
+female,Veterinary Science,2,Punjab,36.4,3.61,0,0,1,0,0,0,1,1
+female,Veterinary Science,2,Punjab,1.0,3.2,1,0,0,1,0,0,1,0
+male,Food Science,1,Islamabad,1.0,2.89,1,0,0,0,1,0,1,1
+male,Agriculture,2,Punjab,1.0,3.04,0,0,1,0,0,0,1,1
+female,Plant Breeding,3,Punjab,61.0,3.65,0,0,0,1,0,0,1,0
+female,Biochemistry,3,Islamabad,21.5,3.51,0,0,1,0,0,0,1,1
+male,Food Science,1,AJK,1.0,2.59,0,0,1,0,0,0,0,1
+male,Animal Sciences,3,KPK,32.5,2.79,0,0,1,0,0,0,1,0
+male,Biochemistry,2,Sindh,1.0,3.31,1,0,1,0,0,0,1,1
+female,Environmental Sciences,1,AJK,101.4,3.26,1,0,1,0,0,0,1,0
+male,Agriculture,1,KPK,11.8,2.63,1,1,1,0,0,0,1,1
+female,Plant Breeding,2,KPK,62.3,3.44,1,0,1,0,0,0,1,1
+male,Food Science,2,Gilgit-Baltistan,78.6,2.7,1,0,1,0,1,1,1,0
+female,Food Science,3,KPK,1.0,3.69,0,0,1,0,0,0,1,1
+male,Food Science,1,Sindh,38.0,3.34,0,0,1,0,1,0,0,1
+male,Plant Breeding,4,Punjab,57.1,2.59,1,0,1,0,1,1,1,1
+female,Food Science,2,Sindh,39.6,2.86,0,0,1,0,0,0,1,0
+female,Veterinary Science,3,Sindh,49.4,2.85,0,0,1,0,0,0,1,0
+male,Food Science,4,Punjab,1.0,3.17,1,0,1,0,0,1,1,1
+male,Veterinary Science,2,Punjab,57.2,3.01,0,0,1,0,1,0,1,1
+male,Soil Science,1,Balochistan,15.6,2.58,0,0,1,2,0,0,1,0
+male,Animal Sciences,3,Punjab,49.0,2.47,1,0,1,0,0,0,1,0
+male,Veterinary Science,5,Punjab,71.8,3.35,0,0,0,0,0,0,1,0
+female,Plant Breeding,5,Punjab,61.8,3.23,1,0,1,0,1,0,0,1
+male,Plant Breeding,1,Punjab,48.9,3.15,0,0,1,0,0,0,0,0
+female,Agriculture,4,Balochistan,60.7,3.22,1,0,1,1,0,0,0,0
+male,Biochemistry,2,Punjab,62.5,2.82,1,0,1,0,0,0,1,0
+male,Biochemistry,1,Punjab,94.8,3.18,1,1,0,0,1,0,1,1
+female,Plant Breeding,3,Balochistan,33.6,4.0,1,0,1,0,0,0,0,1
+male,Plant Breeding,3,Punjab,41.6,3.63,0,0,0,0,0,1,1,0
+female,Soil Science,3,Punjab,72.3,2.97,1,0,0,2,1,1,1,0
+male,Animal Sciences,4,Balochistan,15.4,2.86,1,0,1,0,0,0,1,1
+female,Veterinary Science,2,Sindh,1.0,2.0,0,0,0,0,1,0,1,0
+female,Veterinary Science,3,Balochistan,54.7,3.58,0,0,1,0,0,0,1,1
+female,Food Science,2,Gilgit-Baltistan,26.8,3.45,1,0,1,1,0,0,1,0
+male,Environmental Sciences,1,AJK,1.0,2.86,1,1,1,0,0,0,1,1
+male,Veterinary Science,2,Punjab,55.0,2.46,1,1,1,0,0,0,1,1
+male,Veterinary Science,5,Balochistan,92.2,2.58,1,0,0,0,1,1,1,0
+male,Biochemistry,2,KPK,1.0,3.3,1,0,1,0,0,0,1,1
+male,Plant Breeding,1,Punjab,75.9,3.06,1,0,1,0,0,0,0,1
+male,Plant Breeding,3,AJK,1.0,3.41,1,0,1,0,1,0,1,1
+male,Food Science,5,Punjab,19.0,3.14,0,0,1,0,0,0,1,0
+male,Veterinary Science,5,AJK,108.6,3.54,1,0,1,0,0,0,0,1
+male,Soil Science,3,KPK,21.9,3.27,0,0,1,0,0,0,1,1
+male,Animal Sciences,2,Sindh,38.6,3.47,1,0,1,0,1,1,0,1
+male,Food Science,3,Punjab,65.5,2.16,1,0,1,1,0,1,1,0
+female,Environmental Sciences,4,AJK,1.0,2.54,1,0,1,0,1,1,1,1
+male,Animal Sciences,4,Sindh,37.9,2.94,0,0,0,0,1,0,1,0
+male,Soil Science,4,Punjab,37.6,3.59,1,0,1,0,0,0,1,1
+male,Veterinary Science,2,Punjab,109.5,3.95,0,0,1,0,0,1,1,1
+female,Plant Breeding,1,Balochistan,1.0,3.03,0,0,1,0,0,0,1,1
+male,Environmental Sciences,3,Punjab,19.7,2.82,1,0,1,0,0,1,0,1
+female,Biochemistry,1,Sindh,1.0,2.22,1,0,1,0,1,1,1,1
+female,Food Science,1,KPK,1.0,3.49,1,0,1,0,0,0,0,1
+male,Soil Science,2,Punjab,80.1,2.85,0,0,1,0,0,0,1,0
+female,Biochemistry,3,Sindh,36.1,4.0,1,0,1,0,0,0,0,1
+female,Soil Science,4,Punjab,12.8,2.77,1,0,0,0,0,0,0,0
+male,Food Science,4,AJK,14.3,4.0,0,0,1,0,0,1,1,1
+male,Food Science,4,Gilgit-Baltistan,12.5,3.44,1,0,1,0,1,0,1,1
+female,Food Science,4,Punjab,16.0,2.64,0,0,1,0,1,0,1,0
+female,Agriculture,4,Sindh,1.0,3.2,0,0,1,0,1,0,1,1
+male,Environmental Sciences,1,Sindh,24.7,3.45,1,0,1,0,0,0,1,1
+male,Biochemistry,3,Islamabad,20.6,3.0,1,0,1,0,0,1,1,1
+female,Plant Breeding,1,Punjab,4.7,3.48,1,0,0,0,1,0,1,1
+male,Plant Breeding,1,Sindh,41.2,3.47,0,0,1,0,0,0,1,1
+female,Environmental Sciences,1,AJK,44.6,3.37,0,0,0,0,0,0,1,0
+male,Animal Sciences,4,Punjab,12.7,3.09,1,1,1,0,0,0,1,1
+female,Animal Sciences,4,Sindh,29.2,2.57,1,0,1,0,0,0,1,1
+female,Plant Breeding,5,Punjab,121.3,3.07,1,0,1,0,0,0,1,0
+female,Veterinary Science,5,KPK,119.8,3.18,0,0,1,0,0,0,1,0
+female,Agriculture,4,Punjab,1.0,2.26,1,0,1,1,0,1,1,0
+female,Plant Breeding,1,Islamabad,1.0,3.18,1,0,1,0,0,0,1,1
+female,Environmental Sciences,4,Punjab,1.0,3.06,0,0,0,0,0,0,1,0
+female,Agriculture,4,Punjab,77.3,2.52,0,0,0,0,0,0,1,0
+male,Food Science,4,Gilgit-Baltistan,19.1,2.95,0,0,1,0,1,0,1,1
+female,Veterinary Science,1,Balochistan,44.6,2.96,0,0,1,0,1,0,1,0
+male,Environmental Sciences,1,KPK,114.9,3.97,0,0,0,0,1,0,1,1
+female,Plant Breeding,5,KPK,34.6,3.2,0,0,1,0,1,0,0,1
+female,Plant Breeding,1,Punjab,63.2,3.57,0,0,1,0,1,1,1,1
+male,Soil Science,2,KPK,55.8,3.05,1,0,1,0,0,0,1,1
+male,Veterinary Science,2,Punjab,11.5,2.26,1,0,1,0,0,1,1,1
+male,Soil Science,1,Punjab,77.4,3.4,1,0,1,0,1,1,1,1
+female,Agriculture,1,AJK,1.0,2.8,1,0,0,0,0,1,1,1
+male,Agriculture,5,KPK,88.6,2.95,0,0,1,0,0,0,1,0
+male,Environmental Sciences,4,Punjab,11.5,2.63,1,0,1,0,0,0,1,1
+female,Soil Science,5,Punjab,15.9,3.13,1,0,1,0,0,1,0,1
+female,Food Science,2,AJK,1.0,3.58,1,0,1,1,1,1,1,1
+male,Animal Sciences,1,Punjab,1.0,3.52,0,0,1,0,0,1,1,1
+male,Agriculture,2,Punjab,17.9,3.81,0,0,1,0,0,1,1,1
+female,Soil Science,2,Punjab,1.0,3.88,1,0,1,0,0,0,1,1
+female,Environmental Sciences,1,Punjab,25.7,2.18,0,0,0,0,1,0,1,0
+female,Veterinary Science,4,Punjab,14.7,2.56,0,0,0,1,1,1,1,0
+male,Veterinary Science,5,Islamabad,66.6,2.29,0,0,1,0,0,0,1,0
+male,Food Science,3,Punjab,51.9,3.38,1,0,1,1,0,1,1,1
+male,Animal Sciences,2,Sindh,6.7,2.79,1,0,1,0,0,1,1,1
+female,Veterinary Science,2,KPK,16.7,2.88,0,0,1,0,1,0,1,1
+male,Food Science,1,Sindh,25.6,3.0,1,0,1,1,0,0,0,0
+male,Animal Sciences,2,KPK,94.4,3.27,1,1,1,0,1,0,1,1
+female,Environmental Sciences,3,KPK,2.1,2.43,0,0,1,0,0,1,1,0
+female,Environmental Sciences,2,KPK,6.2,2.53,1,0,0,0,1,0,1,0
+female,Veterinary Science,3,KPK,1.0,3.1,0,0,1,0,0,0,1,1
+male,Biochemistry,4,Balochistan,1.0,3.64,1,1,0,0,0,0,1,1
+male,Food Science,1,KPK,47.3,3.09,1,0,1,0,0,1,1,1
+male,Biochemistry,1,Balochistan,43.1,2.74,1,0,0,0,1,0,1,0
+male,Veterinary Science,1,Punjab,86.3,2.13,1,0,1,0,1,0,1,0
+male,Plant Breeding,1,KPK,76.7,3.53,0,0,0,0,0,0,1,0
+male,Food Science,3,KPK,130.9,2.77,1,0,1,1,0,0,1,0
+female,Environmental Sciences,4,Punjab,32.0,2.58,1,1,1,0,0,1,1,1
+female,Veterinary Science,4,Gilgit-Baltistan,24.6,2.33,1,0,0,0,0,0,1,0
+female,Environmental Sciences,3,Punjab,1.0,2.45,1,0,1,0,0,0,0,1
+male,Agriculture,2,Punjab,62.9,2.67,0,0,0,0,0,0,1,0
+male,Plant Breeding,1,Gilgit-Baltistan,39.7,2.99,0,0,1,0,1,0,1,1
+male,Food Science,2,Punjab,61.1,2.56,0,0,1,0,0,0,0,0
+male,Biochemistry,2,Punjab,1.0,3.18,1,0,1,0,0,1,1,1
+male,Animal Sciences,4,Punjab,49.1,2.99,1,0,1,0,0,0,1,1
+male,Soil Science,2,AJK,43.2,4.0,1,0,1,0,0,0,0,1
+female,Biochemistry,1,Sindh,40.6,2.33,0,0,1,0,0,0,1,0
+male,Plant Breeding,2,KPK,7.7,3.17,0,0,1,0,1,1,1,1
+female,Agriculture,1,Balochistan,82.6,3.18,0,0,1,0,0,0,1,0
+male,Food Science,5,KPK,117.0,2.64,1,0,1,0,0,0,0,0
+male,Food Science,1,AJK,1.0,3.14,1,0,1,0,0,0,0,1
+male,Biochemistry,1,Balochistan,63.8,3.45,1,0,1,1,1,1,1,1
+male,Biochemistry,1,Punjab,1.0,3.14,1,0,1,1,1,0,1,1
+male,Animal Sciences,4,Islamabad,61.7,3.72,1,0,1,0,0,0,1,1
+female,Biochemistry,3,Sindh,1.0,2.12,0,0,1,1,0,0,1,0
+male,Food Science,3,Punjab,14.0,2.72,0,0,1,0,0,0,0,0
+male,Soil Science,2,Punjab,1.0,3.76,0,0,1,0,0,1,0,1
+female,Animal Sciences,1,KPK,26.4,3.51,0,0,0,0,0,0,0,0
+male,Food Science,4,Punjab,68.6,3.34,1,0,0,1,0,1,1,0
+female,Veterinary Science,1,Sindh,1.0,3.65,0,1,1,0,0,1,0,1
+male,Animal Sciences,1,Punjab,20.6,2.24,1,0,1,0,1,0,1,0
+female,Veterinary Science,3,Sindh,14.5,3.46,1,0,1,0,0,0,1,1
+male,Food Science,1,Punjab,98.2,3.58,1,0,1,0,0,0,0,0
+male,Veterinary Science,1,Gilgit-Baltistan,52.3,2.8,1,0,1,0,1,0,1,0
+female,Food Science,4,Punjab,1.0,4.0,0,0,1,0,0,1,1,1
+female,Biochemistry,2,Punjab,16.1,3.19,1,0,1,0,0,1,1,1
+male,Animal Sciences,1,Punjab,97.2,2.11,0,0,0,0,0,0,1,0
+female,Agriculture,2,Sindh,63.6,3.27,1,0,1,0,0,1,1,1
+male,Plant Breeding,4,KPK,1.0,2.78,1,0,1,0,1,0,1,1
+male,Biochemistry,1,Sindh,24.3,3.62,0,0,1,0,1,0,1,1
+male,Veterinary Science,1,Punjab,25.6,3.35,0,0,0,0,0,0,0,0
+female,Environmental Sciences,3,Gilgit-Baltistan,13.5,2.83,1,0,1,0,1,1,1,1
+male,Plant Breeding,3,Sindh,1.0,3.78,1,0,1,0,0,0,1,1
+female,Soil Science,5,Punjab,7.9,3.52,1,0,1,0,0,0,1,1
+male,Veterinary Science,2,Balochistan,90.6,2.73,1,0,1,0,0,0,1,0
+female,Agriculture,1,KPK,19.8,3.03,1,0,1,0,0,0,1,1
+female,Veterinary Science,3,KPK,30.9,3.33,1,0,1,0,0,0,1,1
+male,Biochemistry,3,Punjab,40.6,2.94,0,1,0,0,0,0,0,0
+male,Environmental Sciences,1,Punjab,123.7,2.95,1,0,1,0,1,1,1,1
+male,Environmental Sciences,3,Sindh,35.4,3.12,1,0,0,0,0,1,0,0
+female,Biochemistry,1,Punjab,78.8,2.62,1,0,1,0,0,0,1,0
+male,Veterinary Science,4,Punjab,11.1,2.1,1,0,1,1,0,1,1,0
+male,Veterinary Science,4,Islamabad,24.6,3.21,1,0,0,1,0,1,0,0
+male,Biochemistry,2,KPK,35.5,2.2,1,0,1,0,0,1,1,0
+female,Plant Breeding,5,Punjab,4.0,2.65,1,0,1,0,0,0,1,1
+male,Veterinary Science,5,Punjab,26.9,2.3,0,0,0,0,0,1,0,0
+male,Veterinary Science,1,KPK,70.5,2.36,1,0,1,1,1,0,1,0
+female,Biochemistry,2,Punjab,3.0,3.29,0,0,0,0,0,0,1,0
+male,Agriculture,3,Punjab,35.0,3.0,1,0,1,1,0,1,0,0
+female,Agriculture,1,Punjab,63.3,2.98,0,0,1,0,0,0,1,0
+male,Soil Science,2,KPK,2.0,2.51,1,1,1,0,1,1,0,1
+male,Agriculture,2,KPK,78.8,2.8,1,1,1,0,1,0,0,1
+female,Food Science,5,Punjab,37.9,3.27,0,0,1,1,0,0,1,1
+female,Biochemistry,2,Punjab,28.4,3.08,1,0,1,0,0,0,0,0
+female,Animal Sciences,4,KPK,1.0,3.47,1,0,1,0,0,1,1,1
+male,Soil Science,2,Sindh,20.1,3.53,0,0,1,0,0,0,1,1
+male,Animal Sciences,1,KPK,49.9,2.99,1,0,1,0,1,1,0,1
+male,Agriculture,4,Punjab,104.8,2.27,1,0,0,0,0,0,1,0
+male,Food Science,1,KPK,57.7,2.76,1,0,1,0,0,0,1,0
+male,Environmental Sciences,1,AJK,80.0,3.06,1,0,0,0,0,0,1,0
+male,Agriculture,2,KPK,1.0,2.75,0,1,1,0,1,1,1,1
+male,Plant Breeding,3,Punjab,29.9,2.63,0,0,1,0,0,1,1,0
+male,Veterinary Science,2,KPK,83.8,3.13,0,0,1,0,0,0,0,0
+male,Veterinary Science,1,Punjab,1.0,4.0,1,0,1,0,1,0,0,1
+male,Biochemistry,2,Punjab,73.6,2.88,0,0,1,0,0,0,1,1
+female,Plant Breeding,1,Punjab,64.3,3.1,1,0,1,0,0,1,0,1
+female,Plant Breeding,1,AJK,46.0,2.51,1,0,1,0,0,0,1,0
+male,Veterinary Science,3,Punjab,21.9,3.66,0,0,1,0,0,0,1,1
+female,Animal Sciences,1,Gilgit-Baltistan,1.0,3.49,1,0,1,0,0,0,1,1
+female,Soil Science,2,Sindh,106.0,3.46,1,0,1,0,1,1,0,1
+male,Agriculture,3,Sindh,60.3,3.71,0,0,1,0,1,0,1,1
+male,Food Science,4,Punjab,48.6,2.91,0,0,1,0,0,1,1,0
+male,Plant Breeding,2,KPK,18.5,2.96,0,0,0,0,0,0,0,0
+male,Plant Breeding,2,Punjab,36.5,3.87,1,0,0,1,1,0,1,1
+female,Agriculture,1,Sindh,41.6,3.38,0,0,1,0,0,0,0,1
+female,Environmental Sciences,5,Punjab,51.0,2.1,1,0,0,0,0,1,1,0
+male,Plant Breeding,1,Punjab,64.4,3.3,1,0,1,0,1,1,1,1
+female,Food Science,1,Sindh,3.7,2.84,0,0,1,0,0,0,0,1
+male,Environmental Sciences,2,Punjab,1.0,3.5,1,0,1,0,0,0,0,1
+female,Biochemistry,1,Punjab,38.4,3.28,1,0,0,0,0,0,1,0
+female,Animal Sciences,1,Islamabad,1.0,2.32,0,0,0,0,0,0,1,0
+male,Veterinary Science,1,Punjab,22.1,3.22,1,0,1,0,0,1,1,1
+male,Veterinary Science,3,Punjab,14.6,3.19,0,0,1,1,1,0,1,0
+female,Plant Breeding,3,Punjab,54.7,3.26,1,0,1,0,0,1,1,1
+female,Agriculture,3,Punjab,114.3,3.36,0,0,1,0,0,0,1,0
+male,Animal Sciences,4,KPK,1.0,3.77,1,0,1,1,0,1,1,1
+male,Agriculture,2,Punjab,126.0,3.29,1,0,1,0,0,1,1,1
+male,Agriculture,5,Sindh,25.7,3.11,1,0,1,0,0,0,0,1
+female,Animal Sciences,4,KPK,48.9,3.62,1,0,1,1,1,0,1,1
+female,Soil Science,4,Punjab,1.0,4.0,0,0,1,0,0,1,0,1
+female,Biochemistry,4,AJK,74.9,3.51,1,0,1,0,0,1,1,1
+female,Agriculture,2,Islamabad,36.7,3.19,0,0,1,0,0,0,0,1
+female,Food Science,2,Punjab,32.5,3.29,0,0,1,0,1,1,0,1
+female,Animal Sciences,2,Punjab,1.0,3.22,0,0,0,0,1,1,1,1
+male,Plant Breeding,1,Punjab,38.0,3.11,1,0,1,0,1,0,1,1
+female,Biochemistry,2,Punjab,68.8,4.0,1,0,1,0,0,0,1,1
+male,Soil Science,1,Sindh,25.5,2.76,0,0,1,0,0,0,1,1
+male,Plant Breeding,1,Sindh,82.0,3.62,1,0,1,0,0,0,1,1
+female,Agriculture,5,Punjab,80.3,3.04,1,1,1,0,0,1,1,1
+female,Agriculture,3,Punjab,9.4,2.43,0,0,1,0,0,1,0,0
+female,Food Science,3,Punjab,98.8,3.02,1,0,0,0,1,0,1,0
+male,Soil Science,2,Islamabad,36.8,2.85,1,0,1,0,0,0,1,0
+male,Veterinary Science,3,AJK,37.0,3.36,1,0,0,0,0,0,0,0
+male,Food Science,4,Punjab,39.0,3.14,1,0,1,0,1,0,0,1
+male,Soil Science,3,KPK,37.8,2.64,1,0,1,0,1,1,1,1
+male,Environmental Sciences,3,Sindh,1.0,3.76,0,1,1,0,0,0,1,1
+male,Animal Sciences,2,KPK,27.6,3.59,1,0,1,0,0,0,1,1
+male,Biochemistry,2,Sindh,1.0,3.81,0,0,1,0,1,0,0,1
+female,Soil Science,3,AJK,100.1,3.21,0,1,1,0,1,1,1,1
+male,Soil Science,5,Punjab,98.4,3.08,0,0,0,0,0,0,1,0
+male,Environmental Sciences,2,Punjab,69.1,3.42,1,1,0,0,0,0,1,1
+female,Food Science,2,Islamabad,25.5,2.84,1,0,1,1,0,1,0,0
+male,Environmental Sciences,2,Punjab,1.0,3.16,1,1,1,0,1,1,1,1
+female,Biochemistry,2,Punjab,8.7,3.02,0,0,1,0,0,0,1,1
+female,Biochemistry,5,KPK,112.7,2.44,1,0,1,0,0,0,0,0
+male,Plant Breeding,4,Balochistan,7.3,3.16,0,1,1,0,1,0,1,1
+female,Environmental Sciences,2,KPK,1.0,2.9,1,0,1,0,0,0,0,1
+female,Biochemistry,2,Balochistan,76.2,2.99,0,0,0,1,0,0,1,0
+female,Environmental Sciences,2,KPK,95.0,3.26,1,0,1,1,1,0,1,0
+female,Biochemistry,1,Punjab,101.4,3.67,1,0,1,0,0,0,1,1
+female,Environmental Sciences,3,KPK,76.5,2.72,1,0,1,0,0,0,1,0
+female,Animal Sciences,4,Balochistan,83.1,2.95,1,0,1,0,0,1,0,1
+male,Soil Science,3,Gilgit-Baltistan,37.1,2.76,1,0,1,0,0,1,1,1
+female,Animal Sciences,1,Punjab,1.0,2.73,1,0,1,0,1,0,1,1
+female,Environmental Sciences,4,Punjab,36.1,2.83,1,0,1,1,0,0,0,0
+female,Environmental Sciences,4,Balochistan,59.9,3.01,1,0,1,1,1,0,1,0
+female,Biochemistry,2,Punjab,29.6,3.36,1,0,1,0,0,0,0,1
+male,Plant Breeding,3,Punjab,27.8,3.24,1,0,1,0,1,0,0,1
+female,Animal Sciences,3,Balochistan,1.0,2.62,1,0,1,0,1,1,1,1
+female,Food Science,4,Sindh,1.0,3.68,1,0,1,0,1,1,0,1
+male,Soil Science,1,Punjab,108.5,3.52,1,0,0,0,1,1,0,0
+male,Plant Breeding,1,Punjab,110.0,2.69,0,0,1,0,0,0,0,0
+male,Plant Breeding,2,Punjab,34.9,3.65,1,0,1,0,0,1,1,1
+male,Soil Science,1,Balochistan,46.3,3.25,1,0,1,0,0,1,0,1
+female,Environmental Sciences,2,Sindh,1.0,3.03,1,0,1,0,0,0,1,1
+male,Food Science,4,Punjab,60.7,3.26,1,0,1,1,0,0,0,0
+male,Animal Sciences,1,Punjab,105.4,3.09,0,0,1,0,0,0,1,0
+female,Soil Science,2,Punjab,1.0,3.35,1,0,1,0,0,0,1,1
+female,Environmental Sciences,5,Punjab,53.6,3.18,1,0,1,0,1,1,1,1
+female,Environmental Sciences,3,Punjab,56.6,2.95,0,0,1,0,0,0,1,0
+female,Environmental Sciences,2,Sindh,56.1,2.19,1,0,0,0,0,1,1,0
+female,Environmental Sciences,3,Punjab,100.7,3.34,0,0,1,0,0,0,1,1
+female,Biochemistry,1,Punjab,116.4,2.93,1,0,1,0,0,0,1,0
+female,Plant Breeding,1,Sindh,25.7,3.45,1,0,1,0,1,0,0,1
+male,Food Science,3,Punjab,61.9,3.32,1,0,1,0,0,0,1,1
+female,Plant Breeding,2,Punjab,38.4,2.94,0,0,1,0,1,1,1,1
+male,Soil Science,2,Punjab,9.7,3.56,0,0,1,0,0,0,1,1
+male,Agriculture,1,Punjab,45.8,3.19,0,0,1,0,0,0,0,0
+male,Environmental Sciences,4,Punjab,61.9,3.17,1,0,0,1,0,0,1,0
+female,Plant Breeding,1,KPK,43.7,3.04,1,0,1,0,0,1,1,1
+female,Biochemistry,4,Punjab,1.0,3.86,1,0,1,0,1,0,1,1
+male,Food Science,2,Balochistan,16.5,2.78,1,0,1,0,1,0,1,1
+female,Biochemistry,3,KPK,16.8,2.95,0,0,1,0,0,1,0,0
+male,Animal Sciences,1,Punjab,1.3,2.54,0,0,1,0,1,0,0,0
+female,Plant Breeding,1,Punjab,47.5,3.43,1,0,1,0,0,0,0,1
+female,Soil Science,3,Punjab,51.7,2.84,1,0,1,0,0,0,1,1
+female,Plant Breeding,3,Punjab,74.2,2.89,0,0,1,0,0,0,1,0
+female,Biochemistry,1,Sindh,1.0,2.87,1,0,1,0,0,0,1,1
+male,Food Science,2,Punjab,11.9,3.13,1,0,1,0,1,0,1,1
+male,Soil Science,2,Balochistan,97.2,2.54,0,0,1,1,0,0,1,0
+female,Biochemistry,1,Sindh,28.4,2.09,0,0,1,1,0,0,1,0
+female,Food Science,3,KPK,36.2,3.31,1,0,1,0,0,0,1,1
+male,Veterinary Science,1,Balochistan,28.0,2.15,0,0,1,1,0,0,1,0
+male,Animal Sciences,3,Sindh,80.3,3.48,1,0,1,0,0,0,1,1
+male,Soil Science,1,AJK,81.9,3.8,1,0,1,1,1,1,0,1
+male,Biochemistry,2,Islamabad,79.5,3.03,1,1,1,1,0,1,1,1
+male,Environmental Sciences,2,Punjab,36.1,3.68,1,0,1,0,1,1,1,1
+male,Environmental Sciences,2,Punjab,1.0,3.09,0,0,0,0,0,0,0,0
+female,Animal Sciences,2,Punjab,112.0,3.82,1,0,1,0,0,0,1,1
+male,Soil Science,5,Punjab,69.3,2.89,0,0,1,1,0,0,0,0
+male,Food Science,2,Sindh,16.7,2.04,1,0,1,0,1,1,0,1
+male,Animal Sciences,4,Punjab,92.0,3.06,1,0,0,1,0,0,1,0
+male,Food Science,1,Sindh,13.6,3.87,1,0,0,0,0,1,1,1
+female,Agriculture,2,Balochistan,91.4,3.34,1,0,1,0,1,0,1,1
+male,Environmental Sciences,1,Punjab,94.1,2.87,0,1,1,1,0,0,0,0
+female,Environmental Sciences,2,Sindh,1.0,3.25,1,0,0,0,0,1,1,1
+female,Plant Breeding,3,Punjab,58.3,3.54,1,0,0,0,1,0,0,1
+male,Agriculture,4,Balochistan,66.3,3.06,0,0,0,0,0,1,1,0
+female,Agriculture,3,KPK,139.6,4.0,0,0,1,1,0,0,1,0
+female,Agriculture,3,Punjab,5.3,2.87,1,1,1,0,1,0,0,1
+male,Soil Science,1,KPK,92.3,3.55,1,0,1,0,0,0,0,1
+male,Food Science,1,Punjab,35.7,3.44,0,0,1,0,0,0,1,1
+female,Veterinary Science,4,KPK,1.0,2.79,0,0,1,0,1,1,1,1
+female,Environmental Sciences,1,Sindh,30.2,2.91,1,0,1,1,0,0,1,0
+male,Biochemistry,1,Punjab,35.1,3.56,1,0,1,0,1,0,0,1
+female,Environmental Sciences,5,KPK,1.0,3.17,1,0,1,0,0,0,0,1
+male,Veterinary Science,5,Gilgit-Baltistan,47.5,3.25,0,0,1,0,0,1,0,1
+female,Plant Breeding,3,Balochistan,73.3,2.36,1,0,1,0,1,1,1,0
+male,Food Science,2,Sindh,44.5,3.4,1,0,1,0,0,0,1,1

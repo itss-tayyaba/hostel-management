@@ -6,11 +6,35 @@ declare(strict_types=1);
  * @access student
  */
 
+require_once __DIR__ . '/services/llm_chat_service.php';
+
 /**
- * Rule-based hostel assistant (no external APIs).
- * Responses can include placeholders: {{student_name}}, {{reg_no}}, {{department}}, {{allocation}}.
+ * Main entry: Claude LLM when API key is set, else rule-based FAQ.
+ *
+ * @param list<array{role:string,content:string}>|null $history
  */
-function help_chatbot_reply(string $rawMessage, array $studentContext): string
+function help_chatbot_reply(string $rawMessage, array $studentContext, ?array &$history = null): string
+{
+    if (llm_chat_enabled() && $history !== null) {
+        $messages = $history;
+        $messages[] = ['role' => 'user', 'content' => $rawMessage];
+        $result = llm_chat_complete($messages, $studentContext);
+        if ($result['ok'] && !empty($result['reply'])) {
+            $history[] = ['role' => 'user', 'content' => $rawMessage];
+            $history[] = ['role' => 'assistant', 'content' => (string)$result['reply']];
+            $history = llm_chat_trim_history($history);
+            return (string)$result['reply'];
+        }
+    }
+
+    return help_chatbot_rules_reply($rawMessage, $studentContext);
+}
+
+/**
+ * Rule-based fallback (no external API).
+ * Placeholders: {{student_name}}, {{reg_no}}, {{department}}, {{allocation}}.
+ */
+function help_chatbot_rules_reply(string $rawMessage, array $studentContext): string
 {
     $msg = mb_strtolower(trim($rawMessage), 'UTF-8');
     if ($msg === '') {
@@ -166,6 +190,7 @@ function help_chatbot_student_context(PDO $pdo, int $userId): array
         'reg_no' => '',
         'department' => '',
         'allocation' => 'not allocated yet',
+        'ml_status' => '',
     ];
     try {
         $st = $pdo->prepare(
@@ -179,19 +204,44 @@ function help_chatbot_student_context(PDO $pdo, int $userId): array
             $ctx['student_name'] = (string)$row['name'];
             $ctx['reg_no'] = (string)$row['reg_no'];
             $ctx['department'] = (string)$row['department'];
+            $sid = (int)$row['id'];
+
             $q = $pdo->prepare(
                 'SELECT h.name hostel_name, r.room_number FROM room_allocation ra
                  JOIN rooms r ON r.id=ra.room_id JOIN hostels h ON h.id=r.hostel_id
                  WHERE ra.student_id=:sid AND ra.status=\'approved\'
                  ORDER BY COALESCE(ra.responded_at, ra.applied_at) DESC LIMIT 1'
             );
-            $q->execute([':sid' => (int)$row['id']]);
+            $q->execute([':sid' => $sid]);
             $allo = $q->fetch(PDO::FETCH_ASSOC);
             if ($allo) {
                 $ctx['allocation'] = (string)$allo['hostel_name'] . ', room ' . (string)$allo['room_number'];
+            }
+
+            try {
+                $ml = $pdo->prepare(
+                    'SELECT ml_score, ml_status, final_status, hostel_name, room_number
+                     FROM hostel_applications WHERE student_id = :sid
+                     ORDER BY applied_at DESC LIMIT 1'
+                );
+                $ml->execute([':sid' => $sid]);
+                $ha = $ml->fetch(PDO::FETCH_ASSOC);
+                if ($ha) {
+                    $score = $ha['ml_score'] !== null ? number_format((float)$ha['ml_score'], 1) . '%' : 'n/a';
+                    $ctx['ml_status'] = (string)$ha['final_status']
+                        . ' (ML score ' . $score . ')'
+                        . (($ha['hostel_name'] ?? '') !== '' ? ', hostel ' . $ha['hostel_name'] . ' room ' . $ha['room_number'] : '');
+                }
+            } catch (Throwable $e) {
             }
         }
     } catch (Throwable $e) {
     }
     return $ctx;
+}
+
+/** Whether Claude is configured (for UI badge). */
+function help_chatbot_uses_llm(): bool
+{
+    return llm_chat_enabled();
 }

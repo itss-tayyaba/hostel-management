@@ -69,6 +69,10 @@ def fetch_student(conn, student_id: int) -> Optional[dict]:
 
 def fetch_candidate_rooms(conn, gender: str) -> List[dict]:
     """Vacant rooms that match gender policy."""
+    gender = str(gender or "male").strip().lower()
+    # TODO: unify room tables in next sprint — see ARCHITECTURE.md
+    # Current bridge: only include hostels that still have at least one free
+    # bed in uaf_hostel_rooms to avoid recommending fully exhausted inventory.
     gender_clause = (
         "h.type IN ('mixed','boys')" if gender == "male"
         else "h.type IN ('mixed','girls')"
@@ -83,6 +87,12 @@ def fetch_candidate_rooms(conn, gender: str) -> List[dict]:
             FROM rooms r
             INNER JOIN hostels h ON h.id = r.hostel_id
             WHERE GREATEST(r.capacity - r.occupied, 0) > 0
+              AND EXISTS (
+                  SELECT 1
+                  FROM uaf_hostel_rooms ur
+                  WHERE ur.hostel_name = h.name
+                    AND ur.current_occupancy < ur.capacity
+              )
               AND {gender_clause}
             ORDER BY h.name ASC, r.room_number ASC
             """
@@ -235,7 +245,9 @@ def recommend() -> Any:
         student = fetch_student(conn, student_id)
         if not student:
             return jsonify({"ok": False, "error": "student_not_found"}), 404
-        rooms = fetch_candidate_rooms(conn, str(student["gender"]).lower())
+        gender = str(student.get("gender") or "male").strip().lower()
+        student["gender"] = gender
+        rooms = fetch_candidate_rooms(conn, gender)
         ranked = score_rooms(student, rooms, conn)
     finally:
         conn.close()

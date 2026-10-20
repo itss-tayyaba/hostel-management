@@ -30,6 +30,38 @@ function smart_allocation_tables_ready(PDO $pdo): bool
     }
 }
 
+/**
+ * Runtime-safe column check for progressive migrations.
+ * Prevents SQL errors when optional ML/rule columns are not present yet.
+ */
+function smart_allocation_students_has_column(PDO $pdo, string $column): bool
+{
+    static $cache = [];
+    $key = strtolower(trim($column));
+    if ($key === '') {
+        return false;
+    }
+    if (array_key_exists($key, $cache)) {
+        return (bool)$cache[$key];
+    }
+    try {
+        $stmt = $pdo->prepare(
+            '
+            SELECT COUNT(*)
+            FROM information_schema.COLUMNS
+            WHERE TABLE_SCHEMA = DATABASE()
+              AND TABLE_NAME = \'students\'
+              AND COLUMN_NAME = :col
+        '
+        );
+        $stmt->execute([':col' => $key]);
+        $cache[$key] = ((int)$stmt->fetchColumn()) > 0;
+    } catch (Throwable $e) {
+        $cache[$key] = false;
+    }
+    return (bool)$cache[$key];
+}
+
 /** boys / girls hostel rules vs student.users.gender or students.gender fallback */
 function smart_allocation_hostel_matches_student_gender(string $hostelType, string $studentGender): bool
 {
@@ -49,23 +81,43 @@ function smart_allocation_hostel_matches_student_gender(string $hostelType, stri
 
 function smart_allocation_get_student_profile(PDO $pdo, int $studentId): ?array
 {
-    $stmt = $pdo->prepare(
-        "
+    $natCol = smart_allocation_students_has_column($pdo, 'nationality')
+        ? 's.nationality'
+        : "'pakistani'";
+    $degreeCol = smart_allocation_students_has_column($pdo, 'degree')
+        ? 's.degree'
+        : "CASE WHEN LOWER(s.department) LIKE '%mphil%' OR LOWER(s.department) LIKE '%phd%' THEN 'research' ELSE 'undergraduate' END";
+    $programCol = smart_allocation_students_has_column($pdo, 'program')
+        ? 's.program'
+        : 's.department';
+
+    $sql = "
         SELECT s.id AS student_id,
                s.reg_no,
                s.department,
+               {$programCol} AS program,
+               COALESCE(s.faculty, s.department, '') AS faculty,
                s.semester,
+               COALESCE(s.student_status, 'active') AS student_status,
+               COALESCE(s.expelled, 0) AS expelled,
+               COALESCE(s.graduated, 0) AS graduated,
+               COALESCE(s.hostel_ban, 0) AS hostel_ban,
+               COALESCE(s.cgpa, 0) AS cgpa,
+               COALESCE(s.special_needs, 0) AS special_needs,
+               COALESCE(s.distance_from_uaf_km, 0) AS distance_from_uaf_km,
                s.gender AS student_record_gender,
                s.room_preference,
                s.fee_status,
+               {$natCol} AS nationality,
+               {$degreeCol} AS degree,
                u.name,
                COALESCE(NULLIF(TRIM(u.gender), ''), NULLIF(TRIM(s.gender), ''), 'male') AS gender
         FROM students s
         INNER JOIN users u ON u.id = s.user_id
         WHERE s.id = :sid
         LIMIT 1
-    "
-    );
+    ";
+    $stmt = $pdo->prepare($sql);
     $stmt->execute([':sid' => $studentId]);
     $row = $stmt->fetch(PDO::FETCH_ASSOC);
     return $row ?: null;
@@ -175,7 +227,8 @@ function smart_allocation_assign_student_to_room(
         $roomStmt = $pdo->prepare(
             '
             SELECT r.id, r.hostel_id, r.capacity, r.occupied,
-                   r.room_number, r.room_type, h.type AS hostel_type
+                   r.room_number, r.room_type, h.type AS hostel_type,
+                   h.name AS hostel_name
             FROM rooms r
             INNER JOIN hostels h ON h.id = r.hostel_id
             WHERE r.id = :rid
@@ -233,7 +286,6 @@ function smart_allocation_assign_student_to_room(
         ]);
 
         smart_allocation_sync_room_occupied($pdo, $roomId);
-
         if ($ownsTransaction && $pdo->inTransaction()) {
             $pdo->commit();
         }
@@ -317,74 +369,7 @@ function smart_allocation_enqueue(PDO $pdo, int $studentId, ?int $hostelId, stri
  */
 function smart_allocation_process_waiting_fifo(PDO $pdo, ?int $adminUserId): array
 {
-    $failures = [];
-    $assigned = 0;
-
-    if (!smart_allocation_tables_ready($pdo)) {
-        return ['assigned' => 0, 'failures' => ['Migration missing']];
-    }
-
-    $stmt = $pdo->query(
-        '
-        SELECT id AS wait_id, student_id, hostel_id
-        FROM allocation_waiting_list
-        WHERE status = \'queued\'
-        ORDER BY priority DESC, requested_at ASC, id ASC
-    ');
-    /** @var list<array{wait_id:int,student_id:int,hostel_id:?int}> $queue */
-    $queue = array_map(static function (array $row): array {
-        return [
-            'wait_id' => (int)$row['wait_id'],
-            'student_id' => (int)$row['student_id'],
-            'hostel_id' => isset($row['hostel_id']) && $row['hostel_id'] !== null ? (int)$row['hostel_id'] : null,
-        ];
-    }, $stmt->fetchAll(PDO::FETCH_ASSOC) ?: []);
-
-    require_once __DIR__ . '/../services/recommendation_service.php';
-
-    foreach ($queue as $job) {
-        if (smart_allocation_student_is_assigned($pdo, $job['student_id'])) {
-            $x = $pdo->prepare(
-                '
-                UPDATE allocation_waiting_list SET status = \'assigned\', processed_at = CURRENT_TIMESTAMP WHERE id = :id
-            '
-            );
-            $x->execute([':id' => $job['wait_id']]);
-            continue;
-        }
-
-        $recs = hostel_recommend_rooms_with_reasons($pdo, $job['student_id']);
-
-        $picked = null;
-        foreach ($recs as $candidate) {
-            if ($job['hostel_id'] !== null && (int)$candidate['hostel_id'] !== $job['hostel_id']) {
-                continue;
-            }
-            if (smart_allocation_pick_free_bed($pdo, (int)$candidate['room_id']) !== null) {
-                $picked = $candidate;
-                break;
-            }
-        }
-
-        if ($picked === null) {
-            continue;
-        }
-
-        $assign = smart_allocation_assign_student_to_room($pdo, $job['student_id'], (int)$picked['room_id'], $adminUserId, 'Auto-assign from waiting list');
-        if ($assign['ok']) {
-            $assigned++;
-            $x = $pdo->prepare(
-                '
-                UPDATE allocation_waiting_list SET status = \'assigned\', processed_at = CURRENT_TIMESTAMP WHERE id = :id
-            '
-            );
-            $x->execute([':id' => $job['wait_id']]);
-        } else {
-            $failures[] = '#' . $job['student_id'] . ' — ' . $assign['message'];
-        }
-    }
-
-    return ['assigned' => $assigned, 'failures' => $failures];
+    return ['assigned' => 0, 'failures' => ['Room allocation module removed']];
 }
 
 /**
@@ -394,27 +379,7 @@ function smart_allocation_process_waiting_fifo(PDO $pdo, ?int $adminUserId): arr
  */
 function smart_allocation_try_auto_assign_best(PDO $pdo, int $studentId, ?int $adminUserId, ?string $notes): array
 {
-    require_once __DIR__ . '/../services/recommendation_service.php';
-
-    $profile = hostel_recommend_rooms_with_reasons($pdo, $studentId);
-
-    foreach ($profile as $candidate) {
-        if (smart_allocation_pick_free_bed($pdo, (int)$candidate['room_id']) === null) {
-            continue;
-        }
-        $out = smart_allocation_assign_student_to_room($pdo, $studentId, (int)$candidate['room_id'], $adminUserId, $notes ?? 'Smart auto-assign');
-        if ($out['ok']) {
-            return ['ok' => true, 'message' => $out['message'], 'room' => (string)$candidate['label']];
-        }
-        // Collision or drift — attempt the next ranked option instead of aborting the whole sweep.
-        continue;
-    }
-
-    return [
-        'ok' => false,
-        'message' => 'Hostel inventory is saturated — enqueue the applicant or add capacity.',
-        'room' => null,
-    ];
+    return ['ok' => false, 'message' => 'Room allocation module removed', 'room' => null];
 }
 
 /** Dashboard helper: vacant berths summed across hostel inventory */

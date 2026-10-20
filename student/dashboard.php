@@ -216,27 +216,32 @@ try {
         $stmtLastPayment->execute([':sid' => $sid]);
         $cards['payments']['last_payment'] = $stmtLastPayment->fetch();
 
-        $stmtAllocations = $pdo->prepare('
-            SELECT ra.id AS allocation_id,
-                   ra.status,
-                   ra.applied_at,
-                   ra.responded_at,
-                   h.name AS hostel_name,
-                   r.room_number
-            FROM room_allocation ra
-            JOIN rooms r ON ra.room_id = r.id
-            JOIN hostels h ON r.hostel_id = h.id
-            WHERE ra.student_id = :sid
-            ORDER BY ra.applied_at DESC
+        $studentNameForApp = (string)($student['name'] ?? '');
+        $stmtAllocations = $pdo->prepare(
+            '
+            SELECT sa.id AS application_id,
+                   sa.allocation_status AS status,
+                   sa.created_at AS applied_at,
+                   ua.allocated_at AS responded_at,
+                   ur.hostel_name,
+                   ur.id AS room_id,
+                   uw.position AS waitlist_position
+            FROM student_applications sa
+            LEFT JOIN uaf_allotments ua ON ua.student_application_id = sa.id
+            LEFT JOIN uaf_hostel_rooms ur ON ur.id = ua.room_id
+            LEFT JOIN uaf_waitlist uw ON uw.student_application_id = sa.id
+            WHERE sa.student_name = :student_name
+            ORDER BY sa.id DESC
             LIMIT 8
-        ');
-        $stmtAllocations->execute([':sid' => $sid]);
-        $allocationRows = $stmtAllocations->fetchAll();
+        '
+        );
+        $stmtAllocations->execute([':student_name' => $studentNameForApp]);
+        $allocationRows = $stmtAllocations->fetchAll(PDO::FETCH_ASSOC) ?: [];
 
         $stmtPendingApps = $pdo->prepare(
-            'SELECT COUNT(*) FROM room_allocation WHERE student_id = :sid AND status = "pending"'
+            'SELECT COUNT(*) FROM student_applications WHERE student_name = :student_name AND allocation_status = "pending"'
         );
-        $stmtPendingApps->execute([':sid' => $sid]);
+        $stmtPendingApps->execute([':student_name' => $studentNameForApp]);
         $pendingApplicationsCount = (int)$stmtPendingApps->fetchColumn();
 
         $weekKeys = [];
@@ -378,7 +383,9 @@ function dash_status_class(string $status): string
 {
     $status = strtolower($status);
     if ($status === 'pending') return 'dash-badge dash-badge-warning';
-    if ($status === 'approved') return 'dash-badge dash-badge-success';
+    if ($status === 'allocated' || $status === 'approved') return 'dash-badge dash-badge-success';
+    if ($status === 'waitlisted') return 'dash-badge' ;
+    if ($status === 'ineligible') return 'dash-badge dash-badge-danger';
     return 'dash-badge dash-badge-danger';
 }
 ?>
@@ -631,10 +638,29 @@ function dash_status_class(string $status): string
                     <?php foreach ($allocationRows as $r): ?>
                         <?php $status = (string)$r['status']; ?>
                         <tr>
-                            <td class="fw-bold"><?php echo e((string)$r['hostel_name']); ?></td>
-                            <td class="fw-semibold"><?php echo e((string)$r['room_number']); ?></td>
+                            <td class="fw-bold"><?php echo e((string)($r['hostel_name'] ?? '—')); ?></td>
+                            <td class="fw-semibold"><?php echo e((string)($r['room_id'] ?? '—')); ?></td>
                             <td class="small text-muted"><?php echo e((string)$r['applied_at']); ?></td>
-                            <td><span class="<?php echo e(dash_status_class($status)); ?>"><?php echo e($status); ?></span></td>
+                            <td>
+                                <?php if (strtolower($status) === 'allocated' || strtolower($status) === 'approved'): ?>
+                                    <span class="dash-badge dash-badge-success">Room Allocated</span>
+                                <?php elseif (strtolower($status) === 'pending'): ?>
+                                    <span class="dash-badge dash-badge-warning">Under Review</span>
+                                <?php elseif (strtolower($status) === 'waitlisted'): ?>
+                                    <span class="badge text-bg-warning">
+                                        Waitlisted — Position #<?php echo (int)($r['waitlist_position'] ?? 0); ?>
+                                    </span>
+                                <?php elseif (strtolower($status) === 'ineligible'): ?>
+                                    <div>
+                                        <span class="badge text-bg-danger">Ineligible</span>
+                                        <div class="small text-danger mt-1">
+                                            Please clear outstanding dues or verify UAF enrollment to be considered for allocation.
+                                        </div>
+                                    </div>
+                                <?php else: ?>
+                                    <span class="dash-badge dash-badge-danger"><?php echo e($status); ?></span>
+                                <?php endif; ?>
+                            </td>
                         </tr>
                     <?php endforeach; ?>
                 <?php endif; ?>

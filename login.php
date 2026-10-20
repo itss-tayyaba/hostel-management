@@ -136,7 +136,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
             <div class="col-12 col-md-5">
                 <div class="card shadow-sm border-0" style="border-radius:18px;">
                     <div class="card-body p-4">
-                        <h2 class="fw-bold mb-2" style="color:var(--dark);">Student / Warden / Admin Login</h2>
+                        <h2 class="fw-bold mb-2" style="color:var(--dark);">Login</h2>
                         <p class="text-muted mb-4" style="font-size:13px;">
                             Enter your email and password to access your hostel dashboard.
                         </p>
